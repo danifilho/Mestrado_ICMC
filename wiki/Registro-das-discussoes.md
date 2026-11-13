@@ -43,3 +43,7 @@ A pedido do pesquisador, a página Trabalhos relacionados foi substituída pela 
 ## 13 de novembro de 2026 — Definição de interação e adaptação metodológica
 
 Registrada a [revisão dirigida sobre o que conta como interação](O-que-conta-como-interacao.md), com exemplo didático, distinção entre componente, detecção e interpretação biológica, métodos dos trabalhos anteriores e proposta de visualização. Fontes e alcance da consulta estão na página. Não houve novo experimento; as escolhas metodológicas permanecem propostas para discussão.
+
+### 13/11/2026 — Esclarecimento sobre proximidade
+
+Acrescentadas à página O que conta como interação as definições de proximidade em Costanzo e Eble, a comparação empírica de medidas em Deshpande et al. (2013) e uma proposta explicitamente não validada de transferência para perfis de componentes de interação. Correção motivada pela observação do pesquisador de que a resposta anterior deixava a questão em aberto.
