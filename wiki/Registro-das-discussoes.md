@@ -39,3 +39,7 @@ Publicado o [texto de trabalhos relacionados](Trabalhos-relacionados.md) forneci
 ### 13 de novembro de 2026 — Substituição do texto de trabalhos relacionados
 
 A pedido do pesquisador, a página Trabalhos relacionados foi substituída pela nova versão fornecida, ampliada para incluir decomposição fANOVA, dependência entre variáveis, escala e epistasia global, modelos biofísicos, análise funcional e perfis de interações. Conteúdo e referências preservados, sem nova verificação bibliográfica. A versão anterior permanece no histórico.
+
+## 13 de novembro de 2026 — Definição de interação e adaptação metodológica
+
+Registrada a [revisão dirigida sobre o que conta como interação](O-que-conta-como-interacao.md), com exemplo didático, distinção entre componente, detecção e interpretação biológica, métodos dos trabalhos anteriores e proposta de visualização. Fontes e alcance da consulta estão na página. Não houve novo experimento; as escolhas metodológicas permanecem propostas para discussão.

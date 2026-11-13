@@ -7,3 +7,5 @@
 - [Discussões](Registro-das-discussoes.md)
 - [Política de documentação](Politica-de-documentacao.md)
 - [Trabalhos relacionados](Trabalhos-relacionados.md)
+
+- [O que conta como interação?](O-que-conta-como-interacao.md)

@@ -35,3 +35,5 @@ Novas conversas devem ser incorporadas explicitamente à Wiki; este registro nã
 ## Trabalhos relacionados
 
 - [Fundamentação e trabalhos relacionados](Trabalhos-relacionados.md) — texto incluído em 13/11/2026.
+
+- [O que conta como interação?](O-que-conta-como-interacao.md)
