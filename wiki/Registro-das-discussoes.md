@@ -27,3 +27,7 @@ A discussão de novidade e literatura não foi auditada nesta consolidação. Os
 ## 12 de novembro de 2026 — Padrão permanente de documentação
 
 O pesquisador solicitou páginas dedicadas, datas, detalhes relevantes e citação de fontes para as discussões do mestrado. Registrado na [política de documentação](Politica-de-documentacao.md) e em `AGENTS.md`. Fonte: instrução direta no chat de documentação dos pilotos. A publicação da Wiki não implica monitoramento automático de outros chats.
+
+## Foco atual — 12/11/2026
+
+[Geometria dos padrões de interação sob transformações](Foco-atual-geometria-das-interacoes.md): estudar a organização multidimensional e como ela muda sob transformações. A árvore é uma representação candidata, sem pressupor assinatura única ou identificação biológica. Decisão registrada a pedido do pesquisador; nenhum novo experimento foi executado neste registro.
