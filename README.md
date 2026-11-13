@@ -24,3 +24,7 @@ Os resultados são exploratórios: o perfil sem árvore superou a assinatura da 
 - `MANIFEST.sha256`: integridade dos arquivos deste pacote.
 
 Este pacote consolida artefatos existentes; não representa uma nova execução dos experimentos. Consulte a rastreabilidade para limites de verificação.
+
+## Foco atual — 12/11/2026
+
+[Geometria dos padrões de interação sob transformações](wiki/Foco-atual-geometria-das-interacoes.md): estudar a organização multidimensional e como ela muda sob transformações. A árvore é uma representação candidata, sem pressupor assinatura única ou identificação biológica. Decisão registrada a pedido do pesquisador; nenhum novo experimento foi executado neste registro.
