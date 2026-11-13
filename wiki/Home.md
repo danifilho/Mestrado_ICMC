@@ -23,3 +23,7 @@ Não interpretar reconhecimento de famílias simuladas como identificação de m
 Registrar data, fonte, pergunta, hipótese, desenho, evidências, conclusão, limitações e próximos passos. Separar propostas de testes executados; manter análises posteriores identificadas. Para cada resultado numérico, vincular o arquivo de evidência e o commit correspondente quando publicado.
 
 Novas conversas devem ser incorporadas explicitamente à Wiki; este registro não configura sincronização automática de chats.
+
+## Governança
+
+- [Política de documentação, fontes e datas](Politica-de-documentacao.md) — estabelecida em 12/11/2026.

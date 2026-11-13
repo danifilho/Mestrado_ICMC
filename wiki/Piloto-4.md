@@ -181,3 +181,11 @@ A execução curta foi usada para verificar funcionamento e tempo. O número de 
 
 ![previsao](../piloto4/resultados/previsao.png)
 
+
+## Fontes e histórico documental
+
+- Data indicada no relatório original: 12 de novembro de 2026. Consolidação documental: 12 de novembro de 2026, America/Sao_Paulo. Os experimentos não foram reexecutados nesta consolidação.
+- [Relatório original preservado](https://github.com/danifilho/Mestrado_ICMC/blob/dbd89c6f516b0aa63e0109357346f4edc0ed4b46/piloto4/RELATORIO_PILOTO_4.md).
+- [Código, protocolos e resultados do piloto 4 no commit original](https://github.com/danifilho/Mestrado_ICMC/tree/dbd89c6f516b0aa63e0109357346f4edc0ed4b46/piloto4).
+- [Conversa de origem: Análise crítica de interações](https://chatgpt.com/c/6ac42a67-ec4c-83e8-9771-b6819d1deeb9), acesso dependente da conta. Apenas o recorte retornado pela ferramenta foi consultado; o restante foi documentado pelos artefatos locais.
+- Esta página sintetiza o relatório original; as figuras e tabelas vinculadas constituem a evidência preservada. Não representa revisão independente de todas as conclusões.

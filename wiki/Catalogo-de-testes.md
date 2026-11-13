@@ -41,3 +41,7 @@ NMSE = MSE nas células de teste / variância da função verdadeira. Não é ac
 ## Pendências científicas
 
 Repetir com novas sementes; avaliar componentes quase nulos e empates; permitir interromper fusões; comparar topologia completa com perfis e grupos planos; ampliar competidores e otimização; estudar células faltantes e maior dimensão; validar em dados biológicos. Essas propostas não devem ser registradas como testes já realizados.
+
+## Fontes e data
+
+Consolidação em 12/11/2026. Cada linha remete aos arquivos dos [pilotos 3 e 4 no commit original](https://github.com/danifilho/Mestrado_ICMC/tree/dbd89c6f516b0aa63e0109357346f4edc0ed4b46). As interpretações foram extraídas dos relatórios preservados, com conferência de contagens e integridade descrita em [Reprodução](Reproducao-e-rastreabilidade.md).

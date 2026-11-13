@@ -23,3 +23,7 @@ A discussão de novidade e literatura não foi auditada nesta consolidação. Os
 - Evidências e commit:
 - Conclusão e limites:
 - Pendências:
+
+## 12 de novembro de 2026 — Padrão permanente de documentação
+
+O pesquisador solicitou páginas dedicadas, datas, detalhes relevantes e citação de fontes para as discussões do mestrado. Registrado na [política de documentação](Politica-de-documentacao.md) e em `AGENTS.md`. Fonte: instrução direta no chat de documentação dos pilotos. A publicação da Wiki não implica monitoramento automático de outros chats.
