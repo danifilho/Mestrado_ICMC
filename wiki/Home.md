@@ -27,3 +27,7 @@ Novas conversas devem ser incorporadas explicitamente à Wiki; este registro nã
 ## Governança
 
 - [Política de documentação, fontes e datas](Politica-de-documentacao.md) — estabelecida em 12/11/2026.
+
+## Foco atual — 12/11/2026
+
+[Geometria dos padrões de interação sob transformações](Foco-atual-geometria-das-interacoes.md): estudar a organização multidimensional e como ela muda sob transformações. A árvore é uma representação candidata, sem pressupor assinatura única ou identificação biológica. Decisão registrada a pedido do pesquisador; nenhum novo experimento foi executado neste registro.
