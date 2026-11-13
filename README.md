@@ -4,6 +4,8 @@ Documentação e arquivos dos pilotos 3 e 4 discutidos em **Análise crítica de
 
 ## Leitura
 
+Acesse a [Wiki do projeto](https://github.com/danifilho/Mestrado_ICMC/wiki).
+
 - [Índice da documentação](wiki/Home.md)
 - [Piloto 3 — relatório completo](piloto3/RELATORIO_PILOTO_3.md)
 - [Piloto 4 — relatório completo](piloto4/RELATORIO_PILOTO_4.md)
@@ -18,7 +20,7 @@ Os resultados são exploratórios: o perfil sem árvore superou a assinatura da 
 
 - `piloto3/`: código, relatório, logs, figuras, tabelas e matrizes originais.
 - `piloto4/`: execução principal, auditoria, análise posterior de otimização e figuras.
-- `wiki/`: páginas Markdown navegáveis; a Wiki nativa não pôde ser habilitada.
+- `wiki/`: cópia Markdown navegável das páginas da Wiki.
 - `MANIFEST.sha256`: integridade dos arquivos deste pacote.
 
 Este pacote consolida artefatos existentes; não representa uma nova execução dos experimentos. Consulte a rastreabilidade para limites de verificação.

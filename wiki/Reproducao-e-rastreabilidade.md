@@ -34,8 +34,8 @@ O arquivo MANIFEST.sha256 permite verificar integridade dos artefatos. Relatóri
 
 ## Publicação
 
-Destino: [danifilho/Mestrado_ICMC](https://github.com/danifilho/Mestrado_ICMC), privado.
+Destino: [danifilho/Mestrado_ICMC](https://github.com/danifilho/Mestrado_ICMC).
 
-A tentativa de ativar a Wiki nativa retornou `has_wiki=false`. Por isso estas páginas são mantidas na pasta `wiki/`, com navegação Markdown. A [documentação do GitHub](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) informa que Wikis privadas dependem de plano compatível. A causa específica da restrição na conta não foi informada pela API.
+O repositório foi criado privado. O usuário alterou sua visibilidade para público para habilitar a Wiki nativa. Os artefatos experimentais estão no repositório principal; a documentação é mantida também na [Wiki](https://github.com/danifilho/Mestrado_ICMC/wiki).
 
-As páginas podem ser migradas para o repositório separado `.wiki.git` quando a Wiki nativa estiver disponível. Nenhuma alteração de plano ou de privacidade foi feita.
+A pasta `wiki/` preserva uma cópia navegável das páginas. A Wiki nativa usa um repositório Git separado, `.wiki.git`. Futuras alterações devem manter ambas as cópias consistentes.
