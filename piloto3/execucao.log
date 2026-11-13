@@ -1,0 +1,48 @@
+Verificações: reconstrução fANOVA, aditividade, par puro, curva global, custos, renomeação: OK
+Gerado treino, família 0, 0.6s
+Gerado treino, família 1, 1.2s
+Gerado treino, família 2, 1.8s
+Gerado treino, família 3, 2.4s
+Gerado treino, família 4, 3.0s
+Gerado teste, família 0, 3.4s
+Gerado teste, família 1, 3.8s
+Gerado teste, família 2, 4.2s
+Gerado teste, família 3, 4.5s
+Gerado teste, família 4, 4.9s
+Gerado shift, família 0, 5.3s
+Gerado shift, família 1, 5.7s
+Gerado shift, família 2, 6.1s
+Gerado shift, família 3, 6.5s
+Gerado shift, família 4, 6.9s
+Classificação exato concluída 8.3s
+Classificação binomial1000 concluída 9.6s
+       ruido regime           assinatura  acuracia   ic_inf   ic_sup   n  dimensao
+       exato  teste             momentos     0.550 0.480000 0.620000 200         9
+       exato  shift             momentos     0.170 0.120000 0.220000 200         9
+       exato  teste       presenca_pares     0.295 0.230000 0.360000 200         6
+       exato  shift       presenca_pares     0.230 0.170000 0.285125 200         6
+       exato  teste         fanova_bruta     0.995 0.985000 1.000000 200        15
+       exato  shift         fanova_bruta     0.725 0.660000 0.790000 200        15
+       exato  teste    perfil_sem_arvore     1.000 1.000000 1.000000 200        77
+       exato  shift    perfil_sem_arvore     0.975 0.950000 0.995000 200        77
+       exato  teste               arvore     0.980 0.960000 0.995000 200       130
+       exato  shift               arvore     0.935 0.900000 0.965000 200       130
+       exato  teste   perfil_mais_arvore     0.990 0.975000 1.000000 200       207
+       exato  shift   perfil_mais_arvore     0.975 0.950000 0.995000 200       207
+       exato  teste controle_mais_arvore     0.985 0.965000 1.000000 200       154
+       exato  shift controle_mais_arvore     0.955 0.924875 0.980000 200       154
+binomial1000  teste             momentos     0.560 0.485000 0.625000 200         9
+binomial1000  shift             momentos     0.170 0.120000 0.220000 200         9
+binomial1000  teste       presenca_pares     0.210 0.155000 0.270000 200         6
+binomial1000  shift       presenca_pares     0.225 0.165000 0.285125 200         6
+binomial1000  teste         fanova_bruta     0.995 0.985000 1.000000 200        15
+binomial1000  shift         fanova_bruta     0.740 0.675000 0.805000 200        15
+binomial1000  teste    perfil_sem_arvore     1.000 1.000000 1.000000 200        77
+binomial1000  shift    perfil_sem_arvore     0.975 0.955000 0.995000 200        77
+binomial1000  teste               arvore     0.990 0.975000 1.000000 200       130
+binomial1000  shift               arvore     0.905 0.860000 0.940000 200       130
+binomial1000  teste   perfil_mais_arvore     0.990 0.975000 1.000000 200       207
+binomial1000  shift   perfil_mais_arvore     0.930 0.895000 0.965000 200       207
+binomial1000  teste controle_mais_arvore     0.990 0.975000 1.000000 200       154
+binomial1000  shift controle_mais_arvore     0.930 0.895000 0.960000 200       154
+Negativo 0.20350000000000001 tempo 17.301227807998657

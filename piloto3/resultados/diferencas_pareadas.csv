@@ -1,0 +1,17 @@
+ruido,regime,A,B,diferenca,ic_inf,ic_sup
+exato,teste,arvore,fanova_bruta,-0.015,-0.04,0.005
+exato,teste,arvore,perfil_sem_arvore,-0.02,-0.04,-0.005
+exato,teste,perfil_mais_arvore,perfil_sem_arvore,-0.01,-0.025,0.0
+exato,teste,controle_mais_arvore,momentos,0.435,0.37,0.5
+exato,shift,arvore,fanova_bruta,0.21,0.145,0.2751249999999999
+exato,shift,arvore,perfil_sem_arvore,-0.04,-0.08,0.0
+exato,shift,perfil_mais_arvore,perfil_sem_arvore,0.0,-0.03,0.030124999999999885
+exato,shift,controle_mais_arvore,momentos,0.785,0.73,0.84
+binomial1000,teste,arvore,fanova_bruta,-0.005,-0.02,0.01
+binomial1000,teste,arvore,perfil_sem_arvore,-0.01,-0.025,0.0
+binomial1000,teste,perfil_mais_arvore,perfil_sem_arvore,-0.01,-0.025,0.0
+binomial1000,teste,controle_mais_arvore,momentos,0.43,0.365,0.49512499999999987
+binomial1000,shift,arvore,fanova_bruta,0.165,0.085,0.245
+binomial1000,shift,arvore,perfil_sem_arvore,-0.07,-0.115,-0.025
+binomial1000,shift,perfil_mais_arvore,perfil_sem_arvore,-0.045,-0.085,-0.01
+binomial1000,shift,controle_mais_arvore,momentos,0.76,0.7,0.82

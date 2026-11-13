@@ -1,0 +1,12 @@
+{
+  "post_hoc": true,
+  "motivo": "erro sem ruido no modelo livre bem especificado; investigar otimizacao",
+  "starts": 10,
+  "max_nfev": 500,
+  "ntrain": 250,
+  "noise": [
+    0,
+    0.15
+  ],
+  "observation": 0
+}

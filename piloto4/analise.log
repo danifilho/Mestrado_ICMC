@@ -1,0 +1,129 @@
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/numpy/lib/_nanfunctions_impl.py:1214: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+PRINCIPAL, 250 células
+          family  noise  ntrain  n  seeds  recovery  non_tree_selected  ambiguous  nmse_tree_mean  nmse_tree_median  nmse_flat_mean  nmse_flat_median  nmse_free_mean  nmse_free_median  nmse_extra_mean  nmse_extra_median  nmse_oracle_mean  nmse_oracle_median  nmse_wrong_mean  nmse_wrong_median
+         aditivo   0.00     250  8      8       NaN           0.000000   0.000000    4.856136e-31      3.225160e-31    4.856136e-31      3.225160e-31    5.941281e-18      3.972940e-29         0.058389           0.055466      4.856136e-31        3.225160e-31              NaN                NaN
+         aditivo   0.05     250 24      8       NaN           0.000000   0.916667    5.252805e-05      4.064567e-05    5.252805e-05      4.064567e-05    3.128718e-04      2.918794e-04         0.057404           0.056405      5.252805e-05        4.064567e-05              NaN                NaN
+         aditivo   0.15     250 24      8       NaN           0.000000   1.000000    4.462936e-04      3.658110e-04    4.462936e-04      3.658110e-04    2.898788e-03      3.114270e-03         0.059669           0.058602      4.462936e-04        3.658110e-04              NaN                NaN
+        aninhado   0.00     250  8      8  1.000000           0.000000   0.000000    6.655755e-26      1.360183e-32    1.999490e-02      1.752590e-02    1.902171e-03      1.689389e-03         0.059712           0.059696      6.655755e-26        1.360183e-32         0.010977           0.009739
+        aninhado   0.05     250 24      8  1.000000           0.000000   0.000000    9.058728e-05      8.663007e-05    2.011328e-02      1.761123e-02    4.391081e-03      1.891223e-03         0.060469           0.058674      9.058728e-05        8.663007e-05         0.010692           0.009480
+        aninhado   0.15     250 24      8  0.958333           0.000000   0.125000    9.838499e-04      8.152729e-04    2.205945e-02      1.710011e-02    1.096616e-02      5.190183e-03         0.062934           0.061322      8.761633e-04        8.152729e-04         0.010956           0.010312
+curva_fora_banco   0.00     250  8      8       NaN           0.750000   0.000000    2.135063e-04      2.125785e-04    2.135063e-04      2.125785e-04    6.788522e-03      6.118340e-06         0.050872           0.048836      2.135063e-04        2.125785e-04              NaN                NaN
+curva_fora_banco   0.05     250 24      8       NaN           0.041667   0.000000    2.992950e-04      2.977926e-04    2.992950e-04      2.977926e-04    5.445649e-03      2.659506e-04         0.051142           0.048081      2.992950e-04        2.977926e-04              NaN                NaN
+curva_fora_banco   0.15     250 24      8       NaN           0.000000   0.000000    1.155781e-03      9.596544e-04    1.155781e-03      9.596544e-04    8.963126e-03      2.356618e-03         0.053508           0.052481      1.155781e-03        9.596544e-04              NaN                NaN
+    curva_global   0.00     250  8      8       NaN           0.000000   0.000000    1.045198e-28      1.610735e-32    1.045198e-28      1.610735e-32    7.230722e-17      4.426198e-23         0.094637           0.093592      1.045198e-28        1.610735e-32              NaN                NaN
+    curva_global   0.05     250 24      8       NaN           0.000000   0.000000    7.618094e-05      6.629633e-05    7.618094e-05      6.629633e-05    3.625463e-03      2.347041e-04         0.096430           0.096496      7.618094e-05        6.629633e-05              NaN                NaN
+    curva_global   0.15     250 24      8       NaN           0.000000   0.000000    6.902996e-04      6.100526e-04    6.902996e-04      6.100526e-04    1.166612e-02      2.084099e-03         0.100981           0.100293      6.902996e-04        6.100526e-04              NaN                NaN
+         modulos   0.00     250  8      8  1.000000           0.000000   0.000000    3.042280e-31      2.184081e-32    3.042280e-31      2.184081e-32    2.568233e-03      7.321976e-24         0.051761           0.051958      3.042280e-31        2.184081e-32         0.055031           0.043726
+         modulos   0.05     250 24      8  1.000000           0.000000   0.000000    9.927991e-05      8.777067e-05    9.927991e-05      8.777067e-05    5.448220e-03      2.213878e-04         0.051107           0.050557      9.927991e-05        8.777067e-05         0.054874           0.043633
+         modulos   0.15     250 24      8  1.000000           0.000000   0.000000    9.429634e-04      9.255372e-04    9.429634e-04      9.255372e-04    7.690535e-03      2.165070e-03         0.054664           0.055101      9.429634e-04        9.255372e-04         0.055622           0.044886
+      sobreposto   0.00     250  8      8       NaN           1.000000   0.875000    5.360356e-02      3.082732e-02    5.582588e-02      4.038596e-02    2.530956e-03      8.370106e-28         0.056897           0.054519               NaN                 NaN              NaN                NaN
+      sobreposto   0.05     250 24      8       NaN           1.000000   0.875000    5.395704e-02      3.083123e-02    5.816746e-02      4.028128e-02    1.242812e-02      2.565485e-04         0.057293           0.056970               NaN                 NaN              NaN                NaN
+      sobreposto   0.15     250 24      8       NaN           0.916667   0.958333    5.466353e-02      3.127112e-02    5.887566e-02      4.223309e-02    1.101367e-02      2.587204e-03         0.062391           0.057254               NaN                 NaN              NaN                NaN
+Convergência todos: 0.8152412280701754 selecionados: 1.0
+ESTABILIDADE EXPRESSÕES
+                                agreement   jaccard
+family           noise ntrain                     
+aditivo          0.05  100      1.000000  1.000000
+                       250      1.000000  1.000000
+                 0.15  100      1.000000  1.000000
+                       250      1.000000  1.000000
+aninhado         0.05  100      1.000000  1.000000
+                       250      1.000000  1.000000
+                 0.15  100      0.916667  0.944444
+                       250      0.916667  0.944444
+curva_fora_banco 0.05  100      1.000000  1.000000
+                       250      1.000000  1.000000
+                 0.15  100      1.000000  1.000000
+                       250      1.000000  1.000000
+curva_global     0.05  100      1.000000  1.000000
+                       250      1.000000  1.000000
+                 0.15  100      1.000000  1.000000
+                       250      1.000000  1.000000
+modulos          0.05  100      1.000000  1.000000
+                       250      1.000000  1.000000
+                 0.15  100      1.000000  1.000000
+                       250      1.000000  1.000000
+sobreposto       0.05  100      0.833333  0.916667
+                       250      0.916667  1.000000
+                 0.15  100      0.708333  0.833333
+                       250      0.916667  1.000000
+AUDITORIA
+                          rf_vs_exact  zero_regret_nodes  triple_clade_hit
+family           trials                                                  
+aditivo          0          0.000000           10.00000               NaN
+                 200        0.868056            7.59375               NaN
+                 1000       0.725694            8.15625               NaN
+aninhado         0          0.000000            8.37500            0.2500
+                 200        0.788194            6.37500            0.0000
+                 1000       0.680556            7.03125            0.1875
+curva_fora_banco 0          0.000000            9.62500               NaN
+                 200        0.802083            7.18750               NaN
+                 1000       0.638889            8.21875               NaN
+curva_global     0          0.000000            8.87500               NaN
+                 200        0.833333            6.96875               NaN
+                 1000       0.552083            8.21875               NaN
+modulos          0          0.000000            9.37500               NaN
+                 200        0.812500            6.96875               NaN
+                 1000       0.763889            7.59375               NaN
+sobreposto       0          0.000000            8.12500               NaN
+                 200        0.812500            6.96875               NaN
+                 1000       0.607639            7.40625               NaN

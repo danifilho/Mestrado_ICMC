@@ -1,0 +1,5 @@
+{
+  "arvores_equivalentes": 15,
+  "erro_maximo": 2.220446049250313e-16,
+  "explicacao": "Uma curva global de uma soma admite 15 árvores binárias de somas com a mesma resposta. Isso não prova equivalência de mecanismos celulares, mas impede identificar agrupamentos latentes dessas descrições pela resposta."
+}

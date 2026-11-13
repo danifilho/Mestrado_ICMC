@@ -1,0 +1,43 @@
+{
+  "seed": 20261112,
+  "n_por_familia_treino": 60,
+  "n_por_familia_teste": 40,
+  "n_por_familia_shift": 40,
+  "grid": [
+    -1,
+    -0.5,
+    0,
+    0.5,
+    1
+  ],
+  "familias": [
+    "indice_unico",
+    "modulos_exclusivos",
+    "tracos_compartilhados",
+    "par_especifico",
+    "interacoes_distribuidas"
+  ],
+  "curvas_observacao": [
+    "logistica",
+    "probit"
+  ],
+  "ruido": [
+    "exato",
+    "binomial1000"
+  ],
+  "transformacoes": [
+    "identidade",
+    "log",
+    "raiz",
+    "quadrado",
+    "inverso_negativo",
+    "logit",
+    "probit"
+  ],
+  "limiar_presenca": 0.0001,
+  "classificador": "ExtraTrees 250 arvores max_depth=8 min_samples_leaf=3 max_features=1.0",
+  "shift": "ganho final 2.0–2.6 versus 0.8–1.5; mecanismos e familias iguais",
+  "bootstrap": 1000,
+  "permutacoes_rotulos": 20,
+  "arvore": "folhas=11 componentes de ordem >=2; fusao com menor arrependimento de uma transformacao comum; desempate por perfil e indices canonicos"
+}

@@ -1,0 +1,24 @@
+{
+  "seed": 20261113,
+  "geradores_por_familia": 8,
+  "niveis": 5,
+  "treinos": [
+    100,
+    250
+  ],
+  "validacao": 125,
+  "teste": 125,
+  "ruido": [
+    0,
+    0.05,
+    0.15
+  ],
+  "replicas_ruidosas": 3,
+  "starts": 2,
+  "max_nfev": 100,
+  "criterio": "menor numero parametros dentro de 1 erro padrao da melhor MSE de validacao; empates por MSE",
+  "familia_curvas": "identidade e tanh; arctan somente nos geradores fora do banco",
+  "dominio": "fatorial completo 4 variaveis; teste retido por celulas inteiras",
+  "tipos_arvore": "17 modelos de expressao: aditivo, curva global, 3 particoes equilibradas, 12 hierarquias aninhadas",
+  "adicionais": "modelo de 2 indices compartilhados; ExtraTrees; oraculos estruturais e topologia incorreta"
+}
