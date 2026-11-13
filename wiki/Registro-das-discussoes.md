@@ -35,3 +35,7 @@ O pesquisador solicitou páginas dedicadas, datas, detalhes relevantes e citaç�
 ## 13 de novembro de 2026 — Trabalhos relacionados
 
 Publicado o [texto de trabalhos relacionados](Trabalhos-relacionados.md) fornecido pelo pesquisador, com as cinco referências bibliográficas e a formulação do objeto da investigação. Conteúdo preservado; não houve nova verificação bibliográfica nesta atualização.
+
+### 13 de novembro de 2026 — Substituição do texto de trabalhos relacionados
+
+A pedido do pesquisador, a página Trabalhos relacionados foi substituída pela nova versão fornecida, ampliada para incluir decomposição fANOVA, dependência entre variáveis, escala e epistasia global, modelos biofísicos, análise funcional e perfis de interações. Conteúdo e referências preservados, sem nova verificação bibliográfica. A versão anterior permanece no histórico.
