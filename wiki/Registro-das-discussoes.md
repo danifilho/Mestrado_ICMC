@@ -31,3 +31,7 @@ O pesquisador solicitou páginas dedicadas, datas, detalhes relevantes e citaç�
 ## Foco atual — 12/11/2026
 
 [Geometria dos padrões de interação sob transformações](Foco-atual-geometria-das-interacoes.md): estudar a organização multidimensional e como ela muda sob transformações. A árvore é uma representação candidata, sem pressupor assinatura única ou identificação biológica. Decisão registrada a pedido do pesquisador; nenhum novo experimento foi executado neste registro.
+
+## 13 de novembro de 2026 — Trabalhos relacionados
+
+Publicado o [texto de trabalhos relacionados](Trabalhos-relacionados.md) fornecido pelo pesquisador, com as cinco referências bibliográficas e a formulação do objeto da investigação. Conteúdo preservado; não houve nova verificação bibliográfica nesta atualização.
