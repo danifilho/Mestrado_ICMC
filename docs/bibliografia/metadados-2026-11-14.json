@@ -1,0 +1,165 @@
+{
+  "data_consulta": "2026-11-14",
+  "base": "OpenAlex API",
+  "artigos": [
+    {
+      "id": "https://openalex.org/W2009940349",
+      "title": "Vines and vineyards by updating persistence in linear time",
+      "doi": "https://doi.org/10.1145/1137856.1137877",
+      "citations": 267,
+      "venue": "Annual Symposium on Computational Geometry (SoCG)",
+      "query": "10.1145/1137856.1137877",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1145/1137856.1137877"
+    },
+    {
+      "id": "https://openalex.org/W2522417827",
+      "title": "A global genetic interaction network maps a wiring diagram of cellular function",
+      "doi": "https://doi.org/10.1126/science.aaf1420",
+      "citations": 1263,
+      "venue": "Science",
+      "query": "10.1126/science.aaf1420",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1126/science.aaf1420"
+    },
+    {
+      "id": "https://openalex.org/W2890403665",
+      "title": "Cluster partitions and fitness landscapes of the Drosophila fly microbiome",
+      "doi": "https://doi.org/10.1007/s00285-019-01381-0",
+      "citations": 10,
+      "venue": "Journal of Mathematical Biology",
+      "query": "10.1007/s00285-019-01381-0",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1007/s00285-019-01381-0",
+      "note": "Springer mostra 12; catálogo padronizado pelo OpenAlex: 10. Bases possuem cobertura diferente."
+    },
+    {
+      "id": "https://openalex.org/W4389723505",
+      "title": "Master regulators of biological systems in higher dimensions",
+      "doi": "https://doi.org/10.1073/pnas.2300634120",
+      "citations": 15,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "query": "10.1073/pnas.2300634120",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1073/pnas.2300634120"
+    },
+    {
+      "id": "https://openalex.org/W2088286197",
+      "title": "Generalized Functional ANOVA Diagnostics for High-Dimensional Functions of Dependent Variables",
+      "doi": "https://doi.org/10.1198/106186007x237892",
+      "citations": 241,
+      "venue": "Journal of Computational and Graphical Statistics",
+      "query": "10.1198/106186007X237892",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1198/106186007X237892"
+    },
+    {
+      "id": "https://openalex.org/W2191641151",
+      "title": "Functional Data Analysis of Amplitude and Phase Variation",
+      "doi": "https://doi.org/10.1214/15-sts524",
+      "citations": 191,
+      "venue": "Statistical Science",
+      "query": "10.1214/15-STS524",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1214/15-STS524"
+    },
+    {
+      "id": "https://openalex.org/W2795578759",
+      "title": "Biophysical Inference of Epistasis and the Effects of Mutations on Protein Stability and Function",
+      "doi": "https://doi.org/10.1093/molbev/msy141",
+      "citations": 98,
+      "venue": "Molecular Biology and Evolution",
+      "query": "10.1093/molbev/msy141",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1093/molbev/msy141"
+    },
+    {
+      "id": "https://openalex.org/W2790509526",
+      "title": "Inferring the shape of global epistasis",
+      "doi": "https://doi.org/10.1073/pnas.1804015115",
+      "citations": 258,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "query": "10.1073/pnas.1804015115",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1073/pnas.1804015115"
+    },
+    {
+      "id": "https://openalex.org/W2951905689",
+      "title": "Detecting High-Order Epistasis in Nonlinear Genotype-Phenotype Maps",
+      "doi": "https://doi.org/10.1534/genetics.116.195214",
+      "citations": 157,
+      "venue": "Genetics",
+      "query": "10.1534/genetics.116.195214",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1534/genetics.116.195214"
+    },
+    {
+      "id": "https://openalex.org/W2094593900",
+      "title": "Comparison of Profile Similarity Measures for Genetic Interaction Networks",
+      "doi": "https://doi.org/10.1371/journal.pone.0068664",
+      "citations": 41,
+      "venue": "PLoS ONE",
+      "query": "10.1371/journal.pone.0068664",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1371/journal.pone.0068664"
+    },
+    {
+      "id": "https://openalex.org/W2006554089",
+      "title": "Geometric diffusions as a tool for harmonic analysis and structure definition of data: Diffusion maps",
+      "doi": "https://doi.org/10.1073/pnas.0500334102",
+      "citations": 1684,
+      "venue": "Proceedings of the National Academy of Sciences",
+      "query": "10.1073/pnas.0500334102",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1073/pnas.0500334102",
+      "note": "Página indexada consultada antes mostrava 1764; API consultada nesta atualização retornou 1684. Preservado o valor da API, sem inferir perda real de citações."
+    },
+    {
+      "id": "https://openalex.org/W4210770595",
+      "title": "Diffusion wavelets",
+      "doi": "https://doi.org/10.1016/j.acha.2006.04.004",
+      "citations": 504,
+      "venue": "Applied and Computational Harmonic Analysis",
+      "query": "10.1016/j.acha.2006.04.004",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1016/j.acha.2006.04.004"
+    },
+    {
+      "id": "https://openalex.org/W4214544930",
+      "title": "Multiscale PHATE identifies multimodal signatures of COVID-19",
+      "doi": "https://doi.org/10.1038/s41587-021-01186-x",
+      "citations": 77,
+      "venue": "Nature Biotechnology",
+      "query": "10.1038/s41587-021-01186-x",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1038/s41587-021-01186-x",
+      "note": "OpenAlex conserva título anterior; título publicado confirmado na Nature Biotechnology pelo DOI."
+    },
+    {
+      "id": "https://openalex.org/W2073171022",
+      "title": "Should evolutionary geneticists worry about higher-order epistasis?",
+      "doi": "https://doi.org/10.1016/j.gde.2013.10.007",
+      "citations": 292,
+      "venue": "Current Opinion in Genetics & Development",
+      "query": "10.1016/j.gde.2013.10.007",
+      "source": "https://api.openalex.org/works/https://doi.org/10.1016/j.gde.2013.10.007"
+    },
+    {
+      "id": "https://openalex.org/W2159474073",
+      "title": "Epistasis and shapes of fitness landscapes",
+      "doi": null,
+      "citations": 52,
+      "venue": "Statistica Sinica (2007)",
+      "query": "Epistasis and shapes of fitness landscapes",
+      "source": "https://api.openalex.org/works?search=Epistasis%20and%20shapes%20of%20fitness%20landscapes&per-page=3",
+      "note": "52 no registro do preprint de 2006; contagem da versão da revista não confirmada. DOI da versão publicada não localizado; não substituir pelo DOI arXiv."
+    },
+    {
+      "id": "https://openalex.org/W2165879774",
+      "title": "Characterization, Stability and Convergence of Hierarchical Clustering Methods",
+      "doi": null,
+      "citations": 235,
+      "venue": "Journal of Machine Learning Research",
+      "query": "Characterization stability and convergence of hierarchical clustering methods",
+      "source": "https://api.openalex.org/works?search=Characterization%20stability%20and%20convergence%20of%20hierarchical%20clustering%20methods&per-page=3",
+      "note": "235 neste registro; outro registro, W2999484166, tem 123 e identificador 10.5555/1756006.1859898. Não somar: há possível duplicação bibliográfica. DOI editorial não confirmado."
+    },
+    {
+      "id": "https://openalex.org/W3037201993",
+      "title": "Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models",
+      "doi": null,
+      "citations": 17,
+      "venue": "AISTATS / Proceedings of Machine Learning Research, v. 108",
+      "query": "Purifying interaction effects with the functional ANOVA",
+      "source": "https://api.openalex.org/works?search=Purifying%20interaction%20effects%20with%20the%20functional%20ANOVA&per-page=3",
+      "note": "17 no registro indexado como preprint; contagem separada da publicação PMLR não confirmada. DOI editorial não localizado."
+    }
+  ]
+}
