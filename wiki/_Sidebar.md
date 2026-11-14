@@ -9,3 +9,6 @@
 - [Trabalhos relacionados](Trabalhos-relacionados.md)
 
 - [O que conta como interação?](O-que-conta-como-interacao.md)
+
+- [Catálogo bibliográfico: revistas, DOI e citações](Catalogo-bibliografico.md)
+- [Geometria, difusão e epistasia de ordem superior — 14/11/2026](Geometria-difusao-e-epistasia-superior.md)
