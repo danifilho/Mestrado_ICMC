@@ -107,3 +107,7 @@ Exemplo inventado: perfis (−2, 0, 2) e (−4, 0, 4) têm correlação 1, embor
 Síntese: a literatura oferece pelo menos proximidade por comportamento relacional e proximidade por continuidade geométrica local. Nossa definição pode se apoiar nelas. A afirmação biológica depende de validação além da própria regra usada para aproximar os objetos.
 
 Alcance da consulta adicional: suplemento oficial de Costanzo; trechos indexados do texto de Eble; resumo, resultados e métodos recuperados do artigo primário de Deshpande et al. Algumas aberturas diretas do PMC retornaram verificação de navegador; os trechos do texto foram recuperados pela busca. Não houve experimento novo.
+
+## Atualização bibliográfica — 14/11/2026
+
+Revistas, DOI e citações dos trabalhos citados, incluindo Deshpande et al. (2013), estão no [catálogo bibliográfico](Catalogo-bibliografico.md). A discussão de Walsh, ordens superiores e limites da marginalização foi acrescentada em [Geometria, difusão e epistasia superior](Geometria-difusao-e-epistasia-superior.md).
