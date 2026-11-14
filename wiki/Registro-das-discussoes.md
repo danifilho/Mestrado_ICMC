@@ -47,3 +47,7 @@ Registrada a [revisão dirigida sobre o que conta como interação](O-que-conta-
 ### 13/11/2026 — Esclarecimento sobre proximidade
 
 Acrescentadas à página O que conta como interação as definições de proximidade em Costanzo e Eble, a comparação empírica de medidas em Deshpande et al. (2013) e uma proposta explicitamente não validada de transferência para perfis de componentes de interação. Correção motivada pela observação do pesquisador de que a resposta anterior deixava a questão em aberto.
+
+## 14/11/2026 — Literatura fundacional e catálogo bibliográfico
+
+Registrada a discussão de geometria por difusão, representações hierárquicas e epistasia de ordem superior em [página dedicada](Geometria-difusao-e-epistasia-superior.md). Criado [catálogo de 17 artigos](Catalogo-bibliografico.md) com veículo, DOI, contagem OpenAlex, versão e ressalvas. Metadados conferidos via API; isso não equivale à leitura integral de todos os textos. Otwinowski já estava registrado. Não foram executados testes.
