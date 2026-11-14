@@ -28,6 +28,10 @@ A articulação desses trabalhos permite distinguir a geometria de uma configura
 
 Com base nesses antecedentes, propõe-se investigar **que geometria o conjunto de interações de um único dataset apresenta, como essa geometria se deforma sob transformações da resposta e quais relações entre formas e deformações caracterizam diferentes organizações das interações**. A construção considerará as interações como objetos espaciais definidos por propriedades comparáveis de seus efeitos, enquanto árvores e hierarquias serão investigadas como estruturas capazes de definir ou aproximar suas relações de proximidade. O acompanhamento dessas configurações ao longo de transformações permitirá estudar tanto a deformação da forma coletiva quanto a geometria das trajetórias de seus componentes. A hipótese é que certas organizações geradoras produzam regularidades nas formas e em seus padrões de deformação, sem pressupor que essas regularidades sejam únicas ou suficientes para identificar mecanismos. Desse modo, **a geometria e suas mudanças permanecem como objetos centrais da pesquisa**, e sua estabilidade, sua representação hierárquica e sua correspondência com propriedades matemáticas ou biológicas constituem questões a serem demonstradas.
 
+## Complemento bibliográfico — 14/11/2026
+
+A discussão sobre Coifman (2005), Diffusion wavelets (2006), Multiscale PHATE (2022) e Weinreich et al. (2013), com seus limites e relação com Otwinowski (2018), foi registrada em [página dedicada](Geometria-difusao-e-epistasia-superior.md). Todos os trabalhos desta página possuem veículo, DOI ou pendência explícita, contagem, versão e fonte no [catálogo bibliográfico](Catalogo-bibliografico.md). O texto anterior foi preservado.
+
 ## Referências
 
 BEERENWINKEL, Niko; PACHTER, Lior; STURMFELS, Bernd. Epistasis and shapes of fitness landscapes. **Statistica Sinica**, v. 17, n. 4, p. 1317–1342, 2007. Disponível em: https://www3.stat.sinica.edu.tw/statistica/oldpdf/A17n43.pdf. Acesso em: 13 nov. 2026.
