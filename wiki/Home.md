@@ -37,3 +37,6 @@ Novas conversas devem ser incorporadas explicitamente à Wiki; este registro nã
 - [Fundamentação e trabalhos relacionados](Trabalhos-relacionados.md) — texto incluído em 13/11/2026.
 
 - [O que conta como interação?](O-que-conta-como-interacao.md)
+
+- [Catálogo bibliográfico: revistas, DOI e citações](Catalogo-bibliografico.md)
+- [Geometria, difusão e epistasia de ordem superior — 14/11/2026](Geometria-difusao-e-epistasia-superior.md)
