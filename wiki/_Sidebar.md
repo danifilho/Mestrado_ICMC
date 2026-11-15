@@ -12,3 +12,5 @@
 
 - [Catálogo bibliográfico: revistas, DOI e citações](Catalogo-bibliografico.md)
 - [Geometria, difusão e epistasia de ordem superior — 14/11/2026](Geometria-difusao-e-epistasia-superior.md)
+
+- [Algoritmo — procedimento candidato](Algoritmo.md)
