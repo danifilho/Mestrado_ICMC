@@ -14,3 +14,5 @@
 - [Geometria, difusão e epistasia de ordem superior — 14/11/2026](Geometria-difusao-e-epistasia-superior.md)
 
 - [Algoritmo — procedimento candidato](Algoritmo.md)
+
+- [Drosophila: IF × iRF e Tabela S1](https://github.com/danifilho/Mestrado_ICMC/wiki/Drosophila-IF-iRF-Tabela-S1) — comparação exploratória, figuras e métodos; 17/11/2026.

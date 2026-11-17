@@ -55,3 +55,7 @@ Registrada a discussão de geometria por difusão, representações hierárquica
 ## 14/11/2026 — Algoritmo: procedimento candidato
 
 Publicado em [Algoritmo](Algoritmo.md) o texto fornecido pelo pesquisador, com nove etapas: entrada, decomposição, superfícies, transformações, magnitude e forma, geometria, hierarquia, saída e avaliação. Texto e referências preservados. As alternativas e hipóteses permanecem identificadas como propostas; não houve novo experimento ou auditoria bibliográfica nesta publicação.
+
+## 17/11/2026 — Comparação exploratória de detectores em Drosophila
+
+Publicada [página dedicada](https://github.com/danifilho/Mestrado_ICMC/wiki/Drosophila-IF-iRF-Tabela-S1) com os 20 pares da Tabela S1 como referência, incluindo quatro sem referência bibliográfica. Cinco figuras em tons de verde, métodos, resultados, limitações e dados rastreáveis. A análise reutiliza ajustes existentes; não houve novo treinamento. Registro autorizado pelo pesquisador.
