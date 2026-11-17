@@ -1,0 +1,21 @@
+par,estabilidade_original_S1,classificacao_original_S1
+Gt–Zld,1.0,Harrison 2011; Nien 2011
+Twi–Zld,1.0,Harrison 2011; Nien 2011
+Gt–Hb,1.0,"Kraut & Levine 1991a,b; Eldon & Pirrotta 1991"
+Gt–Kr,1.0,Kraut & Levine 1991b; Struhl 1992; Capovilla 1992; Schulz & Tautz 1994
+Gt–Twi,1.0,Li 2008
+Kr–Twi,1.0,Li 2008
+Kr–Zld,0.97,Harrison 2011; Nien 2011
+Gt–Med,0.97,−
+Bcd–Gt,0.93,Kraut & Levine 1991b; Eldon & Pirrotta 1991
+Bcd–Twi,0.93,Li 2008
+Hb–Twi,0.93,Zeitlinger 2007
+Med–Twi,0.93,Nguyen & Xu 1998
+Kr–Med,0.9,−
+D–Gt,0.87,−
+Med–Zld,0.83,Harrison 2011
+Hb–Zld,0.8,Harrison 2011; Nien 2011
+Hb–Kr,0.8,Nüsslein-Volhard & Wieschaus 1980; Jäckle 1986; Hoch 1991
+D–Twi,0.73,−
+Bcd–Kr,0.67,"Hoch 1991, 1990"
+Bcd–Zld,0.63,Harrison 2011; Nien 2011
