@@ -59,3 +59,10 @@ Publicado em [Algoritmo](Algoritmo.md) o texto fornecido pelo pesquisador, com n
 ## 17/11/2026 — Comparação exploratória de detectores em Drosophila
 
 Publicada [página dedicada](https://github.com/danifilho/Mestrado_ICMC/wiki/Drosophila-IF-iRF-Tabela-S1) com os 20 pares da Tabela S1 como referência, incluindo quatro sem referência bibliográfica. Cinco figuras em tons de verde, métodos, resultados, limitações e dados rastreáveis. A análise reutiliza ajustes existentes; não houve novo treinamento. Registro autorizado pelo pesquisador.
+
+## 18/11/2026 — detalhamento da comparação Drosophila com a Tabela S1
+
+O pesquisador confirmou o escopo: somente o último teste baseado nos 20 pares da S1 do artigo iRF, com as cinco figuras verdes. Foram ampliadas a explicação da origem da referência e a distinção entre suporte bibliográfico original e recuperação nominal na nossa comparação. Publicados adaptadores, configurações, insumos, saídas e uma rotina de conferência; 115 rankings, Jaccard@10 e IC95% de AP verificados. Não houve novo treinamento. Figuras e avaliações bibliográficas anteriores ficaram fora desta publicação.
+
+- [Estudo](Drosophila-IF-iRF-Tabela-S1)
+- [Guia das cinco figuras e ligações ao código](Drosophila-S1-Guia-das-figuras)

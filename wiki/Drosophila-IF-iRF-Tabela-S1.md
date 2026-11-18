@@ -1,12 +1,41 @@
 # Drosophila — comparação exploratória de IF e iRF com a Tabela S1
 
-**Execução dos modelos: 17/11/2026. Documentação e revisão gráfica: 17/11/2026 (America/Sao_Paulo).**
+**Execução dos modelos: 17/11/2026. Revisão gráfica: 17/11/2026. Documentação ampliada: 18/11/2026 (America/Sao_Paulo).**
 
 **Resultado principal:** entre os dez primeiros candidatos, o iRF recupera 7–8 dos 20 pares publicados na Tabela S1, o IF quantitativo 1–2 e o IF qualitativo 1. O controle baseado em importância individual recupera 8–9. Esses números medem correspondência à lista publicada, não acerto biológico.
 
 Esta página registra uma análise exploratória posterior do experimento `detectores_regulacao_drosophila_v1`. Por decisão explícita do pesquisador, os **20 pares da Tabela S1** são usados como referência, incluindo quatro sem referência bibliográfica indicada pelos autores. Não se exige nova auditoria bibliográfica para contar correspondências. A revisão bibliográfica anterior é uma atividade distinta e não define os resultados aqui.
 
 [Dados, figuras e reprodução desta página](https://github.com/danifilho/Mestrado_ICMC/blob/59b867836b856e5dbb1bb64f873e2d66b8ef3616/wiki/assets/drosophila-s1/README.md) · [Protocolo original](https://github.com/danifilho/Mestrado_ICMC/blob/59b867836b856e5dbb1bb64f873e2d66b8ef3616/wiki/assets/drosophila-s1/PROTOCOLO.md) · [Decisões originais](https://github.com/danifilho/Mestrado_ICMC/blob/59b867836b856e5dbb1bb64f873e2d66b8ef3616/wiki/assets/drosophila-s1/DECISOES.md)
+
+## Guia de leitura e código publicado
+
+- [Explicação detalhada das cinco figuras verdes](Drosophila-S1-Guia-das-figuras): eixos, cores, denominadores, exemplos, incerteza, interpretação e limites.
+- [Mapa de código, dados e comandos de reprodução](https://github.com/danifilho/Mestrado_ICMC/blob/07766ce1973e5988f2036c3a9d11206bd1d80bd2/experimentos/detectores_regulacao_drosophila_v1/README.md): preparação, ajuste, extração, rankings, métricas e figuras.
+- [Conferência computacional realizada em 18/11](https://github.com/danifilho/Mestrado_ICMC/blob/07766ce1973e5988f2036c3a9d11206bd1d80bd2/experimentos/detectores_regulacao_drosophila_v1/VALIDACAO.md): rankings, Jaccard e intervalos preditivos recalculados das saídas preservadas.
+
+**Escopo confirmado pelo pesquisador em 18/11:** apenas o último teste baseado na S1, com cinco figuras verdes. As figuras e a revisão bibliográfica dos testes anteriores não fazem parte desta ampliação.
+
+## De onde vem a referência e o que o artigo fez
+
+A referência é a **Tabela S1**, não a Figura S1, de Basu, Kumbier, Brown e Yu (2018), *Iterative random forests to discover predictive and stable high-order interactions*. [Artigo publicado](https://doi.org/10.1073/pnas.1711236115) · [seção S4 e Tabela S1 do suplemento](https://arxiv.org/html/1706.08457v4).
+
+No caso de Drosophila, os autores combinaram medidas de ligação ao DNA e marcas de cromatina com rótulos de atividade de regiões regulatórias. Ajustaram florestas iterativas, reponderando variáveis, e usaram Random Intersection Trees para extrair combinações recorrentes nos caminhos das árvores. A estabilidade registra a frequência com que uma combinação reaparece nas reamostragens. [Método e aplicação, seções 2 e 4](https://arxiv.org/html/1706.08457v4).
+
+Depois, selecionaram **20 pares com estabilidade >0,5** e consultaram trabalhos anteriores. Relataram suporte para **16/20 (80%)**, por regulação da expressão de um fator pelo outro ou associação da ligação conjunta com maior expressão de alvos. Os outros quatro receberam um traço, por ausência de suporte localizado. Isso não significa 80% de acurácia preditiva nem validação experimental nova de todos os pares. [Suplemento, S4/Tabela S1](https://arxiv.org/html/1706.08457v4).
+
+### O que nossa comparação aproveita e o que muda
+
+| Aspecto | Artigo de iRF | Último teste do nosso projeto |
+|---|---|---|
+| Papel da lista de 20 pares | Resultado selecionado pelo iRF e acompanhado de referências | Referência fixa para comparar as listas produzidas por IF, iRF e controles |
+| Corte | Estabilidade iRF >0,5 | Dez primeiros candidatos por lista; k=5 e 20 como sensibilidades |
+| Significado de “recuperado” | Um par identificado pelo procedimento dos autores | Correspondência nominal com um dos 20 pares publicados |
+| Evidência biológica | Referências apontadas para 16 dos 20 | Não realizamos nova comprovação biológica para contar correspondências |
+| Quatro pares sem referência | Indicados por traço | Incluídos, conforme decisão exploratória do pesquisador |
+| Divisão dos dados | Divisão dos autores | Partição agrupada principal e reprodução secundária na divisão oficial |
+
+A nossa contagem inclui inclusive os quatro pares sem referência: portanto, não é uma repetição da taxa bibliográfica de 80%. Também não usa a lista publicada para ensinar os modelos quais pares escolher. A fonte foi escolhida para tornar o teste expositivo e rastreável; ela favorece a comparação com o procedimento que a originou e não funciona como gabarito universal da biologia.
 
 ## 1. Pergunta e referência
 
@@ -134,7 +163,7 @@ Cinco figuras foram reorganizadas em uma sequência: desenho → recuperação �
 - [Figuras PNG e SVG](https://github.com/danifilho/Mestrado_ICMC/tree/59b867836b856e5dbb1bb64f873e2d66b8ef3616/wiki/assets/drosophila-s1/figuras): PNG para leitura na Wiki; SVG para exportação.
 - [Script de geração](https://github.com/danifilho/Mestrado_ICMC/blob/59b867836b856e5dbb1bb64f873e2d66b8ef3616/wiki/assets/drosophila-s1/gerar_figuras.py), [paleta](https://github.com/danifilho/Mestrado_ICMC/blob/59b867836b856e5dbb1bb64f873e2d66b8ef3616/wiki/assets/drosophila-s1/paleta.json), [manifesto SHA-256](https://github.com/danifilho/Mestrado_ICMC/blob/59b867836b856e5dbb1bb64f873e2d66b8ef3616/wiki/assets/drosophila-s1/manifesto_sha256.json).
 - Fontes locais consultadas: protocolo, decisões, rankings, tabelas de estabilidade, concordância, previsão e reprodução; relatório e tabela de contagens da revisão bibliográfica. Não houve reexecução dos modelos nem validação independente dos experimentos biológicos.
-- Os links de evidência e imagem estão fixados no commit `59b867836b856e5dbb1bb64f873e2d66b8ef3616` do repositório principal. O pacote reproduz figuras e contagens desta página; não contém o pipeline completo de treinamento no HPCC.
+- Os links de evidência e imagem estão fixados no commit `59b867836b856e5dbb1bb64f873e2d66b8ef3616` do repositório principal. O pacote visual reproduz figuras e contagens. Os adaptadores de treinamento, insumos e saídas relevantes foram publicados separadamente em 18/11: [código e limitações de reprodução](https://github.com/danifilho/Mestrado_ICMC/blob/07766ce1973e5988f2036c3a9d11206bd1d80bd2/experimentos/detectores_regulacao_drosophila_v1/README.md).
 
 ### Referências metodológicas
 
@@ -146,3 +175,5 @@ Cinco figuras foram reorganizadas em uma sequência: desenho → recuperação �
 
 - 17/11/2026: execução original dos modelos, conforme registros locais.
 - 17/11/2026: documentação da decisão exploratória de usar todos os 20 pares; revisão de paleta, legendas e distinção entre recuperação, estabilidade e previsão. Publicação autorizada pelo pesquisador. Imagens anteriores e arquivos locais de pesquisa preservados.
+
+- 18/11/2026: ampliação restrita à comparação S1; explicação da origem no artigo, guia das cinco figuras, publicação dos códigos/insumos e verificação dos rankings, Jaccard e IC de AP. Nenhum novo ajuste de modelos.

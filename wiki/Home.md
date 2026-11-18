@@ -44,3 +44,5 @@ Novas conversas devem ser incorporadas explicitamente à Wiki; este registro nã
 - [Algoritmo — procedimento candidato](Algoritmo.md)
 
 - [Drosophila: IF × iRF e Tabela S1](https://github.com/danifilho/Mestrado_ICMC/wiki/Drosophila-IF-iRF-Tabela-S1) — comparação exploratória, figuras e métodos; 17/11/2026.
+
+- [Drosophila S1 — guia detalhado das cinco figuras](Drosophila-S1-Guia-das-figuras)
