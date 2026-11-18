@@ -36,3 +36,13 @@
 ## Como atualizar
 
 Consultar o DOI na API OpenAlex; conferir título, autores e veículo antes de copiar a contagem; registrar data e ID. Sem DOI, conferir a versão pelo título e fonte editorial. Duplicatas e preprints devem permanecer explicitamente identificados. A auditoria de metadados não equivale à leitura integral de cada artigo.
+
+## Revisão metodológica dos algoritmos — 18/11/2026
+
+[Leitura comparativa de IF, iRF, RSRF e PRF](Algoritmos-IF-iRF-RSRF-PRF), com versões consultadas, seções/tabelas e interpretação dos resultados:
+
+- Hornung e Boulesteix (2022), *Interaction forests: Identifying and exploiting interpretable quantitative and qualitative interaction effects*. [DOI](https://doi.org/10.1016/j.csda.2022.107460). Texto integral consultado: [manuscrito TR237, 2021](https://epub.ub.uni-muenchen.de/75432/1/TR.pdf).
+- Basu, Kumbier, Brown e Yu (2018), *Iterative random forests to discover predictive and stable high-order interactions*. [DOI](https://doi.org/10.1073/pnas.1711236115). Texto e suplemento consultados: [arXiv v4](https://arxiv.org/pdf/1706.08457v4).
+- Blum, Hiabu, Mammen e Meyer (2024), *Consistency of Random Forest Type Algorithms under a Probabilistic Impurity Decrease Condition*. [Versão teórica v2](https://arxiv.org/html/2309.01460v2), §3 consultada.
+- Blum, Hiabu, Mammen e Meyer (2025), *Pure interaction effects unseen by Random Forests*. [DOI](https://doi.org/10.1016/j.csda.2025.108237). Texto integral consultado: [arXiv v2](https://arxiv.org/pdf/2406.15500v2).
+- Hiabu, Mammen e Meyer (2023), *Random Planted Forest: A Directly Interpretable Tree Ensemble*. [Texto integral e suplemento v3](https://arxiv.org/pdf/2012.14563v3).

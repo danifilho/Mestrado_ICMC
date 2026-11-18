@@ -66,3 +66,7 @@ O pesquisador confirmou o escopo: somente o último teste baseado nos 20 pares d
 
 - [Estudo](Drosophila-IF-iRF-Tabela-S1)
 - [Guia das cinco figuras e ligações ao código](Drosophila-S1-Guia-das-figuras)
+
+## 18/11/2026 — revisão dos artigos de IF, iRF, RSRF e PRF
+
+A pedido do pesquisador, criada uma [página dedicada](Algoritmos-IF-iRF-RSRF-PRF) com definições operacionais, procedimentos de busca, desenhos experimentais, recortes numéricos e limites dos resultados. Fontes primárias e versões identificadas; consulta do manuscrito IF TR237, iRF v4, RSRF teórico v2 e empírico v2, PRF v3. Tabelas numéricas conferidas nos PDFs. Exemplos didáticos identificados como elaboração própria; nenhuma nova execução. A revisão não presume equivalência entre prever, priorizar conjuntos e decompor efeitos funcionais.
