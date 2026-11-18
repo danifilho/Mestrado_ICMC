@@ -177,3 +177,10 @@ Cinco figuras foram reorganizadas em uma sequência: desenho → recuperação �
 - 17/11/2026: documentação da decisão exploratória de usar todos os 20 pares; revisão de paleta, legendas e distinção entre recuperação, estabilidade e previsão. Publicação autorizada pelo pesquisador. Imagens anteriores e arquivos locais de pesquisa preservados.
 
 - 18/11/2026: ampliação restrita à comparação S1; explicação da origem no artigo, guia das cinco figuras, publicação dos códigos/insumos e verificação dos rankings, Jaccard e IC de AP. Nenhum novo ajuste de modelos.
+
+## Download dos dados de entrada — 18/11/2026
+
+- [Baixar o CSV completo de Drosophila](https://raw.githubusercontent.com/danifilho/Mestrado_ICMC/07766ce1973e5988f2036c3a9d11206bd1d80bd2/experimentos/detectores_regulacao_drosophila_v1/data/raw/irfSuppData1.csv): 7.809 regiões, 85 colunas. `id`, `chr`, `r6start` e `r6stop` identificam as regiões; `positive` é o desfecho binário; as outras 80 colunas são os preditores experimentais.
+- [Matrizes efetivamente usadas e partições](https://github.com/danifilho/Mestrado_ICMC/tree/07766ce1973e5988f2036c3a9d11206bd1d80bd2/experimentos/detectores_regulacao_drosophila_v1/data/processed): `X_treino.csv`, `X_validacao.csv`, `X_teste.csv` e respectivos arquivos `y_*.csv`; `particao.csv` e `ids_*.csv` preservam a divisão e os identificadores.
+
+O CSV completo é o arquivo processado disponibilizado pelos autores do iRF, não leituras brutas de sequenciamento. Fonte: [pacote dos autores no Zenodo](https://doi.org/10.5281/zenodo.1401347). Já estava publicado com o código; estes links tornam o download explícito.
