@@ -1,0 +1,46 @@
+{
+ "fonte": {
+  "zenodo": "10.5281/zenodo.1401347",
+  "arquivo": "iRF_analyses.zip",
+  "md5_zip": "651290c665d2a3dc4583ea9b026a647f",
+  "artigo": "10.1073/pnas.1711236115"
+ },
+ "raw": {
+  "README.md": "8d12f47af3431588927821abcfc858866af69586b23b2c6d4a3869082823d09c",
+  "enhancer.R": "c9d969c58ea47568da78a513935008331fc9698a106df18909a051031a2cff2e",
+  "enhancer.Rdata": "dd4708cae97cd1345948f2678d6e3ae55ab65f0f1890aeb83f339a47eb9f8255",
+  "irfSuppData1.csv": "51e281d7508449d46b22921901896d2d2df39c2b39baf0e6757ebbe69b7cf759"
+ },
+ "processed": {
+  "X_teste.csv": "22da9f9d8c778e4b23e17e291f8672e9b67fc14cf16824db5ed0ce0c759d1fca",
+  "X_treino.csv": "379252d8c058e679aa01a18d15fb96914c0cf4c94d6e1362a1503a75c65e311d",
+  "X_validacao.csv": "e279cf845fde36cafa44d222114ea99f8cf023675ea1b4c255e3d821754b014d",
+  "ids_teste.csv": "620705aa082fb9a6f4735d225bb4f1b46104bbcacf383e4e9f8dae274db49f06",
+  "ids_treino.csv": "f1da23ed7a64db53292b168fd8708b29ebff9fdd2415ca54bc61b7f36babe317",
+  "ids_validacao.csv": "cc456e9f195c943546676554f96d1cc19382f3daf9c5fabc7bf912f78b14e287",
+  "oficial_teste_linhas.csv": "5705e254677e8862196862f83fde4c21aaf41a760062d49cb088fbeb9425d9e9",
+  "oficial_treino_linhas.csv": "bd9102fd22113622e0e1bd8bfb701ab70ac2746a3fb7eae42268746a4ef8c539",
+  "particao.csv": "953e2110b4e3b41e047c81b0dc5796936e697fc9d9e2f598028f5fa29ae1db32",
+  "permutacoes_treino.csv": "f6b83967576cd9002b5e81cd1bd4144443bad206d88f7b2238ebc3b616094411",
+  "reamostragens_treino.csv": "27e6422fa752a55b076c6fc41d2119d5f33e2accf45c3ba33bdd38034446d19b",
+  "varnames.csv": "60455963a863855812c58d6d3a95da83127f6a38ec495c32b492234b089dff68",
+  "y_teste.csv": "bf61d50952853d23c94c55709702f87c583c993962c49c9601dff5c07557ac97",
+  "y_treino.csv": "80d4b6f6e2005ae0ca29c440134af666dfc3cf3b41b3e77a8c8b22ddfd819314",
+  "y_validacao.csv": "07f40a6a57cde87d9c180d2cb1602999f2f7f0049c3f91c6f1f0adc778ccc84c"
+ },
+ "evidencias": {
+  "evidencias/biogrid_pares.csv": "055bae93ea0152c8783be59e633ce7fc4849b7e95bcc02c8ccd5b108f50369c8",
+  "evidencias/evidencias_por_par.csv": "e8c4b942794909037bc021feede14862b9711147c45e4b012f98059d51ca24ab",
+  "evidencias/frases_coocorrencia.csv": "40ec45e16224deb9e9d80f23d2a345108c850505d64ea38cd3356030e8a1203b",
+  "evidencias/pubmed_consultas.csv": "c881ea46d406d9e6c7331a810c7613333685488cf868a7e03cacb90f75269ef0",
+  "evidencias/pubmed_metadados.csv": "5fc05e7c0e1e48e0c2a7380a657d212dd5697238c369d8e78131b7111eddbf08",
+  "evidencias_biologicas.csv": "8cfdf5cfe936d0b9cd461c9748c2e9d0850c17fc9fd8a5f5fd3ed915969f4072"
+ },
+ "biogrid": "BIOGRID-ORGANISM-Drosophila_melanogaster-5.0.263",
+ "ncbi_gene_info": "Drosophila_melanogaster.gene_info.gz (17/11/2026)",
+ "artigos_lidos_sha256": {
+  "basu_arxiv_1706.08457v4.pdf": "81bde1a5d70a49aeddcf84ec8032ba4d351fd489e7ba270c866262f77e506e9d",
+  "IF_Hornung.pdf": "78c1ad96e97069a1467b141640cedb9345aa916b70459160e821d4460c7d23c7",
+  "deshpande_2013_pone.0068664.pdf": "5fb41aa1df4ee9e7aa9bc59d35cc9b03b227f9c826406f846a92ec474f120b72"
+ }
+}

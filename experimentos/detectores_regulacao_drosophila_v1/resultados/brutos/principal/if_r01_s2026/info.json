@@ -1,0 +1,39 @@
+{
+  "id": "if_r01_s2026",
+  "metodo": "if",
+  "variante": "reamostragem",
+  "indice": "r01",
+  "semente": 2026,
+  "cfg": {
+    "importance": "both",
+    "num_trees": null
+  },
+  "inicio": "2026-11-17T10:41:34-0500",
+  "versao_R": "R version 4.4.3 (2025-02-28)",
+  "n_ajuste": 3693,
+  "positivos_ajuste": 322,
+  "segundos_treino": 1116.509,
+  "ajuste": {
+    "num_trees": 2000,
+    "npairs": 5,
+    "min_node_size": 5,
+    "importance_mode": "both",
+    "n_amostra": 3693,
+    "floresta_previsao_separada": true,
+    "versao": "0.6.0"
+  },
+  "segundos_previsao": {
+    "validacao": 1.68200000000002,
+    "teste": 1.6579999999999
+  },
+  "extracao": {
+    "status": "ok",
+    "n_quant": 3160,
+    "n_qual": 3160,
+    "nota": "n > 1000: EIM numa floresta de profundidade restrita (simplify.large.n) e previsão numa segunda floresta (padrão do pacote)"
+  },
+  "segundos_extracao": 0.0240000000001146,
+  "memoria_R_mb": 1334.9,
+  "status": "ok",
+  "fim": "2026-11-17T11:00:14-0500"
+}

@@ -1,0 +1,23 @@
+#!/bin/bash --login
+#SBATCH --job-name=detreg
+#SBATCH --partition=general-short
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=6G
+#SBATCH --time=03:55:00
+#SBATCH --output=resultados/logs/slurm/%x_%A_%a.out
+# Uma tarefa por elemento do array (1 thread). Retomada: tarefas com info.json "ok" são puladas;
+# falhas ficam registradas (log.txt e falhas.tsv) e não são apagadas.
+# Uso: sbatch --array=1-N --export=ALL,ETAPA=principal scripts/rodar_array.sb
+cd $SLURM_SUBMIT_DIR
+E=/CAMINHO/HPCC/conda_envs/preditores
+export PATH=$E/bin:$PATH OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1 ESTUDO_RAIZ=$PWD
+export IRF2_LIB=/CAMINHO/HPCC/bench_Rlib_irf2
+TJ=$(sed -n "${SLURM_ARRAY_TASK_ID}p" resultados/logs/tarefas/$ETAPA/lista.txt)
+ID=$(basename $TJ .json); OUT=resultados/brutos/$ETAPA/$ID; mkdir -p $OUT
+if [ -f $OUT/info.json ] && grep -q '"status": "ok"' $OUT/info.json; then echo "já concluída: $ID"; exit 0; fi
+[ -f $OUT/log.txt ] && mv $OUT/log.txt $OUT/log_tentativa_$(date +%s).txt
+/usr/bin/time -v Rscript src/executar_tarefa.R $TJ > $OUT/log.txt 2>&1
+st=$?
+echo -e "$(date -Is)\t$ETAPA\t$ID\t$st\t$SLURM_JOB_ID" >> resultados/logs/execucoes.tsv
+[ $st -ne 0 ] && echo -e "$(date -Is)\t$ETAPA\t$ID\t$st\t$SLURM_JOB_ID" >> resultados/logs/falhas.tsv
+exit $st

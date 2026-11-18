@@ -1,0 +1,48 @@
+{
+  "id": "irf_r06_s2026",
+  "metodo": "irf",
+  "variante": "reamostragem",
+  "indice": "r06",
+  "semente": 2026,
+  "cfg": {
+    "n_iter": 5,
+    "ntree": 500,
+    "n_bootstrap": 30,
+    "rit_depth": 5,
+    "rit_ntree": 500,
+    "rit_nchild": 2,
+    "varnames_grp_json": "configs/varnames_grp.json"
+  },
+  "inicio": "2026-11-17T10:41:34-0500",
+  "versao_R": "R version 4.4.3 (2025-02-28)",
+  "n_ajuste": 3746,
+  "positivos_ajuste": 338,
+  "segundos_treino": 535.921,
+  "ajuste": {
+    "n_iter": 5,
+    "ntree": 500,
+    "n_bootstrap": 30,
+    "mtry": 8,
+    "rit": {
+      "rit_depth": 5,
+      "rit_ntree": 500,
+      "rit_nchild": 2
+    },
+    "versao": "2.0.0",
+    "nota": "o tempo de ajuste inclui a descoberta (30 bootstraps + RIT na iteração 5)"
+  },
+  "segundos_previsao": {
+    "validacao": 0.0779999999999745,
+    "teste": 0.0780000000000882
+  },
+  "extracao": {
+    "status": "ok",
+    "n_conjuntos": 281,
+    "n_pares": 111,
+    "n_ordem_superior": 170
+  },
+  "segundos_extracao": 0.0199999999999818,
+  "memoria_R_mb": 655.9,
+  "status": "ok",
+  "fim": "2026-11-17T10:50:31-0500"
+}

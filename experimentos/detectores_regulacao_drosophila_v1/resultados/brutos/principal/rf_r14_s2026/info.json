@@ -1,0 +1,35 @@
+{
+  "id": "rf_r14_s2026",
+  "metodo": "rf",
+  "variante": "reamostragem",
+  "indice": "r14",
+  "semente": 2026,
+  "cfg": {
+    "num_trees": 500,
+    "repeticoes_permutacao": 10
+  },
+  "inicio": "2026-11-17T10:41:35-0500",
+  "versao_R": "R version 4.4.3 (2025-02-28)",
+  "n_ajuste": 3743,
+  "positivos_ajuste": 345,
+  "segundos_treino": 3.16,
+  "ajuste": {
+    "num_trees": 500,
+    "mtry": 8,
+    "min_node_size": 10,
+    "versao": "0.18.0"
+  },
+  "segundos_previsao": {
+    "validacao": 0.278,
+    "teste": 0.293000000000001
+  },
+  "extracao": {
+    "status": "ok",
+    "ap_base_validacao": 0.49266202820395,
+    "repeticoes": 10
+  },
+  "segundos_extracao": 199.555,
+  "memoria_R_mb": 233.2,
+  "status": "ok",
+  "fim": "2026-11-17T10:44:59-0500"
+}

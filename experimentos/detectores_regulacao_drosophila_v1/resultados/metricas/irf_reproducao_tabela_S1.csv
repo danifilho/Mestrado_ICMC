@@ -1,0 +1,21 @@
+tf_1,tf_2,referencias_tabela_S1,estabilidade_nesta_reproducao
+gt,zld,Harrison 2011; Nien 2011,1.0
+twi,zld,Harrison 2011; Nien 2011,1.0
+gt,hb,"Kraut & Levine 1991a,b; Eldon & Pirrotta 1991",0.933333333333333
+gt,kr,Kraut & Levine 1991b; Struhl 1992; Capovilla 1992; Schulz & Tautz 1994,1.0
+gt,twi,Li 2008,1.0
+kr,twi,Li 2008,1.0
+kr,zld,Harrison 2011; Nien 2011,1.0
+gt,med,—,0.966666666666667
+bcd,gt,Kraut & Levine 1991b; Eldon & Pirrotta 1991,0.9
+bcd,twi,Li 2008,0.833333333333333
+hb,twi,Zeitlinger 2007,0.8
+med,twi,Nguyen & Xu 1998,0.9
+kr,med,—,0.866666666666667
+D,gt,—,0.666666666666667
+med,zld,Harrison 2011,0.466666666666667
+hb,zld,Harrison 2011; Nien 2011,0.466666666666667
+hb,kr,Nüsslein-Volhard & Wieschaus 1980; Jäckle 1986; Hoch 1991,0.866666666666667
+D,twi,—,0.5
+bcd,kr,"Hoch 1991, 1990",0.833333333333333
+bcd,zld,Harrison 2011; Nien 2011,0.5

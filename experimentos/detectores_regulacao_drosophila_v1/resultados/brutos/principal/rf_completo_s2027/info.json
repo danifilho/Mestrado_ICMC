@@ -1,0 +1,35 @@
+{
+  "id": "rf_completo_s2027",
+  "metodo": "rf",
+  "variante": "completo",
+  "indice": "completo",
+  "semente": 2027,
+  "cfg": {
+    "num_trees": 500,
+    "repeticoes_permutacao": 10
+  },
+  "inicio": "2026-11-17T10:41:34-0500",
+  "versao_R": "R version 4.4.3 (2025-02-28)",
+  "n_ajuste": 4658,
+  "positivos_ajuste": 416,
+  "segundos_treino": 4.034,
+  "ajuste": {
+    "num_trees": 500,
+    "mtry": 8,
+    "min_node_size": 10,
+    "versao": "0.18.0"
+  },
+  "segundos_previsao": {
+    "validacao": 0.286,
+    "teste": 0.290999999999999
+  },
+  "extracao": {
+    "status": "ok",
+    "ap_base_validacao": 0.492790823172231,
+    "repeticoes": 10
+  },
+  "segundos_extracao": 212.622,
+  "memoria_R_mb": 233.6,
+  "status": "ok",
+  "fim": "2026-11-17T10:45:12-0500"
+}

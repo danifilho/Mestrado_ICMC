@@ -1,0 +1,10 @@
+{
+ "semente_particao": 2026,
+ "sementes_algoritmo": [2026, 2027, 2028],
+ "reamostragens": {"n": 20, "fracao_grupos": 0.8, "semente_base": 2026},
+ "permutacoes": {"n": 10, "semente_base": 3026, "semente_ajuste": 2026},
+ "k": {"principal": 10, "sensibilidade": [5, 20]},
+ "controles": {"listas_aleatorias": 10000, "listas_grau_preservado": 10000, "semente": 2026},
+ "bootstrap_predicao": {"n": 2000, "semente": 2026, "unidade": "grupo"},
+ "teto_cpu_h_alocadas": 40
+}

@@ -1,0 +1,48 @@
+{
+  "id": "irf_completo_s2026",
+  "metodo": "irf",
+  "variante": "completo",
+  "indice": "completo",
+  "semente": 2026,
+  "cfg": {
+    "n_iter": 5,
+    "ntree": 500,
+    "n_bootstrap": 30,
+    "rit_depth": 5,
+    "rit_ntree": 500,
+    "rit_nchild": 2,
+    "varnames_grp_json": "configs/varnames_grp.json"
+  },
+  "inicio": "2026-11-17T10:41:33-0500",
+  "versao_R": "R version 4.4.3 (2025-02-28)",
+  "n_ajuste": 4658,
+  "positivos_ajuste": 416,
+  "segundos_treino": 641.134,
+  "ajuste": {
+    "n_iter": 5,
+    "ntree": 500,
+    "n_bootstrap": 30,
+    "mtry": 8,
+    "rit": {
+      "rit_depth": 5,
+      "rit_ntree": 500,
+      "rit_nchild": 2
+    },
+    "versao": "2.0.0",
+    "nota": "o tempo de ajuste inclui a descoberta (30 bootstraps + RIT na iteração 5)"
+  },
+  "segundos_previsao": {
+    "validacao": 0.0800000000000409,
+    "teste": 0.0850000000000364
+  },
+  "extracao": {
+    "status": "ok",
+    "n_conjuntos": 217,
+    "n_pares": 85,
+    "n_ordem_superior": 132
+  },
+  "segundos_extracao": 0.0229999999999109,
+  "memoria_R_mb": 732.3,
+  "status": "ok",
+  "fim": "2026-11-17T10:52:15-0500"
+}

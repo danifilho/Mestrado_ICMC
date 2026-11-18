@@ -1,0 +1,120 @@
+{
+ "objetos_no_Rdata": "test.id train.id varnames.all X Y",
+ "X_Rdata_igual_CSV": true,
+ "Y_Rdata_igual_CSV": true,
+ "X_igual_comparacao_anterior": true,
+ "Y_igual_comparacao_anterior": true,
+ "treino_oficial_igual": true,
+ "teste_oficial_igual": true,
+ "varnames_igual": true,
+ "varnames_ordem_igual_colunas": true,
+ "n": 7809,
+ "p": 80,
+ "positivos": 694,
+ "ausentes": 0,
+ "treino_oficial": 3912,
+ "teste_oficial": 3897,
+ "positivos_treino_oficial": 348,
+ "positivos_teste_oficial": 346,
+ "cromossomos": [
+  "chr2L",
+  "chr2R",
+  "chr2RHet",
+  "chr3L",
+  "chr3LHet",
+  "chr3R",
+  "chr3RHet",
+  "chr4",
+  "chrX",
+  "mtDNA"
+ ],
+ "comprimento_regioes": {
+  "count": 7809.0,
+  "mean": 2016.6035343834037,
+  "std": 457.1899321230047,
+  "min": 117.0,
+  "25%": 2095.0,
+  "50%": 2133.0,
+  "75%": 2199.0,
+  "max": 4566.0
+ },
+ "prefixos_id": {
+  "VT": 7705,
+  "PCE": 41,
+  "ChIPPCRM": 40,
+  "KR": 16,
+  "miRNAPCE": 7
+ },
+ "grupos": {
+  "n": 4086,
+  "unioes": {
+   "sobreposicao": 3702,
+   "mesmo_id": 4,
+   "atributos_identicos": 17
+  },
+  "tamanho_max": 18,
+  "grupos_divididos_na_particao_oficial": 1165,
+  "linhas_em_grupos_divididos_oficial": 4216
+ },
+ "particao_agrupada": {
+  "treino": {
+   "n": 4658,
+   "positivos": 416,
+   "prop": 0.0893087161872048,
+   "grupos": 2460
+  },
+  "validacao": {
+   "n": 1545,
+   "positivos": 127,
+   "prop": 0.08220064724919093,
+   "grupos": 802
+  },
+  "teste": {
+   "n": 1606,
+   "positivos": 151,
+   "prop": 0.09402241594022416,
+   "grupos": 824
+  }
+ },
+ "permutacoes": {
+  "n": 10,
+  "positivos_preservados": true,
+  "grupos_por_tamanho": {
+   "1": 1477,
+   "2": 460,
+   "3": 231,
+   "4": 132,
+   "5": 70,
+   "6": 31,
+   "7": 26,
+   "8": 16,
+   "9": 6,
+   "10": 2,
+   "11": 2,
+   "12": 4,
+   "16": 2,
+   "18": 1
+  }
+ },
+ "hashes": {
+  "raw/README.md": "8d12f47af3431588927821abcfc858866af69586b23b2c6d4a3869082823d09c",
+  "raw/enhancer.R": "c9d969c58ea47568da78a513935008331fc9698a106df18909a051031a2cff2e",
+  "raw/enhancer.Rdata": "dd4708cae97cd1345948f2678d6e3ae55ab65f0f1890aeb83f339a47eb9f8255",
+  "raw/irfSuppData1.csv": "51e281d7508449d46b22921901896d2d2df39c2b39baf0e6757ebbe69b7cf759",
+  "processed/X_teste.csv": "22da9f9d8c778e4b23e17e291f8672e9b67fc14cf16824db5ed0ce0c759d1fca",
+  "processed/X_treino.csv": "379252d8c058e679aa01a18d15fb96914c0cf4c94d6e1362a1503a75c65e311d",
+  "processed/X_validacao.csv": "e279cf845fde36cafa44d222114ea99f8cf023675ea1b4c255e3d821754b014d",
+  "processed/ids_teste.csv": "620705aa082fb9a6f4735d225bb4f1b46104bbcacf383e4e9f8dae274db49f06",
+  "processed/ids_treino.csv": "f1da23ed7a64db53292b168fd8708b29ebff9fdd2415ca54bc61b7f36babe317",
+  "processed/ids_validacao.csv": "cc456e9f195c943546676554f96d1cc19382f3daf9c5fabc7bf912f78b14e287",
+  "processed/oficial_teste_linhas.csv": "5705e254677e8862196862f83fde4c21aaf41a760062d49cb088fbeb9425d9e9",
+  "processed/oficial_treino_linhas.csv": "bd9102fd22113622e0e1bd8bfb701ab70ac2746a3fb7eae42268746a4ef8c539",
+  "processed/particao.csv": "953e2110b4e3b41e047c81b0dc5796936e697fc9d9e2f598028f5fa29ae1db32",
+  "processed/permutacoes_treino.csv": "f6b83967576cd9002b5e81cd1bd4144443bad206d88f7b2238ebc3b616094411",
+  "processed/reamostragens_treino.csv": "27e6422fa752a55b076c6fc41d2119d5f33e2accf45c3ba33bdd38034446d19b",
+  "processed/varnames.csv": "60455963a863855812c58d6d3a95da83127f6a38ec495c32b492234b089dff68",
+  "processed/y_teste.csv": "bf61d50952853d23c94c55709702f87c583c993962c49c9601dff5c07557ac97",
+  "processed/y_treino.csv": "80d4b6f6e2005ae0ca29c440134af666dfc3cf3b41b3e77a8c8b22ddfd819314",
+  "processed/y_validacao.csv": "07f40a6a57cde87d9c180d2cb1602999f2f7f0049c3f91c6f1f0adc778ccc84c"
+ }
+}

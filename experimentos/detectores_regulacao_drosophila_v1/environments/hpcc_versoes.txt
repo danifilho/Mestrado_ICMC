@@ -1,0 +1,22 @@
+R version 4.4.3 (2025-02-28) 
+    diversityForest              ranger randomPlantedForest          simpleRSRF 
+            "0.6.0"            "0.18.0"        "0.2.1.9000"             "0.1.6" 
+         data.table            jsonlite             hardhat                Rcpp 
+         "1.18.6.1"             "2.0.0"             "1.4.3"             "1.1.2" 
+                iRF 
+            "2.0.0" 
+randomPlantedForest RemoteSha/Packaged: 
+3.12.16 2.3.5 2.3.3 1.16.3 3.10.9
+numpy                        2.3.5            py312h33ff503_1       conda-forge
+pandas                       2.3.3            py312hf79963d_1       conda-forge
+python                       3.12.16          h5f976f7_0_cpython    conda-forge
+r-base                       4.4.3            hd767689_12           conda-forge
+r-base64enc                  0.1_6            r44h54b55ab_0         conda-forge
+r-data.table                 1.18.6.1         r44hbd9402d_0         conda-forge
+r-hardhat                    1.4.3            r44hc72bb7e_0         conda-forge
+r-jsonlite                   2.0.0            r44h54b55ab_1         conda-forge
+r-ranger                     0.18.0           r44h3697838_0         conda-forge
+r-rcpp                       1.1.2            r44h3697838_0         conda-forge
+r-rcpparmadillo              15.6.2_1         r44h1fcd065_0         conda-forge
+r-rcppeigen                  0.3.4.0.2        r44h3704496_1         conda-forge
+scipy                        1.16.3           py312h54fa4ab_2       conda-forge
