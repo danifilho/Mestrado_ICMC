@@ -1,0 +1,75 @@
+detector,ranking,direcao,Redundante,SNP modificador,Sem interação,Sinérgico,Só interação
+ebm,global_acuracia,I,0.0,0.0,0.3,0.8,0.0
+ebm,global_acuracia,|I|,0.7,0.9,0.0,0.8,0.0
+ebm,global_acuracia,−I,0.7,1.0,0.0,0.0,0.3
+ebm,global_logloss,I,0.1,0.0,0.3,0.0,0.0
+ebm,global_logloss,|I|,0.0,0.0,0.0,1.0,0.0
+ebm,global_logloss,−I,0.0,0.1,0.0,1.0,0.5
+ebm,nativo,nativo,1.0,0.0,0.8,0.6,0.8
+gini_W,nativo (Etapa 0),Wright,0.4,0.6,0.7,0.8,0.6
+h,global_acuracia,I,0.0,0.5,0.0,1.0,0.0
+h,global_acuracia,|I|,0.0,0.5,0.6,1.0,0.0
+h,global_acuracia,−I,0.6,0.0,0.6,0.0,0.3
+h,global_logloss,I,0.5,0.0,0.0,0.0,0.0
+h,global_logloss,|I|,0.0,0.1,0.9,0.0,0.0
+h,global_logloss,−I,0.0,0.7,1.0,0.2,0.3
+h,nativo,nativo,0.0,0.0,0.8,0.8,0.3
+if_qual,global_acuracia,I,0.0,0.0,0.9,0.0,0.0
+if_qual,global_acuracia,|I|,0.0,0.0,0.9,0.4,0.0
+if_qual,global_acuracia,−I,0.3,0.1,0.0,0.9,0.5
+if_qual,global_logloss,I,0.0,0.0,1.0,1.0,0.0
+if_qual,global_logloss,|I|,0.7,0.0,1.0,0.6,0.0
+if_qual,global_logloss,−I,0.8,0.4,0.0,0.0,0.4
+if_qual,nativo,nativo,0.6,0.7,0.0,0.7,0.0
+if_quant,global_acuracia,I,0.0,0.0,0.9,0.0,0.0
+if_quant,global_acuracia,|I|,0.0,0.0,0.9,0.4,0.0
+if_quant,global_acuracia,−I,0.3,0.1,0.0,0.9,0.5
+if_quant,global_logloss,I,0.0,0.0,1.0,1.0,0.0
+if_quant,global_logloss,|I|,0.7,0.0,1.0,0.6,0.0
+if_quant,global_logloss,−I,0.8,0.4,0.0,0.0,0.4
+if_quant,nativo,nativo,0.0,0.9,0.0,0.0,0.0
+irf,global_acuracia,I,0.7,0.0,1.0,0.8,0.3
+irf,global_acuracia,|I|,0.0,0.4,1.0,0.0,0.0
+irf,global_acuracia,−I,0.0,0.4,0.0,0.0,0.0
+irf,global_logloss,I,0.6,0.0,1.0,1.0,0.0
+irf,global_logloss,|I|,0.0,0.5,0.9,0.7,0.0
+irf,global_logloss,−I,0.0,0.7,0.0,0.0,0.2
+irf,nativo,nativo,0.0,0.0,0.5,0.6,0.0
+jmst_W,nativo (Etapa 0),Wright,0.0,0.0,0.6,0.8,0.0
+jvimp_W,nativo (Etapa 0),Wright,0.0,0.0,0.0,1.0,0.0
+nid,global_acuracia,I,0.0,0.1,0.0,0.8,0.0
+nid,global_acuracia,|I|,0.0,0.0,0.0,0.8,0.0
+nid,global_acuracia,−I,1.0,0.0,0.7,0.0,0.2
+nid,global_logloss,I,0.0,0.0,0.0,0.1,0.1
+nid,global_logloss,|I|,0.0,0.0,0.0,0.0,0.0
+nid,global_logloss,−I,0.4,0.2,0.5,0.0,0.0
+nid,nativo,nativo,0.0,0.0,0.5,1.0,0.0
+permutacao_W,nativo (Etapa 0),Wright,0.0,0.0,0.7,0.6,0.0
+ppi_W,nativo (Etapa 0),Wright,0.0,0.0,0.5,0.7,0.0
+rf,global_acuracia,I,0.0,0.5,0.0,1.0,0.0
+rf,global_acuracia,|I|,0.0,0.5,0.6,1.0,0.0
+rf,global_acuracia,−I,0.6,0.0,0.6,0.0,0.3
+rf,global_logloss,I,0.5,0.0,0.0,0.0,0.0
+rf,global_logloss,|I|,0.0,0.1,0.9,0.0,0.0
+rf,global_logloss,−I,0.0,0.7,1.0,0.2,0.3
+rpf,global_acuracia,I,0.6,0.0,1.0,0.6,0.0
+rpf,global_acuracia,|I|,0.0,0.0,1.0,0.3,0.9
+rpf,global_acuracia,−I,0.0,0.0,0.0,0.0,0.9
+rpf,global_logloss,I,0.4,0.0,1.0,0.0,0.0
+rpf,global_logloss,|I|,0.0,0.0,0.9,1.0,0.4
+rpf,global_logloss,−I,0.0,0.4,0.0,1.0,0.4
+rpf,nativo,nativo,0.3,0.0,1.0,1.0,0.8
+shap,global_acuracia,I,0.0,0.5,0.0,1.0,0.0
+shap,global_acuracia,|I|,0.0,0.5,0.6,1.0,0.0
+shap,global_acuracia,−I,0.6,0.0,0.6,0.0,0.3
+shap,global_logloss,I,0.5,0.0,0.0,0.0,0.0
+shap,global_logloss,|I|,0.0,0.1,0.9,0.0,0.0
+shap,global_logloss,−I,0.0,0.7,1.0,0.2,0.3
+shap,nativo,nativo,0.0,0.0,0.8,0.8,0.6
+sirf,global_acuracia,I,0.7,0.0,1.0,0.8,0.3
+sirf,global_acuracia,|I|,0.0,0.4,1.0,0.0,0.0
+sirf,global_acuracia,−I,0.0,0.4,0.0,0.0,0.0
+sirf,global_logloss,I,0.6,0.0,1.0,1.0,0.0
+sirf,global_logloss,|I|,0.0,0.5,0.9,0.7,0.0
+sirf,global_logloss,−I,0.0,0.7,0.0,0.0,0.2
+sirf,nativo,nativo,0.0,0.0,0.0,0.4,0.4

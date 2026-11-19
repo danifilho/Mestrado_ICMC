@@ -1,0 +1,106 @@
+a,b,intersecao_top3,kendall_tau,n
+ebm (nativo),"ebm (régua, |I|)",0.712,0.145,2000
+ebm (nativo),h (nativo),1.316,0.337,2000
+ebm (nativo),"if (régua, |I|)",0.77,0.12,2000
+ebm (nativo),if_qual (nativo),0.542,0.021,2000
+ebm (nativo),if_quant (nativo),0.501,0.04,2000
+ebm (nativo),irf (nativo),0.608,0.166,2000
+ebm (nativo),"irf (régua, |I|)",0.844,0.166,2000
+ebm (nativo),nid (nativo),0.55,0.099,2000
+ebm (nativo),"nid (régua, |I|)",0.54,0.054,2000
+ebm (nativo),"rf (régua, |I|)",0.842,0.161,2000
+ebm (nativo),rpf (nativo),1.376,0.353,2000
+ebm (nativo),"rpf (régua, |I|)",0.528,0.083,2000
+ebm (nativo),shap (nativo),1.112,0.3,2000
+ebm (nativo),sirf (nativo),0.714,0.163,2000
+"ebm (régua, |I|)",h (nativo),0.871,0.182,2000
+"ebm (régua, |I|)","if (régua, |I|)",1.146,0.209,2000
+"ebm (régua, |I|)",if_qual (nativo),0.429,0.017,2000
+"ebm (régua, |I|)",if_quant (nativo),0.614,0.082,2000
+"ebm (régua, |I|)",irf (nativo),0.994,0.278,2000
+"ebm (régua, |I|)","irf (régua, |I|)",1.15,0.24,2000
+"ebm (régua, |I|)",nid (nativo),0.938,0.239,2000
+"ebm (régua, |I|)","nid (régua, |I|)",1.03,0.187,2000
+"ebm (régua, |I|)","rf (régua, |I|)",1.155,0.245,2000
+"ebm (régua, |I|)",rpf (nativo),0.829,0.19,2000
+"ebm (régua, |I|)","rpf (régua, |I|)",0.872,0.17,2000
+"ebm (régua, |I|)",shap (nativo),0.994,0.267,2000
+"ebm (régua, |I|)",sirf (nativo),1.052,0.253,2000
+h (nativo),"if (régua, |I|)",1.084,0.206,2000
+h (nativo),if_qual (nativo),0.532,0.034,2000
+h (nativo),if_quant (nativo),0.698,0.112,2000
+h (nativo),irf (nativo),1.099,0.351,2000
+h (nativo),"irf (régua, |I|)",1.276,0.302,2000
+h (nativo),nid (nativo),1.0,0.252,2000
+h (nativo),"nid (régua, |I|)",0.756,0.132,2000
+h (nativo),"rf (régua, |I|)",1.312,0.306,2000
+h (nativo),rpf (nativo),1.821,0.46,2000
+h (nativo),"rpf (régua, |I|)",0.724,0.159,2000
+h (nativo),shap (nativo),2.136,0.617,2000
+h (nativo),sirf (nativo),1.259,0.357,2000
+"if (régua, |I|)",if_qual (nativo),0.466,0.018,2000
+"if (régua, |I|)",if_quant (nativo),0.64,0.079,2000
+"if (régua, |I|)",irf (nativo),1.018,0.26,2000
+"if (régua, |I|)","irf (régua, |I|)",1.456,0.287,2000
+"if (régua, |I|)",nid (nativo),0.956,0.218,2000
+"if (régua, |I|)","nid (régua, |I|)",0.879,0.146,2000
+"if (régua, |I|)","rf (régua, |I|)",1.537,0.302,2000
+"if (régua, |I|)",rpf (nativo),1.018,0.201,2000
+"if (régua, |I|)","rpf (régua, |I|)",0.806,0.141,2000
+"if (régua, |I|)",shap (nativo),1.189,0.275,2000
+"if (régua, |I|)",sirf (nativo),1.086,0.242,2000
+if_qual (nativo),if_quant (nativo),0.464,0.014,2000
+if_qual (nativo),irf (nativo),0.413,0.026,2000
+if_qual (nativo),"irf (régua, |I|)",0.459,0.022,2000
+if_qual (nativo),nid (nativo),0.404,0.019,2000
+if_qual (nativo),"nid (régua, |I|)",0.437,0.018,2000
+if_qual (nativo),"rf (régua, |I|)",0.458,0.021,2000
+if_qual (nativo),rpf (nativo),0.486,0.021,2000
+if_qual (nativo),"rpf (régua, |I|)",0.442,0.008,2000
+if_qual (nativo),shap (nativo),0.476,0.032,2000
+if_qual (nativo),sirf (nativo),0.441,0.02,2000
+if_quant (nativo),irf (nativo),0.769,0.167,2000
+if_quant (nativo),"irf (régua, |I|)",0.708,0.115,2000
+if_quant (nativo),nid (nativo),0.753,0.145,2000
+if_quant (nativo),"nid (régua, |I|)",0.61,0.067,2000
+if_quant (nativo),"rf (régua, |I|)",0.704,0.111,2000
+if_quant (nativo),rpf (nativo),0.627,0.102,2000
+if_quant (nativo),"rpf (régua, |I|)",0.58,0.068,2000
+if_quant (nativo),shap (nativo),0.764,0.162,2000
+if_quant (nativo),sirf (nativo),0.788,0.159,2000
+irf (nativo),"irf (régua, |I|)",1.248,0.397,2000
+irf (nativo),nid (nativo),1.404,0.501,2000
+irf (nativo),"nid (régua, |I|)",0.9,0.222,2000
+irf (nativo),"rf (régua, |I|)",1.222,0.384,2000
+irf (nativo),rpf (nativo),0.994,0.334,2000
+irf (nativo),"rpf (régua, |I|)",0.872,0.248,2000
+irf (nativo),shap (nativo),1.427,0.55,2000
+irf (nativo),sirf (nativo),1.86,0.692,2000
+"irf (régua, |I|)",nid (nativo),1.144,0.326,2000
+"irf (régua, |I|)","nid (régua, |I|)",0.922,0.172,2000
+"irf (régua, |I|)","rf (régua, |I|)",2.08,0.495,2000
+"irf (régua, |I|)",rpf (nativo),1.146,0.27,2000
+"irf (régua, |I|)","rpf (régua, |I|)",0.871,0.188,2000
+"irf (régua, |I|)",shap (nativo),1.487,0.428,2000
+"irf (régua, |I|)",sirf (nativo),1.364,0.365,2000
+nid (nativo),"nid (régua, |I|)",1.02,0.27,2000
+nid (nativo),"rf (régua, |I|)",1.139,0.316,2000
+nid (nativo),rpf (nativo),0.882,0.275,2000
+nid (nativo),"rpf (régua, |I|)",0.815,0.22,2000
+nid (nativo),shap (nativo),1.296,0.454,2000
+nid (nativo),sirf (nativo),1.536,0.461,2000
+"nid (régua, |I|)","rf (régua, |I|)",0.922,0.179,2000
+"nid (régua, |I|)",rpf (nativo),0.714,0.142,2000
+"nid (régua, |I|)","rpf (régua, |I|)",0.709,0.124,2000
+"nid (régua, |I|)",shap (nativo),0.88,0.205,2000
+"nid (régua, |I|)",sirf (nativo),0.932,0.203,2000
+"rf (régua, |I|)",rpf (nativo),1.16,0.27,2000
+"rf (régua, |I|)","rpf (régua, |I|)",0.866,0.189,2000
+"rf (régua, |I|)",shap (nativo),1.484,0.425,2000
+"rf (régua, |I|)",sirf (nativo),1.346,0.356,2000
+rpf (nativo),"rpf (régua, |I|)",0.737,0.19,2000
+rpf (nativo),shap (nativo),1.816,0.515,2000
+rpf (nativo),sirf (nativo),1.092,0.316,2000
+"rpf (régua, |I|)",shap (nativo),0.844,0.246,2000
+"rpf (régua, |I|)",sirf (nativo),0.882,0.221,2000
+shap (nativo),sirf (nativo),1.588,0.51,2000

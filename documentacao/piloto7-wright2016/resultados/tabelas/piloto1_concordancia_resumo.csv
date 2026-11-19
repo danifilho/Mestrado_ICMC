@@ -1,0 +1,106 @@
+a,b,intersecao_top3,kendall_tau,n
+ebm (nativo),"ebm (régua, |I|)",0.2,0.146,5
+ebm (nativo),h (nativo),0.6,0.394,5
+ebm (nativo),"if (régua, |I|)",0.4,0.055,5
+ebm (nativo),if_qual (nativo),0.6,0.071,5
+ebm (nativo),if_quant (nativo),0.2,-0.019,5
+ebm (nativo),irf (nativo),0.0,0.045,5
+ebm (nativo),"irf (régua, |I|)",0.2,0.114,5
+ebm (nativo),nid (nativo),0.0,0.054,5
+ebm (nativo),"nid (régua, |I|)",0.4,0.038,5
+ebm (nativo),"rf (régua, |I|)",0.6,0.082,5
+ebm (nativo),rpf (nativo),1.2,0.438,5
+ebm (nativo),"rpf (régua, |I|)",0.4,0.168,5
+ebm (nativo),shap (nativo),0.4,0.375,5
+ebm (nativo),sirf (nativo),0.2,-0.096,5
+"ebm (régua, |I|)",h (nativo),1.0,0.128,5
+"ebm (régua, |I|)","if (régua, |I|)",0.6,0.164,5
+"ebm (régua, |I|)",if_qual (nativo),1.0,0.089,5
+"ebm (régua, |I|)",if_quant (nativo),0.0,-0.12,5
+"ebm (régua, |I|)",irf (nativo),1.0,0.195,5
+"ebm (régua, |I|)","irf (régua, |I|)",0.6,0.114,5
+"ebm (régua, |I|)",nid (nativo),0.8,0.181,5
+"ebm (régua, |I|)","nid (régua, |I|)",0.8,0.046,5
+"ebm (régua, |I|)","rf (régua, |I|)",0.6,0.147,5
+"ebm (régua, |I|)",rpf (nativo),1.2,0.11,5
+"ebm (régua, |I|)","rpf (régua, |I|)",0.6,-0.017,5
+"ebm (régua, |I|)",shap (nativo),0.8,0.223,5
+"ebm (régua, |I|)",sirf (nativo),1.0,0.029,5
+h (nativo),"if (régua, |I|)",0.8,0.084,5
+h (nativo),if_qual (nativo),0.6,0.11,5
+h (nativo),if_quant (nativo),0.6,0.057,5
+h (nativo),irf (nativo),1.4,0.228,5
+h (nativo),"irf (régua, |I|)",1.2,0.198,5
+h (nativo),nid (nativo),1.0,0.242,5
+h (nativo),"nid (régua, |I|)",0.2,-0.004,5
+h (nativo),"rf (régua, |I|)",1.8,0.158,5
+h (nativo),rpf (nativo),2.0,0.5,5
+h (nativo),"rpf (régua, |I|)",0.6,0.128,5
+h (nativo),shap (nativo),1.8,0.52,5
+h (nativo),sirf (nativo),1.4,0.196,5
+"if (régua, |I|)",if_qual (nativo),0.4,0.042,5
+"if (régua, |I|)",if_quant (nativo),0.4,-0.022,5
+"if (régua, |I|)",irf (nativo),0.8,0.057,5
+"if (régua, |I|)","irf (régua, |I|)",0.6,0.109,5
+"if (régua, |I|)",nid (nativo),0.8,0.145,5
+"if (régua, |I|)","nid (régua, |I|)",1.0,0.07,5
+"if (régua, |I|)","rf (régua, |I|)",1.2,0.118,5
+"if (régua, |I|)",rpf (nativo),0.8,0.101,5
+"if (régua, |I|)","rpf (régua, |I|)",1.0,0.076,5
+"if (régua, |I|)",shap (nativo),1.0,0.152,5
+"if (régua, |I|)",sirf (nativo),1.0,0.224,5
+if_qual (nativo),if_quant (nativo),0.0,-0.069,5
+if_qual (nativo),irf (nativo),0.6,0.077,5
+if_qual (nativo),"irf (régua, |I|)",0.4,-0.055,5
+if_qual (nativo),nid (nativo),0.4,0.103,5
+if_qual (nativo),"nid (régua, |I|)",0.0,0.049,5
+if_qual (nativo),"rf (régua, |I|)",0.8,0.072,5
+if_qual (nativo),rpf (nativo),0.6,0.082,5
+if_qual (nativo),"rpf (régua, |I|)",0.2,-0.033,5
+if_qual (nativo),shap (nativo),0.0,0.025,5
+if_qual (nativo),sirf (nativo),0.6,0.019,5
+if_quant (nativo),irf (nativo),1.2,0.097,5
+if_quant (nativo),"irf (régua, |I|)",0.6,0.052,5
+if_quant (nativo),nid (nativo),0.4,0.009,5
+if_quant (nativo),"nid (régua, |I|)",0.4,0.083,5
+if_quant (nativo),"rf (régua, |I|)",0.8,0.115,5
+if_quant (nativo),rpf (nativo),0.2,0.07,5
+if_quant (nativo),"rpf (régua, |I|)",0.4,-0.034,5
+if_quant (nativo),shap (nativo),1.0,0.075,5
+if_quant (nativo),sirf (nativo),1.4,0.229,5
+irf (nativo),"irf (régua, |I|)",1.4,0.422,5
+irf (nativo),nid (nativo),1.0,0.14,5
+irf (nativo),"nid (régua, |I|)",0.4,0.007,5
+irf (nativo),"rf (régua, |I|)",1.0,0.095,5
+irf (nativo),rpf (nativo),1.2,0.178,5
+irf (nativo),"rpf (régua, |I|)",0.4,-0.02,5
+irf (nativo),shap (nativo),1.4,0.271,5
+irf (nativo),sirf (nativo),2.4,0.682,5
+"irf (régua, |I|)",nid (nativo),0.8,0.267,5
+"irf (régua, |I|)","nid (régua, |I|)",0.6,0.09,5
+"irf (régua, |I|)","rf (régua, |I|)",1.2,0.133,5
+"irf (régua, |I|)",rpf (nativo),0.8,0.15,5
+"irf (régua, |I|)","rpf (régua, |I|)",0.4,0.141,5
+"irf (régua, |I|)",shap (nativo),1.2,0.331,5
+"irf (régua, |I|)",sirf (nativo),1.0,0.145,5
+nid (nativo),"nid (régua, |I|)",0.8,0.088,5
+nid (nativo),"rf (régua, |I|)",1.0,0.013,5
+nid (nativo),rpf (nativo),0.8,0.17,5
+nid (nativo),"rpf (régua, |I|)",0.8,0.124,5
+nid (nativo),shap (nativo),1.0,0.337,5
+nid (nativo),sirf (nativo),0.8,0.224,5
+"nid (régua, |I|)","rf (régua, |I|)",0.8,0.194,5
+"nid (régua, |I|)",rpf (nativo),0.4,0.104,5
+"nid (régua, |I|)","rpf (régua, |I|)",0.8,0.05,5
+"nid (régua, |I|)",shap (nativo),0.6,0.072,5
+"nid (régua, |I|)",sirf (nativo),0.6,0.113,5
+"rf (régua, |I|)",rpf (nativo),1.0,0.179,5
+"rf (régua, |I|)","rpf (régua, |I|)",0.6,0.044,5
+"rf (régua, |I|)",shap (nativo),1.0,0.219,5
+"rf (régua, |I|)",sirf (nativo),1.0,0.484,5
+rpf (nativo),"rpf (régua, |I|)",0.8,0.133,5
+rpf (nativo),shap (nativo),1.6,0.483,5
+rpf (nativo),sirf (nativo),1.0,0.394,5
+"rpf (régua, |I|)",shap (nativo),1.0,0.246,5
+"rpf (régua, |I|)",sirf (nativo),0.2,0.178,5
+shap (nativo),sirf (nativo),1.2,0.441,5

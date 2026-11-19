@@ -1,0 +1,1481 @@
+beta,beta_effect,maf_interaction,maf_effect,modelo,detector,ranking,direcao,media_curva_k1_10,acaso
+0.4,0.4,0.2,0.2,Redundante,ebm,global_acuracia,I,0.185,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,ebm,global_acuracia,|I|,0.173,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,ebm,global_acuracia,−I,0.282,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,ebm,global_logloss,I,0.123,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,ebm,global_logloss,|I|,0.24,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,ebm,global_logloss,−I,0.361,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,ebm,nativo,nativo,0.45600000000000007,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,gini_W,nativo (Etapa 0),Wright,0.537,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,h,global_acuracia,I,0.187,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,h,global_acuracia,|I|,0.183,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,h,global_acuracia,−I,0.262,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,h,global_logloss,I,0.028999999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,h,global_logloss,|I|,0.211,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,h,global_logloss,−I,0.45099999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,h,nativo,nativo,0.371,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_qual,global_acuracia,I,0.22199999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_qual,global_acuracia,|I|,0.203,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_qual,global_acuracia,−I,0.27999999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_qual,global_logloss,I,0.09,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_qual,global_logloss,|I|,0.286,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_qual,global_logloss,−I,0.438,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_qual,nativo,nativo,0.311,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_quant,global_acuracia,I,0.22199999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_quant,global_acuracia,|I|,0.203,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_quant,global_acuracia,−I,0.27999999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_quant,global_logloss,I,0.09,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_quant,global_logloss,|I|,0.286,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_quant,global_logloss,−I,0.438,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,if_quant,nativo,nativo,0.172,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,irf,global_acuracia,I,0.194,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,irf,global_acuracia,|I|,0.134,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,irf,global_acuracia,−I,0.231,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,irf,global_logloss,I,0.053000000000000005,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,irf,global_logloss,|I|,0.154,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,irf,global_logloss,−I,0.373,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,irf,nativo,nativo,0.034999999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,jmst_W,nativo (Etapa 0),Wright,0.032,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,jvimp_W,nativo (Etapa 0),Wright,0.086,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,nid,global_acuracia,I,0.19,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,nid,global_acuracia,|I|,0.179,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,nid,global_acuracia,−I,0.242,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,nid,global_logloss,I,0.199,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,nid,global_logloss,|I|,0.189,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,nid,global_logloss,−I,0.29500000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,nid,nativo,nativo,0.065,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,permutacao_W,nativo (Etapa 0),Wright,0.073,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,ppi_W,nativo (Etapa 0),Wright,0.033999999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rf,global_acuracia,I,0.187,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rf,global_acuracia,|I|,0.183,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rf,global_acuracia,−I,0.262,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rf,global_logloss,I,0.028999999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rf,global_logloss,|I|,0.211,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rf,global_logloss,−I,0.45099999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rpf,global_acuracia,I,0.215,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rpf,global_acuracia,|I|,0.11600000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rpf,global_acuracia,−I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rpf,global_logloss,I,0.153,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rpf,global_logloss,|I|,0.191,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rpf,global_logloss,−I,0.29100000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,rpf,nativo,nativo,0.185,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,shap,global_acuracia,I,0.187,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,shap,global_acuracia,|I|,0.183,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,shap,global_acuracia,−I,0.262,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,shap,global_logloss,I,0.028999999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,shap,global_logloss,|I|,0.211,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,shap,global_logloss,−I,0.45099999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,shap,nativo,nativo,0.118,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,sirf,global_acuracia,I,0.194,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,sirf,global_acuracia,|I|,0.134,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,sirf,global_acuracia,−I,0.231,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,sirf,global_logloss,I,0.053000000000000005,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,sirf,global_logloss,|I|,0.154,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,sirf,global_logloss,−I,0.373,0.26190476190476186
+0.4,0.4,0.2,0.2,Redundante,sirf,nativo,nativo,0.029000000000000005,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ebm,global_acuracia,I,0.162,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ebm,global_acuracia,|I|,0.21400000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ebm,global_acuracia,−I,0.33999999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ebm,global_logloss,I,0.128,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ebm,global_logloss,|I|,0.413,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ebm,global_logloss,−I,0.515,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ebm,nativo,nativo,0.541,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,gini_W,nativo (Etapa 0),Wright,0.604,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,h,global_acuracia,I,0.173,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,h,global_acuracia,|I|,0.21200000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,h,global_acuracia,−I,0.29700000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,h,global_logloss,I,0.198,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,h,global_logloss,|I|,0.362,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,h,global_logloss,−I,0.40800000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,h,nativo,nativo,0.33599999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_qual,global_acuracia,I,0.209,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_qual,global_acuracia,|I|,0.21400000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_qual,global_acuracia,−I,0.273,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_qual,global_logloss,I,0.179,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_qual,global_logloss,|I|,0.328,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_qual,global_logloss,−I,0.38499999999999995,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_qual,nativo,nativo,0.23500000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_quant,global_acuracia,I,0.209,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_quant,global_acuracia,|I|,0.21400000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_quant,global_acuracia,−I,0.273,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_quant,global_logloss,I,0.179,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_quant,global_logloss,|I|,0.328,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_quant,global_logloss,−I,0.38499999999999995,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,if_quant,nativo,nativo,0.227,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,irf,global_acuracia,I,0.146,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,irf,global_acuracia,|I|,0.275,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,irf,global_acuracia,−I,0.372,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,irf,global_logloss,I,0.187,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,irf,global_logloss,|I|,0.389,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,irf,global_logloss,−I,0.43100000000000005,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,irf,nativo,nativo,0.164,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,jmst_W,nativo (Etapa 0),Wright,0.21800000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,jvimp_W,nativo (Etapa 0),Wright,0.388,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,nid,global_acuracia,I,0.217,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,nid,global_acuracia,|I|,0.195,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,nid,global_acuracia,−I,0.279,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,nid,global_logloss,I,0.24900000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,nid,global_logloss,|I|,0.252,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,nid,global_logloss,−I,0.24300000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,nid,nativo,nativo,0.126,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,permutacao_W,nativo (Etapa 0),Wright,0.135,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,ppi_W,nativo (Etapa 0),Wright,0.305,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rf,global_acuracia,I,0.173,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rf,global_acuracia,|I|,0.21200000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rf,global_acuracia,−I,0.29700000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rf,global_logloss,I,0.198,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rf,global_logloss,|I|,0.362,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rf,global_logloss,−I,0.40800000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rpf,global_acuracia,I,0.147,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rpf,global_acuracia,|I|,0.182,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rpf,global_acuracia,−I,0.308,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rpf,global_logloss,I,0.22799999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rpf,global_logloss,|I|,0.319,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rpf,global_logloss,−I,0.354,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,rpf,nativo,nativo,0.514,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,shap,global_acuracia,I,0.173,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,shap,global_acuracia,|I|,0.21200000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,shap,global_acuracia,−I,0.29700000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,shap,global_logloss,I,0.198,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,shap,global_logloss,|I|,0.362,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,shap,global_logloss,−I,0.40800000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,shap,nativo,nativo,0.41200000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,sirf,global_acuracia,I,0.146,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,sirf,global_acuracia,|I|,0.275,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,sirf,global_acuracia,−I,0.372,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,sirf,global_logloss,I,0.187,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,sirf,global_logloss,|I|,0.389,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,sirf,global_logloss,−I,0.43100000000000005,0.26190476190476186
+0.4,0.4,0.2,0.2,SNP modificador,sirf,nativo,nativo,0.128,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ebm,global_acuracia,I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ebm,global_acuracia,|I|,0.251,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ebm,global_acuracia,−I,0.29700000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ebm,global_logloss,I,0.316,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ebm,global_logloss,|I|,0.308,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ebm,global_logloss,−I,0.21000000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ebm,nativo,nativo,0.28300000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,gini_W,nativo (Etapa 0),Wright,0.693,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,h,global_acuracia,I,0.26,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,h,global_acuracia,|I|,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,h,global_acuracia,−I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,h,global_logloss,I,0.319,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,h,global_logloss,|I|,0.304,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,h,global_logloss,−I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,h,nativo,nativo,0.327,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_qual,global_acuracia,I,0.23500000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_qual,global_acuracia,|I|,0.236,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_qual,global_acuracia,−I,0.279,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_qual,global_logloss,I,0.255,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_qual,global_logloss,|I|,0.319,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_qual,global_logloss,−I,0.27599999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_qual,nativo,nativo,0.273,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_quant,global_acuracia,I,0.23500000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_quant,global_acuracia,|I|,0.236,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_quant,global_acuracia,−I,0.279,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_quant,global_logloss,I,0.255,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_quant,global_logloss,|I|,0.319,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_quant,global_logloss,−I,0.27599999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,if_quant,nativo,nativo,0.26799999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,irf,global_acuracia,I,0.23900000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,irf,global_acuracia,|I|,0.24500000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,irf,global_acuracia,−I,0.271,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,irf,global_logloss,I,0.292,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,irf,global_logloss,|I|,0.31,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,irf,global_logloss,−I,0.253,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,irf,nativo,nativo,0.28300000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,jmst_W,nativo (Etapa 0),Wright,0.28700000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,jvimp_W,nativo (Etapa 0),Wright,0.257,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,nid,global_acuracia,I,0.242,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,nid,global_acuracia,|I|,0.28900000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,nid,global_acuracia,−I,0.221,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,nid,global_logloss,I,0.269,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,nid,global_logloss,|I|,0.24500000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,nid,global_logloss,−I,0.265,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,nid,nativo,nativo,0.29100000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,permutacao_W,nativo (Etapa 0),Wright,0.315,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,ppi_W,nativo (Etapa 0),Wright,0.30300000000000005,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rf,global_acuracia,I,0.26,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rf,global_acuracia,|I|,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rf,global_acuracia,−I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rf,global_logloss,I,0.319,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rf,global_logloss,|I|,0.304,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rf,global_logloss,−I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rpf,global_acuracia,I,0.26799999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rpf,global_acuracia,|I|,0.262,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rpf,global_acuracia,−I,0.246,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rpf,global_logloss,I,0.31,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rpf,global_logloss,|I|,0.29500000000000004,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rpf,global_logloss,−I,0.23500000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,rpf,nativo,nativo,0.288,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,shap,global_acuracia,I,0.26,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,shap,global_acuracia,|I|,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,shap,global_acuracia,−I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,shap,global_logloss,I,0.319,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,shap,global_logloss,|I|,0.304,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,shap,global_logloss,−I,0.254,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,shap,nativo,nativo,0.33399999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,sirf,global_acuracia,I,0.23900000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,sirf,global_acuracia,|I|,0.24500000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,sirf,global_acuracia,−I,0.271,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,sirf,global_logloss,I,0.292,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,sirf,global_logloss,|I|,0.31,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,sirf,global_logloss,−I,0.253,0.26190476190476186
+0.4,0.4,0.2,0.2,Sem interação,sirf,nativo,nativo,0.21400000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ebm,global_acuracia,I,0.313,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ebm,global_acuracia,|I|,0.298,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ebm,global_acuracia,−I,0.255,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ebm,global_logloss,I,0.221,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ebm,global_logloss,|I|,0.45600000000000007,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ebm,global_logloss,−I,0.45999999999999996,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ebm,nativo,nativo,0.521,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,gini_W,nativo (Etapa 0),Wright,0.779,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,h,global_acuracia,I,0.271,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,h,global_acuracia,|I|,0.37,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,h,global_acuracia,−I,0.339,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,h,global_logloss,I,0.188,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,h,global_logloss,|I|,0.603,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,h,global_logloss,−I,0.5559999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,h,nativo,nativo,0.554,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_qual,global_acuracia,I,0.24699999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_qual,global_acuracia,|I|,0.304,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_qual,global_acuracia,−I,0.303,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_qual,global_logloss,I,0.207,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_qual,global_logloss,|I|,0.538,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_qual,global_logloss,−I,0.514,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_qual,nativo,nativo,0.168,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_quant,global_acuracia,I,0.24699999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_quant,global_acuracia,|I|,0.304,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_quant,global_acuracia,−I,0.303,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_quant,global_logloss,I,0.207,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_quant,global_logloss,|I|,0.538,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_quant,global_logloss,−I,0.514,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,if_quant,nativo,nativo,0.308,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,irf,global_acuracia,I,0.28300000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,irf,global_acuracia,|I|,0.429,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,irf,global_acuracia,−I,0.333,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,irf,global_logloss,I,0.203,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,irf,global_logloss,|I|,0.594,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,irf,global_logloss,−I,0.517,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,irf,nativo,nativo,0.6,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,jmst_W,nativo (Etapa 0),Wright,0.6849999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,jvimp_W,nativo (Etapa 0),Wright,0.536,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,nid,global_acuracia,I,0.27799999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,nid,global_acuracia,|I|,0.264,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,nid,global_acuracia,−I,0.23900000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,nid,global_logloss,I,0.282,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,nid,global_logloss,|I|,0.445,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,nid,global_logloss,−I,0.395,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,nid,nativo,nativo,0.495,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,permutacao_W,nativo (Etapa 0),Wright,0.618,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,ppi_W,nativo (Etapa 0),Wright,0.616,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rf,global_acuracia,I,0.271,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rf,global_acuracia,|I|,0.37,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rf,global_acuracia,−I,0.339,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rf,global_logloss,I,0.188,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rf,global_logloss,|I|,0.603,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rf,global_logloss,−I,0.5559999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rpf,global_acuracia,I,0.276,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rpf,global_acuracia,|I|,0.378,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rpf,global_acuracia,−I,0.28300000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rpf,global_logloss,I,0.265,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rpf,global_logloss,|I|,0.40199999999999997,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rpf,global_logloss,−I,0.387,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,rpf,nativo,nativo,0.622,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,shap,global_acuracia,I,0.271,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,shap,global_acuracia,|I|,0.37,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,shap,global_acuracia,−I,0.339,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,shap,global_logloss,I,0.188,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,shap,global_logloss,|I|,0.603,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,shap,global_logloss,−I,0.5559999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,shap,nativo,nativo,0.639,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,sirf,global_acuracia,I,0.28300000000000003,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,sirf,global_acuracia,|I|,0.429,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,sirf,global_acuracia,−I,0.333,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,sirf,global_logloss,I,0.203,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,sirf,global_logloss,|I|,0.594,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,sirf,global_logloss,−I,0.517,0.26190476190476186
+0.4,0.4,0.2,0.2,Sinérgico,sirf,nativo,nativo,0.5309999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ebm,global_acuracia,I,0.164,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ebm,global_acuracia,|I|,0.166,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ebm,global_acuracia,−I,0.292,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ebm,global_logloss,I,0.086,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ebm,global_logloss,|I|,0.304,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ebm,global_logloss,−I,0.429,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ebm,nativo,nativo,0.43200000000000005,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,gini_W,nativo (Etapa 0),Wright,0.488,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,h,global_acuracia,I,0.17,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,h,global_acuracia,|I|,0.133,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,h,global_acuracia,−I,0.231,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,h,global_logloss,I,0.11000000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,h,global_logloss,|I|,0.067,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,h,global_logloss,−I,0.267,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,h,nativo,nativo,0.24500000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_qual,global_acuracia,I,0.231,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_qual,global_acuracia,|I|,0.11499999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_qual,global_acuracia,−I,0.24300000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_qual,global_logloss,I,0.091,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_qual,global_logloss,|I|,0.129,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_qual,global_logloss,−I,0.318,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_qual,nativo,nativo,0.215,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_quant,global_acuracia,I,0.231,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_quant,global_acuracia,|I|,0.11499999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_quant,global_acuracia,−I,0.24300000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_quant,global_logloss,I,0.091,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_quant,global_logloss,|I|,0.129,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_quant,global_logloss,−I,0.318,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,if_quant,nativo,nativo,0.16299999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,irf,global_acuracia,I,0.168,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,irf,global_acuracia,|I|,0.10899999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,irf,global_acuracia,−I,0.24500000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,irf,global_logloss,I,0.10600000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,irf,global_logloss,|I|,0.07,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,irf,global_logloss,−I,0.26,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,irf,nativo,nativo,0.008,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,jmst_W,nativo (Etapa 0),Wright,0.007000000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,jvimp_W,nativo (Etapa 0),Wright,0.08700000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,nid,global_acuracia,I,0.17,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,nid,global_acuracia,|I|,0.09,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,nid,global_acuracia,−I,0.149,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,nid,global_logloss,I,0.158,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,nid,global_logloss,|I|,0.086,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,nid,global_logloss,−I,0.256,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,nid,nativo,nativo,0.014000000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,permutacao_W,nativo (Etapa 0),Wright,0.011,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,ppi_W,nativo (Etapa 0),Wright,0.015,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rf,global_acuracia,I,0.17,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rf,global_acuracia,|I|,0.133,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rf,global_acuracia,−I,0.231,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rf,global_logloss,I,0.11000000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rf,global_logloss,|I|,0.067,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rf,global_logloss,−I,0.267,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rpf,global_acuracia,I,0.202,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rpf,global_acuracia,|I|,0.119,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rpf,global_acuracia,−I,0.22999999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rpf,global_logloss,I,0.126,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rpf,global_logloss,|I|,0.131,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rpf,global_logloss,−I,0.26,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,rpf,nativo,nativo,0.16899999999999998,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,shap,global_acuracia,I,0.17,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,shap,global_acuracia,|I|,0.133,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,shap,global_acuracia,−I,0.231,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,shap,global_logloss,I,0.11000000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,shap,global_logloss,|I|,0.067,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,shap,global_logloss,−I,0.267,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,shap,nativo,nativo,0.064,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,sirf,global_acuracia,I,0.168,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,sirf,global_acuracia,|I|,0.10899999999999999,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,sirf,global_acuracia,−I,0.24500000000000002,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,sirf,global_logloss,I,0.10600000000000001,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,sirf,global_logloss,|I|,0.07,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,sirf,global_logloss,−I,0.26,0.26190476190476186
+0.4,0.4,0.2,0.2,Só interação,sirf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ebm,global_acuracia,I,0.09,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ebm,global_acuracia,|I|,0.279,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ebm,global_acuracia,−I,0.43,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ebm,global_logloss,I,0.061,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ebm,global_logloss,|I|,0.509,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ebm,global_logloss,−I,0.571,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ebm,nativo,nativo,0.595,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,gini_W,nativo (Etapa 0),Wright,0.75,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,h,global_acuracia,I,0.22999999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,h,global_acuracia,|I|,0.16099999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,h,global_acuracia,−I,0.225,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,h,global_logloss,I,0.034999999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,h,global_logloss,|I|,0.229,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,h,global_logloss,−I,0.466,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,h,nativo,nativo,0.653,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_qual,global_acuracia,I,0.192,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_qual,global_acuracia,|I|,0.149,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_qual,global_acuracia,−I,0.262,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_qual,global_logloss,I,0.048,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_qual,global_logloss,|I|,0.296,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_qual,global_logloss,−I,0.483,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_qual,nativo,nativo,0.398,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_quant,global_acuracia,I,0.192,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_quant,global_acuracia,|I|,0.149,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_quant,global_acuracia,−I,0.262,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_quant,global_logloss,I,0.048,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_quant,global_logloss,|I|,0.296,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_quant,global_logloss,−I,0.483,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,if_quant,nativo,nativo,0.22200000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,irf,global_acuracia,I,0.181,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,irf,global_acuracia,|I|,0.189,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,irf,global_acuracia,−I,0.30300000000000005,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,irf,global_logloss,I,0.032,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,irf,global_logloss,|I|,0.23199999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,irf,global_logloss,−I,0.5,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,irf,nativo,nativo,0.023,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,jmst_W,nativo (Etapa 0),Wright,0.01,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,jvimp_W,nativo (Etapa 0),Wright,0.15699999999999997,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,nid,global_acuracia,I,0.175,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,nid,global_acuracia,|I|,0.126,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,nid,global_acuracia,−I,0.147,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,nid,global_logloss,I,0.149,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,nid,global_logloss,|I|,0.20400000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,nid,global_logloss,−I,0.339,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,nid,nativo,nativo,0.01,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,permutacao_W,nativo (Etapa 0),Wright,0.011,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,ppi_W,nativo (Etapa 0),Wright,0.012,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rf,global_acuracia,I,0.22999999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rf,global_acuracia,|I|,0.16099999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rf,global_acuracia,−I,0.225,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rf,global_logloss,I,0.034999999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rf,global_logloss,|I|,0.229,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rf,global_logloss,−I,0.466,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rpf,global_acuracia,I,0.215,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rpf,global_acuracia,|I|,0.066,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rpf,global_acuracia,−I,0.179,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rpf,global_logloss,I,0.06000000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rpf,global_logloss,|I|,0.084,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rpf,global_logloss,−I,0.254,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,rpf,nativo,nativo,0.085,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,shap,global_acuracia,I,0.22999999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,shap,global_acuracia,|I|,0.16099999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,shap,global_acuracia,−I,0.225,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,shap,global_logloss,I,0.034999999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,shap,global_logloss,|I|,0.229,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,shap,global_logloss,−I,0.466,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,shap,nativo,nativo,0.085,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,sirf,global_acuracia,I,0.181,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,sirf,global_acuracia,|I|,0.189,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,sirf,global_acuracia,−I,0.30300000000000005,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,sirf,global_logloss,I,0.032,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,sirf,global_logloss,|I|,0.23199999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,sirf,global_logloss,−I,0.5,0.26190476190476186
+0.4,0.4,0.4,0.2,Redundante,sirf,nativo,nativo,0.009,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ebm,global_acuracia,I,0.17,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ebm,global_acuracia,|I|,0.387,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ebm,global_acuracia,−I,0.41200000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ebm,global_logloss,I,0.129,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ebm,global_logloss,|I|,0.655,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ebm,global_logloss,−I,0.664,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ebm,nativo,nativo,0.876,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,gini_W,nativo (Etapa 0),Wright,0.8869999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,h,global_acuracia,I,0.16899999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,h,global_acuracia,|I|,0.522,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,h,global_acuracia,−I,0.534,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,h,global_logloss,I,0.042,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,h,global_logloss,|I|,0.845,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,h,global_logloss,−I,0.8630000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,h,nativo,nativo,0.704,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_qual,global_acuracia,I,0.17,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_qual,global_acuracia,|I|,0.414,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_qual,global_acuracia,−I,0.466,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_qual,global_logloss,I,0.041,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_qual,global_logloss,|I|,0.781,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_qual,global_logloss,−I,0.82,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_qual,nativo,nativo,0.176,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_quant,global_acuracia,I,0.17,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_quant,global_acuracia,|I|,0.414,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_quant,global_acuracia,−I,0.466,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_quant,global_logloss,I,0.041,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_quant,global_logloss,|I|,0.781,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_quant,global_logloss,−I,0.82,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,if_quant,nativo,nativo,0.302,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,irf,global_acuracia,I,0.129,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,irf,global_acuracia,|I|,0.599,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,irf,global_acuracia,−I,0.64,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,irf,global_logloss,I,0.055999999999999994,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,irf,global_logloss,|I|,0.893,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,irf,global_logloss,−I,0.8859999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,irf,nativo,nativo,0.789,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,jmst_W,nativo (Etapa 0),Wright,0.828,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,jvimp_W,nativo (Etapa 0),Wright,0.671,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,nid,global_acuracia,I,0.282,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,nid,global_acuracia,|I|,0.36,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,nid,global_acuracia,−I,0.331,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,nid,global_logloss,I,0.38,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,nid,global_logloss,|I|,0.601,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,nid,global_logloss,−I,0.368,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,nid,nativo,nativo,0.649,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,permutacao_W,nativo (Etapa 0),Wright,0.62,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,ppi_W,nativo (Etapa 0),Wright,0.756,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rf,global_acuracia,I,0.16899999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rf,global_acuracia,|I|,0.522,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rf,global_acuracia,−I,0.534,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rf,global_logloss,I,0.042,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rf,global_logloss,|I|,0.845,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rf,global_logloss,−I,0.8630000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rpf,global_acuracia,I,0.16,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rpf,global_acuracia,|I|,0.47300000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rpf,global_acuracia,−I,0.517,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rpf,global_logloss,I,0.211,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rpf,global_logloss,|I|,0.399,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rpf,global_logloss,−I,0.44299999999999995,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,rpf,nativo,nativo,0.8400000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,shap,global_acuracia,I,0.16899999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,shap,global_acuracia,|I|,0.522,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,shap,global_acuracia,−I,0.534,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,shap,global_logloss,I,0.042,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,shap,global_logloss,|I|,0.845,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,shap,global_logloss,−I,0.8630000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,shap,nativo,nativo,0.8230000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,sirf,global_acuracia,I,0.129,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,sirf,global_acuracia,|I|,0.599,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,sirf,global_acuracia,−I,0.64,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,sirf,global_logloss,I,0.055999999999999994,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,sirf,global_logloss,|I|,0.893,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,sirf,global_logloss,−I,0.8859999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,SNP modificador,sirf,nativo,nativo,0.8310000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ebm,global_acuracia,I,0.233,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ebm,global_acuracia,|I|,0.355,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ebm,global_acuracia,−I,0.318,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ebm,global_logloss,I,0.35300000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ebm,global_logloss,|I|,0.388,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ebm,global_logloss,−I,0.288,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ebm,nativo,nativo,0.36,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,gini_W,nativo (Etapa 0),Wright,0.8710000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,h,global_acuracia,I,0.333,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,h,global_acuracia,|I|,0.32999999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,h,global_acuracia,−I,0.29300000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,h,global_logloss,I,0.33199999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,h,global_logloss,|I|,0.41200000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,h,global_logloss,−I,0.29700000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,h,nativo,nativo,0.35700000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_qual,global_acuracia,I,0.3,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_qual,global_acuracia,|I|,0.34199999999999997,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_qual,global_acuracia,−I,0.22799999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_qual,global_logloss,I,0.323,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_qual,global_logloss,|I|,0.33399999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_qual,global_logloss,−I,0.27199999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_qual,nativo,nativo,0.259,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_quant,global_acuracia,I,0.3,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_quant,global_acuracia,|I|,0.34199999999999997,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_quant,global_acuracia,−I,0.22799999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_quant,global_logloss,I,0.323,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_quant,global_logloss,|I|,0.33399999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_quant,global_logloss,−I,0.27199999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,if_quant,nativo,nativo,0.316,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,irf,global_acuracia,I,0.303,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,irf,global_acuracia,|I|,0.42400000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,irf,global_acuracia,−I,0.292,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,irf,global_logloss,I,0.38,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,irf,global_logloss,|I|,0.47800000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,irf,global_logloss,−I,0.346,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,irf,nativo,nativo,0.61,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,jmst_W,nativo (Etapa 0),Wright,0.626,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,jvimp_W,nativo (Etapa 0),Wright,0.41100000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,nid,global_acuracia,I,0.335,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,nid,global_acuracia,|I|,0.385,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,nid,global_acuracia,−I,0.22000000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,nid,global_logloss,I,0.23700000000000002,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,nid,global_logloss,|I|,0.3,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,nid,global_logloss,−I,0.301,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,nid,nativo,nativo,0.42800000000000005,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,permutacao_W,nativo (Etapa 0),Wright,0.492,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,ppi_W,nativo (Etapa 0),Wright,0.506,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rf,global_acuracia,I,0.333,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rf,global_acuracia,|I|,0.32999999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rf,global_acuracia,−I,0.29300000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rf,global_logloss,I,0.33199999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rf,global_logloss,|I|,0.41200000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rf,global_logloss,−I,0.29700000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rpf,global_acuracia,I,0.254,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rpf,global_acuracia,|I|,0.329,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rpf,global_acuracia,−I,0.328,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rpf,global_logloss,I,0.311,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rpf,global_logloss,|I|,0.368,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rpf,global_logloss,−I,0.3,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,rpf,nativo,nativo,0.348,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,shap,global_acuracia,I,0.333,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,shap,global_acuracia,|I|,0.32999999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,shap,global_acuracia,−I,0.29300000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,shap,global_logloss,I,0.33199999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,shap,global_logloss,|I|,0.41200000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,shap,global_logloss,−I,0.29700000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,shap,nativo,nativo,0.43499999999999994,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,sirf,global_acuracia,I,0.303,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,sirf,global_acuracia,|I|,0.42400000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,sirf,global_acuracia,−I,0.292,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,sirf,global_logloss,I,0.38,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,sirf,global_logloss,|I|,0.47800000000000004,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,sirf,global_logloss,−I,0.346,0.26190476190476186
+0.4,0.4,0.4,0.2,Sem interação,sirf,nativo,nativo,0.567,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ebm,global_acuracia,I,0.246,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ebm,global_acuracia,|I|,0.387,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ebm,global_acuracia,−I,0.336,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ebm,global_logloss,I,0.24300000000000002,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ebm,global_logloss,|I|,0.717,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ebm,global_logloss,−I,0.572,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ebm,nativo,nativo,0.845,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,gini_W,nativo (Etapa 0),Wright,0.899,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,h,global_acuracia,I,0.244,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,h,global_acuracia,|I|,0.573,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,h,global_acuracia,−I,0.48,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,h,global_logloss,I,0.08,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,h,global_logloss,|I|,0.9039999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,h,global_logloss,−I,0.865,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,h,nativo,nativo,0.9480000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_qual,global_acuracia,I,0.339,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_qual,global_acuracia,|I|,0.487,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_qual,global_acuracia,−I,0.344,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_qual,global_logloss,I,0.099,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_qual,global_logloss,|I|,0.8790000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_qual,global_logloss,−I,0.8310000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_qual,nativo,nativo,0.16999999999999998,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_quant,global_acuracia,I,0.339,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_quant,global_acuracia,|I|,0.487,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_quant,global_acuracia,−I,0.344,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_quant,global_logloss,I,0.099,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_quant,global_logloss,|I|,0.8790000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_quant,global_logloss,−I,0.8310000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,if_quant,nativo,nativo,0.394,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,irf,global_acuracia,I,0.244,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,irf,global_acuracia,|I|,0.638,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,irf,global_acuracia,−I,0.545,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,irf,global_logloss,I,0.11000000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,irf,global_logloss,|I|,0.8869999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,irf,global_logloss,−I,0.829,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,irf,nativo,nativo,0.86,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,jmst_W,nativo (Etapa 0),Wright,0.9970000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,jvimp_W,nativo (Etapa 0),Wright,0.8130000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,nid,global_acuracia,I,0.382,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,nid,global_acuracia,|I|,0.386,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,nid,global_acuracia,−I,0.196,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,nid,global_logloss,I,0.101,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,nid,global_logloss,|I|,0.6809999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,nid,global_logloss,−I,0.7070000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,nid,nativo,nativo,0.933,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,permutacao_W,nativo (Etapa 0),Wright,0.8949999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,ppi_W,nativo (Etapa 0),Wright,0.9949999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rf,global_acuracia,I,0.244,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rf,global_acuracia,|I|,0.573,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rf,global_acuracia,−I,0.48,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rf,global_logloss,I,0.08,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rf,global_logloss,|I|,0.9039999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rf,global_logloss,−I,0.865,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rpf,global_acuracia,I,0.217,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rpf,global_acuracia,|I|,0.608,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rpf,global_acuracia,−I,0.563,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rpf,global_logloss,I,0.26,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rpf,global_logloss,|I|,0.6060000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rpf,global_logloss,−I,0.484,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,rpf,nativo,nativo,0.897,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,shap,global_acuracia,I,0.244,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,shap,global_acuracia,|I|,0.573,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,shap,global_acuracia,−I,0.48,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,shap,global_logloss,I,0.08,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,shap,global_logloss,|I|,0.9039999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,shap,global_logloss,−I,0.865,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,shap,nativo,nativo,0.9720000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,sirf,global_acuracia,I,0.244,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,sirf,global_acuracia,|I|,0.638,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,sirf,global_acuracia,−I,0.545,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,sirf,global_logloss,I,0.11000000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,sirf,global_logloss,|I|,0.8869999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,sirf,global_logloss,−I,0.829,0.26190476190476186
+0.4,0.4,0.4,0.2,Sinérgico,sirf,nativo,nativo,0.97,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ebm,global_acuracia,I,0.11599999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ebm,global_acuracia,|I|,0.409,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ebm,global_acuracia,−I,0.517,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ebm,global_logloss,I,0.046,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ebm,global_logloss,|I|,0.663,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ebm,global_logloss,−I,0.758,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ebm,nativo,nativo,0.9179999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,gini_W,nativo (Etapa 0),Wright,0.853,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,h,global_acuracia,I,0.088,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,h,global_acuracia,|I|,0.327,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,h,global_acuracia,−I,0.48,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,h,global_logloss,I,0.041,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,h,global_logloss,|I|,0.651,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,h,global_logloss,−I,0.749,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,h,nativo,nativo,0.729,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_qual,global_acuracia,I,0.093,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_qual,global_acuracia,|I|,0.331,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_qual,global_acuracia,−I,0.45499999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_qual,global_logloss,I,0.066,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_qual,global_logloss,|I|,0.6060000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_qual,global_logloss,−I,0.708,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_qual,nativo,nativo,0.324,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_quant,global_acuracia,I,0.093,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_quant,global_acuracia,|I|,0.331,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_quant,global_acuracia,−I,0.45499999999999996,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_quant,global_logloss,I,0.066,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_quant,global_logloss,|I|,0.6060000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_quant,global_logloss,−I,0.708,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,if_quant,nativo,nativo,0.323,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,irf,global_acuracia,I,0.10800000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,irf,global_acuracia,|I|,0.446,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,irf,global_acuracia,−I,0.524,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,irf,global_logloss,I,0.063,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,irf,global_logloss,|I|,0.622,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,irf,global_logloss,−I,0.723,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,irf,nativo,nativo,0.369,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,jmst_W,nativo (Etapa 0),Wright,0.359,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,jvimp_W,nativo (Etapa 0),Wright,0.545,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,nid,global_acuracia,I,0.10400000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,nid,global_acuracia,|I|,0.183,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,nid,global_acuracia,−I,0.23500000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,nid,global_logloss,I,0.5509999999999999,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,nid,global_logloss,|I|,0.462,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,nid,global_logloss,−I,0.10600000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,nid,nativo,nativo,0.186,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,permutacao_W,nativo (Etapa 0),Wright,0.442,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,ppi_W,nativo (Etapa 0),Wright,0.23500000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rf,global_acuracia,I,0.088,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rf,global_acuracia,|I|,0.327,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rf,global_acuracia,−I,0.48,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rf,global_logloss,I,0.041,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rf,global_logloss,|I|,0.651,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rf,global_logloss,−I,0.749,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rpf,global_acuracia,I,0.131,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rpf,global_acuracia,|I|,0.28700000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rpf,global_acuracia,−I,0.40199999999999997,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rpf,global_logloss,I,0.12,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rpf,global_logloss,|I|,0.36500000000000005,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rpf,global_logloss,−I,0.47300000000000003,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,rpf,nativo,nativo,0.655,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,shap,global_acuracia,I,0.088,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,shap,global_acuracia,|I|,0.327,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,shap,global_acuracia,−I,0.48,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,shap,global_logloss,I,0.041,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,shap,global_logloss,|I|,0.651,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,shap,global_logloss,−I,0.749,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,shap,nativo,nativo,0.567,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,sirf,global_acuracia,I,0.10800000000000001,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,sirf,global_acuracia,|I|,0.446,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,sirf,global_acuracia,−I,0.524,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,sirf,global_logloss,I,0.063,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,sirf,global_logloss,|I|,0.622,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,sirf,global_logloss,−I,0.723,0.26190476190476186
+0.4,0.4,0.4,0.2,Só interação,sirf,nativo,nativo,0.335,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ebm,global_acuracia,I,0.261,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ebm,global_acuracia,|I|,0.05900000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ebm,global_acuracia,−I,0.179,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ebm,global_logloss,I,0.099,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ebm,global_logloss,|I|,0.084,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ebm,global_logloss,−I,0.238,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ebm,nativo,nativo,0.40199999999999997,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,gini_W,nativo (Etapa 0),Wright,0.358,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,h,global_acuracia,I,0.20600000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,h,global_acuracia,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,h,global_acuracia,−I,0.143,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,h,global_logloss,I,0.08,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,h,global_logloss,|I|,0.004,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,h,global_logloss,−I,0.165,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,h,nativo,nativo,0.121,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_qual,global_acuracia,I,0.255,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_qual,global_acuracia,|I|,0.074,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_qual,global_acuracia,−I,0.155,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_qual,global_logloss,I,0.095,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_qual,global_logloss,|I|,0.05600000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_qual,global_logloss,−I,0.253,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_qual,nativo,nativo,0.30100000000000005,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_quant,global_acuracia,I,0.255,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_quant,global_acuracia,|I|,0.074,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_quant,global_acuracia,−I,0.155,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_quant,global_logloss,I,0.095,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_quant,global_logloss,|I|,0.05600000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_quant,global_logloss,−I,0.253,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,if_quant,nativo,nativo,0.061,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,irf,global_acuracia,I,0.192,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,irf,global_acuracia,|I|,0.049,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,irf,global_acuracia,−I,0.17200000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,irf,global_logloss,I,0.10200000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,irf,global_logloss,|I|,0.007000000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,irf,global_logloss,−I,0.154,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,irf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,jmst_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,jvimp_W,nativo (Etapa 0),Wright,0.004,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,nid,global_acuracia,I,0.242,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,nid,global_acuracia,|I|,0.133,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,nid,global_acuracia,−I,0.263,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,nid,global_logloss,I,0.13,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,nid,global_logloss,|I|,0.033999999999999996,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,nid,global_logloss,−I,0.188,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,nid,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,permutacao_W,nativo (Etapa 0),Wright,0.006,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,ppi_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rf,global_acuracia,I,0.20600000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rf,global_acuracia,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rf,global_acuracia,−I,0.143,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rf,global_logloss,I,0.08,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rf,global_logloss,|I|,0.004,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rf,global_logloss,−I,0.165,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rpf,global_acuracia,I,0.25599999999999995,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rpf,global_acuracia,|I|,0.06999999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rpf,global_acuracia,−I,0.185,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rpf,global_logloss,I,0.133,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rpf,global_logloss,|I|,0.051000000000000004,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rpf,global_logloss,−I,0.23600000000000004,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,rpf,nativo,nativo,0.041999999999999996,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,shap,global_acuracia,I,0.20600000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,shap,global_acuracia,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,shap,global_acuracia,−I,0.143,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,shap,global_logloss,I,0.08,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,shap,global_logloss,|I|,0.004,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,shap,global_logloss,−I,0.165,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,shap,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,sirf,global_acuracia,I,0.192,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,sirf,global_acuracia,|I|,0.049,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,sirf,global_acuracia,−I,0.17200000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,sirf,global_logloss,I,0.10200000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,sirf,global_logloss,|I|,0.007000000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,sirf,global_logloss,−I,0.154,0.26190476190476186
+0.4,0.8,0.2,0.2,Redundante,sirf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ebm,global_acuracia,I,0.223,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ebm,global_acuracia,|I|,0.097,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ebm,global_acuracia,−I,0.248,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ebm,global_logloss,I,0.096,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ebm,global_logloss,|I|,0.085,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ebm,global_logloss,−I,0.259,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ebm,nativo,nativo,0.34199999999999997,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,gini_W,nativo (Etapa 0),Wright,0.376,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,h,global_acuracia,I,0.24,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,h,global_acuracia,|I|,0.052000000000000005,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,h,global_acuracia,−I,0.11599999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,h,global_logloss,I,0.086,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,h,global_logloss,|I|,0.004,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,h,global_logloss,−I,0.162,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,h,nativo,nativo,0.024,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_qual,global_acuracia,I,0.258,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_qual,global_acuracia,|I|,0.10499999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_qual,global_acuracia,−I,0.22600000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_qual,global_logloss,I,0.10800000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_qual,global_logloss,|I|,0.044,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_qual,global_logloss,−I,0.20700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_qual,nativo,nativo,0.20299999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_quant,global_acuracia,I,0.258,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_quant,global_acuracia,|I|,0.10499999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_quant,global_acuracia,−I,0.22600000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_quant,global_logloss,I,0.10800000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_quant,global_logloss,|I|,0.044,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_quant,global_logloss,−I,0.20700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,if_quant,nativo,nativo,0.049,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,irf,global_acuracia,I,0.275,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,irf,global_acuracia,|I|,0.094,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,irf,global_acuracia,−I,0.158,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,irf,global_logloss,I,0.11700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,irf,global_logloss,|I|,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,irf,global_logloss,−I,0.13799999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,irf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,jmst_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,jvimp_W,nativo (Etapa 0),Wright,0.01,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,nid,global_acuracia,I,0.281,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,nid,global_acuracia,|I|,0.08700000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,nid,global_acuracia,−I,0.21000000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,nid,global_logloss,I,0.20600000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,nid,global_logloss,|I|,0.027000000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,nid,global_logloss,−I,0.146,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,nid,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,permutacao_W,nativo (Etapa 0),Wright,0.032,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,ppi_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rf,global_acuracia,I,0.24,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rf,global_acuracia,|I|,0.052000000000000005,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rf,global_acuracia,−I,0.11599999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rf,global_logloss,I,0.086,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rf,global_logloss,|I|,0.004,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rf,global_logloss,−I,0.162,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rpf,global_acuracia,I,0.265,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rpf,global_acuracia,|I|,0.05600000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rpf,global_acuracia,−I,0.13999999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rpf,global_logloss,I,0.121,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rpf,global_logloss,|I|,0.05500000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rpf,global_logloss,−I,0.29300000000000004,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,rpf,nativo,nativo,0.162,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,shap,global_acuracia,I,0.24,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,shap,global_acuracia,|I|,0.052000000000000005,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,shap,global_acuracia,−I,0.11599999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,shap,global_logloss,I,0.086,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,shap,global_logloss,|I|,0.004,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,shap,global_logloss,−I,0.162,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,shap,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,sirf,global_acuracia,I,0.275,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,sirf,global_acuracia,|I|,0.094,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,sirf,global_acuracia,−I,0.158,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,sirf,global_logloss,I,0.11700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,sirf,global_logloss,|I|,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,sirf,global_logloss,−I,0.13799999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,SNP modificador,sirf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ebm,global_acuracia,I,0.301,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ebm,global_acuracia,|I|,0.147,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ebm,global_acuracia,−I,0.21000000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ebm,global_logloss,I,0.136,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ebm,global_logloss,|I|,0.026000000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ebm,global_logloss,−I,0.147,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ebm,nativo,nativo,0.099,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,gini_W,nativo (Etapa 0),Wright,0.383,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,h,global_acuracia,I,0.20700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,h,global_acuracia,|I|,0.059,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,h,global_acuracia,−I,0.143,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,h,global_logloss,I,0.097,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,h,global_logloss,|I|,0.024,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,h,global_logloss,−I,0.142,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,h,nativo,nativo,0.05700000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_qual,global_acuracia,I,0.242,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_qual,global_acuracia,|I|,0.082,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_qual,global_acuracia,−I,0.16699999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_qual,global_logloss,I,0.164,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_qual,global_logloss,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_qual,global_logloss,−I,0.13999999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_qual,nativo,nativo,0.254,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_quant,global_acuracia,I,0.242,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_quant,global_acuracia,|I|,0.082,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_quant,global_acuracia,−I,0.16699999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_quant,global_logloss,I,0.164,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_quant,global_logloss,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_quant,global_logloss,−I,0.13999999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,if_quant,nativo,nativo,0.056999999999999995,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,irf,global_acuracia,I,0.205,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,irf,global_acuracia,|I|,0.054000000000000006,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,irf,global_acuracia,−I,0.158,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,irf,global_logloss,I,0.11599999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,irf,global_logloss,|I|,0.032,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,irf,global_logloss,−I,0.133,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,irf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,jmst_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,jvimp_W,nativo (Etapa 0),Wright,0.032,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,nid,global_acuracia,I,0.278,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,nid,global_acuracia,|I|,0.169,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,nid,global_acuracia,−I,0.20600000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,nid,global_logloss,I,0.22599999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,nid,global_logloss,|I|,0.077,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,nid,global_logloss,−I,0.152,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,nid,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,permutacao_W,nativo (Etapa 0),Wright,0.124,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,ppi_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rf,global_acuracia,I,0.20700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rf,global_acuracia,|I|,0.059,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rf,global_acuracia,−I,0.143,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rf,global_logloss,I,0.097,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rf,global_logloss,|I|,0.024,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rf,global_logloss,−I,0.142,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rpf,global_acuracia,I,0.23700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rpf,global_acuracia,|I|,0.08,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rpf,global_acuracia,−I,0.16099999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rpf,global_logloss,I,0.137,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rpf,global_logloss,|I|,0.06,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rpf,global_logloss,−I,0.24500000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,rpf,nativo,nativo,0.064,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,shap,global_acuracia,I,0.20700000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,shap,global_acuracia,|I|,0.059,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,shap,global_acuracia,−I,0.143,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,shap,global_logloss,I,0.097,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,shap,global_logloss,|I|,0.024,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,shap,global_logloss,−I,0.142,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,shap,nativo,nativo,0.009,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,sirf,global_acuracia,I,0.205,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,sirf,global_acuracia,|I|,0.054000000000000006,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,sirf,global_acuracia,−I,0.158,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,sirf,global_logloss,I,0.11599999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,sirf,global_logloss,|I|,0.032,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,sirf,global_logloss,−I,0.133,0.26190476190476186
+0.4,0.8,0.2,0.2,Sem interação,sirf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ebm,global_acuracia,I,0.23500000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ebm,global_acuracia,|I|,0.211,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ebm,global_acuracia,−I,0.265,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ebm,global_logloss,I,0.184,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ebm,global_logloss,|I|,0.149,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ebm,global_logloss,−I,0.227,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ebm,nativo,nativo,0.45899999999999996,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,gini_W,nativo (Etapa 0),Wright,0.42799999999999994,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,h,global_acuracia,I,0.207,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,h,global_acuracia,|I|,0.153,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,h,global_acuracia,−I,0.267,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,h,global_logloss,I,0.10200000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,h,global_logloss,|I|,0.1,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,h,global_logloss,−I,0.24100000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,h,nativo,nativo,0.184,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_qual,global_acuracia,I,0.22800000000000004,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_qual,global_acuracia,|I|,0.156,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_qual,global_acuracia,−I,0.217,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_qual,global_logloss,I,0.139,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_qual,global_logloss,|I|,0.121,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_qual,global_logloss,−I,0.264,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_qual,nativo,nativo,0.211,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_quant,global_acuracia,I,0.22800000000000004,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_quant,global_acuracia,|I|,0.156,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_quant,global_acuracia,−I,0.217,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_quant,global_logloss,I,0.139,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_quant,global_logloss,|I|,0.121,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_quant,global_logloss,−I,0.264,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,if_quant,nativo,nativo,0.089,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,irf,global_acuracia,I,0.21600000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,irf,global_acuracia,|I|,0.16299999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,irf,global_acuracia,−I,0.268,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,irf,global_logloss,I,0.119,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,irf,global_logloss,|I|,0.081,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,irf,global_logloss,−I,0.22800000000000004,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,irf,nativo,nativo,0.021,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,jmst_W,nativo (Etapa 0),Wright,0.015,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,jvimp_W,nativo (Etapa 0),Wright,0.138,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,nid,global_acuracia,I,0.278,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,nid,global_acuracia,|I|,0.15899999999999997,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,nid,global_acuracia,−I,0.20400000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,nid,global_logloss,I,0.21400000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,nid,global_logloss,|I|,0.156,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,nid,global_logloss,−I,0.22999999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,nid,nativo,nativo,0.028999999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,permutacao_W,nativo (Etapa 0),Wright,0.26799999999999996,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,ppi_W,nativo (Etapa 0),Wright,0.011,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rf,global_acuracia,I,0.207,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rf,global_acuracia,|I|,0.153,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rf,global_acuracia,−I,0.267,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rf,global_logloss,I,0.10200000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rf,global_logloss,|I|,0.1,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rf,global_logloss,−I,0.24100000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rpf,global_acuracia,I,0.298,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rpf,global_acuracia,|I|,0.161,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rpf,global_acuracia,−I,0.229,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rpf,global_logloss,I,0.22400000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rpf,global_logloss,|I|,0.2,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rpf,global_logloss,−I,0.277,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,rpf,nativo,nativo,0.346,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,shap,global_acuracia,I,0.207,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,shap,global_acuracia,|I|,0.153,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,shap,global_acuracia,−I,0.267,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,shap,global_logloss,I,0.10200000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,shap,global_logloss,|I|,0.1,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,shap,global_logloss,−I,0.24100000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,shap,nativo,nativo,0.061,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,sirf,global_acuracia,I,0.21600000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,sirf,global_acuracia,|I|,0.16299999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,sirf,global_acuracia,−I,0.268,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,sirf,global_logloss,I,0.119,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,sirf,global_logloss,|I|,0.081,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,sirf,global_logloss,−I,0.22800000000000004,0.26190476190476186
+0.4,0.8,0.2,0.2,Sinérgico,sirf,nativo,nativo,0.018,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ebm,global_acuracia,I,0.199,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ebm,global_acuracia,|I|,0.08399999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ebm,global_acuracia,−I,0.205,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ebm,global_logloss,I,0.11800000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ebm,global_logloss,|I|,0.097,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ebm,global_logloss,−I,0.24500000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ebm,nativo,nativo,0.359,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,gini_W,nativo (Etapa 0),Wright,0.329,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,h,global_acuracia,I,0.155,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,h,global_acuracia,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,h,global_acuracia,−I,0.17099999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,h,global_logloss,I,0.064,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,h,global_logloss,|I|,0.002,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,h,global_logloss,−I,0.16099999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,h,nativo,nativo,0.061,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_qual,global_acuracia,I,0.181,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_qual,global_acuracia,|I|,0.06699999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_qual,global_acuracia,−I,0.203,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_qual,global_logloss,I,0.11399999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_qual,global_logloss,|I|,0.01,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_qual,global_logloss,−I,0.178,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_qual,nativo,nativo,0.162,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_quant,global_acuracia,I,0.181,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_quant,global_acuracia,|I|,0.06699999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_quant,global_acuracia,−I,0.203,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_quant,global_logloss,I,0.11399999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_quant,global_logloss,|I|,0.01,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_quant,global_logloss,−I,0.178,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,if_quant,nativo,nativo,0.027000000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,irf,global_acuracia,I,0.22400000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,irf,global_acuracia,|I|,0.053000000000000005,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,irf,global_acuracia,−I,0.178,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,irf,global_logloss,I,0.08,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,irf,global_logloss,|I|,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,irf,global_logloss,−I,0.14100000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,irf,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,jmst_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,jvimp_W,nativo (Etapa 0),Wright,0.013000000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,nid,global_acuracia,I,0.187,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,nid,global_acuracia,|I|,0.068,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,nid,global_acuracia,−I,0.189,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,nid,global_logloss,I,0.137,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,nid,global_logloss,|I|,0.003,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,nid,global_logloss,−I,0.148,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,nid,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,permutacao_W,nativo (Etapa 0),Wright,0.006,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,ppi_W,nativo (Etapa 0),Wright,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rf,global_acuracia,I,0.155,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rf,global_acuracia,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rf,global_acuracia,−I,0.17099999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rf,global_logloss,I,0.064,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rf,global_logloss,|I|,0.002,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rf,global_logloss,−I,0.16099999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rpf,global_acuracia,I,0.20600000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rpf,global_acuracia,|I|,0.023,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rpf,global_acuracia,−I,0.17099999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rpf,global_logloss,I,0.10800000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rpf,global_logloss,|I|,0.02,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rpf,global_logloss,−I,0.20800000000000002,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,rpf,nativo,nativo,0.008,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,shap,global_acuracia,I,0.155,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,shap,global_acuracia,|I|,0.037,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,shap,global_acuracia,−I,0.17099999999999999,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,shap,global_logloss,I,0.064,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,shap,global_logloss,|I|,0.002,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,shap,global_logloss,−I,0.16099999999999998,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,shap,nativo,nativo,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,sirf,global_acuracia,I,0.22400000000000003,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,sirf,global_acuracia,|I|,0.053000000000000005,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,sirf,global_acuracia,−I,0.178,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,sirf,global_logloss,I,0.08,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,sirf,global_logloss,|I|,0.0,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,sirf,global_logloss,−I,0.14100000000000001,0.26190476190476186
+0.4,0.8,0.2,0.2,Só interação,sirf,nativo,nativo,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ebm,global_acuracia,I,0.079,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ebm,global_acuracia,|I|,0.367,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ebm,global_acuracia,−I,0.5439999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ebm,global_logloss,I,0.008,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ebm,global_logloss,|I|,0.8210000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ebm,global_logloss,−I,0.882,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ebm,nativo,nativo,0.967,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,gini_W,nativo (Etapa 0),Wright,0.829,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,h,global_acuracia,I,0.041,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,h,global_acuracia,|I|,0.63,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,h,global_acuracia,−I,0.765,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,h,global_logloss,I,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,h,global_logloss,|I|,0.9710000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,h,global_logloss,−I,0.985,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,h,nativo,nativo,0.962,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_qual,global_acuracia,I,0.186,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_qual,global_acuracia,|I|,0.42000000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_qual,global_acuracia,−I,0.42400000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_qual,global_logloss,I,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_qual,global_logloss,|I|,0.9789999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_qual,global_logloss,−I,0.991,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_qual,nativo,nativo,0.484,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_quant,global_acuracia,I,0.186,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_quant,global_acuracia,|I|,0.42000000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_quant,global_acuracia,−I,0.42400000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_quant,global_logloss,I,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_quant,global_logloss,|I|,0.9789999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_quant,global_logloss,−I,0.991,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,if_quant,nativo,nativo,0.383,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,irf,global_acuracia,I,0.031,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,irf,global_acuracia,|I|,0.6519999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,irf,global_acuracia,−I,0.784,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,irf,global_logloss,I,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,irf,global_logloss,|I|,0.97,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,irf,global_logloss,−I,0.9879999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,irf,nativo,nativo,0.669,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,jmst_W,nativo (Etapa 0),Wright,0.765,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,jvimp_W,nativo (Etapa 0),Wright,0.857,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,nid,global_acuracia,I,0.28500000000000003,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,nid,global_acuracia,|I|,0.308,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,nid,global_acuracia,−I,0.254,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,nid,global_logloss,I,0.194,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,nid,global_logloss,|I|,0.766,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,nid,global_logloss,−I,0.665,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,nid,nativo,nativo,0.485,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,permutacao_W,nativo (Etapa 0),Wright,0.772,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,ppi_W,nativo (Etapa 0),Wright,0.602,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rf,global_acuracia,I,0.041,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rf,global_acuracia,|I|,0.63,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rf,global_acuracia,−I,0.765,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rf,global_logloss,I,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rf,global_logloss,|I|,0.9710000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rf,global_logloss,−I,0.985,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rpf,global_acuracia,I,0.028000000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rpf,global_acuracia,|I|,0.696,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rpf,global_acuracia,−I,0.807,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rpf,global_logloss,I,0.044,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rpf,global_logloss,|I|,0.626,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rpf,global_logloss,−I,0.7190000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,rpf,nativo,nativo,0.9570000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,shap,global_acuracia,I,0.041,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,shap,global_acuracia,|I|,0.63,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,shap,global_acuracia,−I,0.765,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,shap,global_logloss,I,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,shap,global_logloss,|I|,0.9710000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,shap,global_logloss,−I,0.985,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,shap,nativo,nativo,0.925,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,sirf,global_acuracia,I,0.031,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,sirf,global_acuracia,|I|,0.6519999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,sirf,global_acuracia,−I,0.784,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,sirf,global_logloss,I,0.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,sirf,global_logloss,|I|,0.97,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,sirf,global_logloss,−I,0.9879999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Redundante,sirf,nativo,nativo,0.752,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ebm,global_acuracia,I,0.21400000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ebm,global_acuracia,|I|,0.337,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ebm,global_acuracia,−I,0.363,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ebm,global_logloss,I,0.11300000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ebm,global_logloss,|I|,0.625,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ebm,global_logloss,−I,0.683,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ebm,nativo,nativo,0.8869999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,gini_W,nativo (Etapa 0),Wright,0.751,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,h,global_acuracia,I,0.11700000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,h,global_acuracia,|I|,0.5389999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,h,global_acuracia,−I,0.624,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,h,global_logloss,I,0.038,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,h,global_logloss,|I|,0.861,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,h,global_logloss,−I,0.891,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,h,nativo,nativo,0.6599999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_qual,global_acuracia,I,0.091,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_qual,global_acuracia,|I|,0.44299999999999995,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_qual,global_acuracia,−I,0.563,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_qual,global_logloss,I,0.021,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_qual,global_logloss,|I|,0.739,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_qual,global_logloss,−I,0.8150000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_qual,nativo,nativo,0.137,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_quant,global_acuracia,I,0.091,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_quant,global_acuracia,|I|,0.44299999999999995,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_quant,global_acuracia,−I,0.563,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_quant,global_logloss,I,0.021,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_quant,global_logloss,|I|,0.739,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_quant,global_logloss,−I,0.8150000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,if_quant,nativo,nativo,0.325,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,irf,global_acuracia,I,0.101,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,irf,global_acuracia,|I|,0.5429999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,irf,global_acuracia,−I,0.643,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,irf,global_logloss,I,0.029000000000000005,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,irf,global_logloss,|I|,0.8709999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,irf,global_logloss,−I,0.9039999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,irf,nativo,nativo,0.706,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,jmst_W,nativo (Etapa 0),Wright,0.737,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,jvimp_W,nativo (Etapa 0),Wright,0.757,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,nid,global_acuracia,I,0.21000000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,nid,global_acuracia,|I|,0.261,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,nid,global_acuracia,−I,0.332,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,nid,global_logloss,I,0.536,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,nid,global_logloss,|I|,0.5589999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,nid,global_logloss,−I,0.213,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,nid,nativo,nativo,0.495,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,permutacao_W,nativo (Etapa 0),Wright,0.553,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,ppi_W,nativo (Etapa 0),Wright,0.682,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rf,global_acuracia,I,0.11700000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rf,global_acuracia,|I|,0.5389999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rf,global_acuracia,−I,0.624,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rf,global_logloss,I,0.038,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rf,global_logloss,|I|,0.861,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rf,global_logloss,−I,0.891,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rpf,global_acuracia,I,0.078,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rpf,global_acuracia,|I|,0.429,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rpf,global_acuracia,−I,0.5660000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rpf,global_logloss,I,0.11000000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rpf,global_logloss,|I|,0.523,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rpf,global_logloss,−I,0.607,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,rpf,nativo,nativo,0.8939999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,shap,global_acuracia,I,0.11700000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,shap,global_acuracia,|I|,0.5389999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,shap,global_acuracia,−I,0.624,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,shap,global_logloss,I,0.038,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,shap,global_logloss,|I|,0.861,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,shap,global_logloss,−I,0.891,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,shap,nativo,nativo,0.867,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,sirf,global_acuracia,I,0.101,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,sirf,global_acuracia,|I|,0.5429999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,sirf,global_acuracia,−I,0.643,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,sirf,global_logloss,I,0.029000000000000005,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,sirf,global_logloss,|I|,0.8709999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,sirf,global_logloss,−I,0.9039999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,SNP modificador,sirf,nativo,nativo,0.729,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ebm,global_acuracia,I,0.38,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ebm,global_acuracia,|I|,0.496,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ebm,global_acuracia,−I,0.333,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ebm,global_logloss,I,0.362,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ebm,global_logloss,|I|,0.647,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ebm,global_logloss,−I,0.422,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ebm,nativo,nativo,0.339,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,gini_W,nativo (Etapa 0),Wright,0.892,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,h,global_acuracia,I,0.307,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,h,global_acuracia,|I|,0.529,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,h,global_acuracia,−I,0.409,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,h,global_logloss,I,0.364,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,h,global_logloss,|I|,0.783,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,h,global_logloss,−I,0.5,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,h,nativo,nativo,0.682,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_qual,global_acuracia,I,0.282,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_qual,global_acuracia,|I|,0.42300000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_qual,global_acuracia,−I,0.347,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_qual,global_logloss,I,0.335,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_qual,global_logloss,|I|,0.625,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_qual,global_logloss,−I,0.433,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_qual,nativo,nativo,0.294,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_quant,global_acuracia,I,0.282,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_quant,global_acuracia,|I|,0.42300000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_quant,global_acuracia,−I,0.347,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_quant,global_logloss,I,0.335,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_quant,global_logloss,|I|,0.625,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_quant,global_logloss,−I,0.433,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,if_quant,nativo,nativo,0.532,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,irf,global_acuracia,I,0.32199999999999995,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,irf,global_acuracia,|I|,0.5519999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,irf,global_acuracia,−I,0.40599999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,irf,global_logloss,I,0.40199999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,irf,global_logloss,|I|,0.825,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,irf,global_logloss,−I,0.499,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,irf,nativo,nativo,0.8320000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,jmst_W,nativo (Etapa 0),Wright,0.985,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,jvimp_W,nativo (Etapa 0),Wright,0.642,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,nid,global_acuracia,I,0.305,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,nid,global_acuracia,|I|,0.35300000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,nid,global_acuracia,−I,0.309,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,nid,global_logloss,I,0.34299999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,nid,global_logloss,|I|,0.55,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,nid,global_logloss,−I,0.395,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,nid,nativo,nativo,0.942,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,permutacao_W,nativo (Etapa 0),Wright,0.877,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,ppi_W,nativo (Etapa 0),Wright,0.982,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rf,global_acuracia,I,0.307,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rf,global_acuracia,|I|,0.529,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rf,global_acuracia,−I,0.409,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rf,global_logloss,I,0.364,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rf,global_logloss,|I|,0.783,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rf,global_logloss,−I,0.5,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rpf,global_acuracia,I,0.26,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rpf,global_acuracia,|I|,0.41900000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rpf,global_acuracia,−I,0.40800000000000003,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rpf,global_logloss,I,0.41600000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rpf,global_logloss,|I|,0.516,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rpf,global_logloss,−I,0.269,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,rpf,nativo,nativo,0.572,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,shap,global_acuracia,I,0.307,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,shap,global_acuracia,|I|,0.529,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,shap,global_acuracia,−I,0.409,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,shap,global_logloss,I,0.364,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,shap,global_logloss,|I|,0.783,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,shap,global_logloss,−I,0.5,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,shap,nativo,nativo,0.875,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,sirf,global_acuracia,I,0.32199999999999995,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,sirf,global_acuracia,|I|,0.5519999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,sirf,global_acuracia,−I,0.40599999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,sirf,global_logloss,I,0.40199999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,sirf,global_logloss,|I|,0.825,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,sirf,global_logloss,−I,0.499,0.26190476190476186
+0.8,0.4,0.2,0.2,Sem interação,sirf,nativo,nativo,0.97,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ebm,global_acuracia,I,0.355,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ebm,global_acuracia,|I|,0.481,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ebm,global_acuracia,−I,0.321,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ebm,global_logloss,I,0.34900000000000003,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ebm,global_logloss,|I|,0.756,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ebm,global_logloss,−I,0.491,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ebm,nativo,nativo,0.85,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,gini_W,nativo (Etapa 0),Wright,0.9,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,h,global_acuracia,I,0.46799999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,h,global_acuracia,|I|,0.638,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,h,global_acuracia,−I,0.294,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,h,global_logloss,I,0.20400000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,h,global_logloss,|I|,0.901,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,h,global_logloss,−I,0.743,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,h,nativo,nativo,0.866,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_qual,global_acuracia,I,0.528,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_qual,global_acuracia,|I|,0.5740000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_qual,global_acuracia,−I,0.21000000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_qual,global_logloss,I,0.255,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_qual,global_logloss,|I|,0.788,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_qual,global_logloss,−I,0.621,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_qual,nativo,nativo,0.142,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_quant,global_acuracia,I,0.528,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_quant,global_acuracia,|I|,0.5740000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_quant,global_acuracia,−I,0.21000000000000002,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_quant,global_logloss,I,0.255,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_quant,global_logloss,|I|,0.788,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_quant,global_logloss,−I,0.621,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,if_quant,nativo,nativo,0.61,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,irf,global_acuracia,I,0.389,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,irf,global_acuracia,|I|,0.602,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,irf,global_acuracia,−I,0.372,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,irf,global_logloss,I,0.195,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,irf,global_logloss,|I|,0.9279999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,irf,global_logloss,−I,0.774,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,irf,nativo,nativo,0.881,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,jmst_W,nativo (Etapa 0),Wright,1.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,jvimp_W,nativo (Etapa 0),Wright,0.8150000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,nid,global_acuracia,I,0.32199999999999995,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,nid,global_acuracia,|I|,0.42800000000000005,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,nid,global_acuracia,−I,0.352,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,nid,global_logloss,I,0.314,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,nid,global_logloss,|I|,0.6900000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,nid,global_logloss,−I,0.513,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,nid,nativo,nativo,0.994,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,permutacao_W,nativo (Etapa 0),Wright,0.899,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,ppi_W,nativo (Etapa 0),Wright,1.0,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rf,global_acuracia,I,0.46799999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rf,global_acuracia,|I|,0.638,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rf,global_acuracia,−I,0.294,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rf,global_logloss,I,0.20400000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rf,global_logloss,|I|,0.901,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rf,global_logloss,−I,0.743,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rpf,global_acuracia,I,0.369,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rpf,global_acuracia,|I|,0.518,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rpf,global_acuracia,−I,0.346,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rpf,global_logloss,I,0.322,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rpf,global_logloss,|I|,0.7060000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rpf,global_logloss,−I,0.521,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,rpf,nativo,nativo,0.763,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,shap,global_acuracia,I,0.46799999999999997,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,shap,global_acuracia,|I|,0.638,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,shap,global_acuracia,−I,0.294,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,shap,global_logloss,I,0.20400000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,shap,global_logloss,|I|,0.901,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,shap,global_logloss,−I,0.743,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,shap,nativo,nativo,0.968,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,sirf,global_acuracia,I,0.389,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,sirf,global_acuracia,|I|,0.602,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,sirf,global_acuracia,−I,0.372,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,sirf,global_logloss,I,0.195,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,sirf,global_logloss,|I|,0.9279999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,sirf,global_logloss,−I,0.774,0.26190476190476186
+0.8,0.4,0.2,0.2,Sinérgico,sirf,nativo,nativo,0.9870000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ebm,global_acuracia,I,0.1,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ebm,global_acuracia,|I|,0.327,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ebm,global_acuracia,−I,0.489,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ebm,global_logloss,I,0.011,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ebm,global_logloss,|I|,0.9109999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ebm,global_logloss,−I,0.942,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ebm,nativo,nativo,0.938,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,gini_W,nativo (Etapa 0),Wright,0.657,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,h,global_acuracia,I,0.052000000000000005,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,h,global_acuracia,|I|,0.43900000000000006,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,h,global_acuracia,−I,0.601,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,h,global_logloss,I,0.003,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,h,global_logloss,|I|,0.744,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,h,global_logloss,−I,0.8629999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,h,nativo,nativo,0.783,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_qual,global_acuracia,I,0.10400000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_qual,global_acuracia,|I|,0.355,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_qual,global_acuracia,−I,0.489,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_qual,global_logloss,I,0.009,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_qual,global_logloss,|I|,0.773,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_qual,global_logloss,−I,0.865,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_qual,nativo,nativo,0.182,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_quant,global_acuracia,I,0.10400000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_quant,global_acuracia,|I|,0.355,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_quant,global_acuracia,−I,0.489,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_quant,global_logloss,I,0.009,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_quant,global_logloss,|I|,0.773,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_quant,global_logloss,−I,0.865,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,if_quant,nativo,nativo,0.266,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,irf,global_acuracia,I,0.05500000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,irf,global_acuracia,|I|,0.44399999999999995,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,irf,global_acuracia,−I,0.623,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,irf,global_logloss,I,0.006,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,irf,global_logloss,|I|,0.697,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,irf,global_logloss,−I,0.819,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,irf,nativo,nativo,0.268,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,jmst_W,nativo (Etapa 0),Wright,0.256,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,jvimp_W,nativo (Etapa 0),Wright,0.579,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,nid,global_acuracia,I,0.08499999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,nid,global_acuracia,|I|,0.059,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,nid,global_acuracia,−I,0.08499999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,nid,global_logloss,I,0.524,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,nid,global_logloss,|I|,0.42800000000000005,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,nid,global_logloss,−I,0.121,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,nid,nativo,nativo,0.122,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,permutacao_W,nativo (Etapa 0),Wright,0.394,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,ppi_W,nativo (Etapa 0),Wright,0.182,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rf,global_acuracia,I,0.052000000000000005,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rf,global_acuracia,|I|,0.43900000000000006,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rf,global_acuracia,−I,0.601,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rf,global_logloss,I,0.003,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rf,global_logloss,|I|,0.744,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rf,global_logloss,−I,0.8629999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rpf,global_acuracia,I,0.051000000000000004,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rpf,global_acuracia,|I|,0.508,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rpf,global_acuracia,−I,0.674,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rpf,global_logloss,I,0.049,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rpf,global_logloss,|I|,0.5559999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rpf,global_logloss,−I,0.6980000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,rpf,nativo,nativo,0.7849999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,shap,global_acuracia,I,0.052000000000000005,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,shap,global_acuracia,|I|,0.43900000000000006,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,shap,global_acuracia,−I,0.601,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,shap,global_logloss,I,0.003,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,shap,global_logloss,|I|,0.744,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,shap,global_logloss,−I,0.8629999999999999,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,shap,nativo,nativo,0.646,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,sirf,global_acuracia,I,0.05500000000000001,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,sirf,global_acuracia,|I|,0.44399999999999995,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,sirf,global_acuracia,−I,0.623,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,sirf,global_logloss,I,0.006,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,sirf,global_logloss,|I|,0.697,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,sirf,global_logloss,−I,0.819,0.26190476190476186
+0.8,0.4,0.2,0.2,Só interação,sirf,nativo,nativo,0.271,0.26190476190476186

@@ -1,0 +1,18 @@
+#!/bin/bash --login
+#SBATCH --job-name=p7
+#SBATCH --partition=general-short
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=4G
+#SBATCH --time=03:55:00
+#SBATCH --output=resultados/logs/slurm/%x_%A_%a.out
+# Uma tarefa por elemento do array, 1 thread; retoma por repetição (rep*.csv já gravados são pulados).
+# Uso: sbatch --array=1-N --export=ALL,ETAPA=<etapa> scripts/rodar_array.sb
+cd $SLURM_SUBMIT_DIR
+E=/mnt/gs21/scratch/dasilvaf/conda_envs/preditores
+export PATH=$E/bin:$PATH OMP_NUM_THREADS=1 P7_RAIZ=$PWD PPI_LIB=/mnt/gs21/scratch/dasilvaf/p7_Rlib_ranger_ppi RFSRC_LIB=${RFSRC_LIB_OVR:-/mnt/gs21/scratch/dasilvaf/p7_Rlib_rfsrc341}
+TJ=$(sed -n "${SLURM_ARRAY_TASK_ID}p" resultados/logs/tarefas/$ETAPA/lista.txt)
+/usr/bin/time -v Rscript src/etapa0.R $TJ > resultados/logs/slurm/$(basename $TJ .json)_${ETAPA}.log 2>&1
+st=$?
+echo -e "$(date -Is)\t$ETAPA\t$TJ\t$st\t$SLURM_JOB_ID\t$SLURM_ARRAY_TASK_ID" >> resultados/logs/execucoes.tsv
+[ $st -ne 0 ] && echo -e "$(date -Is)\t$ETAPA\t$TJ\t$st\t$SLURM_JOB_ID\t$SLURM_ARRAY_TASK_ID" >> resultados/logs/falhas.tsv
+exit $st

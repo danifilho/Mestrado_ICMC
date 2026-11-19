@@ -1,0 +1,21 @@
+{
+ "etapa": "completo",
+ "n_pontos": 5760,
+ "pontos_sem_gabarito": 0,
+ "frac_pontos_ate_0_10": 0.9652777777777778,
+ "criterio1": true,
+ "dif_abs_media": 0.023062361111111113,
+ "ordens_avaliadas": 103,
+ "ordens_invertidas": 0,
+ "criterio2": true,
+ "rank_na": 0,
+ "proporcao_casos_ok": "60/60",
+ "por_medida": {
+  "Gini": 0.969,
+  "JMST": 0.972,
+  "JVIMP": 0.952,
+  "PPI": 0.969,
+  "Permutation": 0.965
+ },
+ "P0_passa": true
+}

@@ -1,0 +1,21 @@
+{
+ "etapa": "subconjunto",
+ "n_pontos": 960,
+ "pontos_sem_gabarito": 0,
+ "frac_pontos_ate_0_10": 0.8947916666666667,
+ "criterio1": false,
+ "dif_abs_media": 0.044480625,
+ "ordens_avaliadas": 26,
+ "ordens_invertidas": 1,
+ "criterio2": false,
+ "rank_na": 0,
+ "proporcao_casos_ok": "20/20",
+ "por_medida": {
+  "Gini": 0.978,
+  "JMST": 0.98,
+  "JVIMP": 0.565,
+  "PPI": 0.975,
+  "Permutation": 0.994
+ },
+ "P0_passa": false
+}

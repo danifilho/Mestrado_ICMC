@@ -1,0 +1,27 @@
+regra,cenario,dif_publicada,dif_nossa,invertida
+Gini × Permutação,"(0.4, 0.4, 0.2, 0.2, 50, 'Interaction only')",0.5144666666666666,0.5299999999999999,False
+Gini × Permutação,"(0.4, 0.4, 0.2, 0.2, 50, 'Modifier SNP')",0.5433666666666668,0.5211111111111111,False
+Gini × Permutação,"(0.4, 0.4, 0.2, 0.2, 50, 'No Interaction')",0.45781111111111117,0.42000000000000004,False
+Gini × Permutação,"(0.4, 0.4, 0.2, 0.2, 50, 'Redundant')",0.5333666666666667,0.5155555555555555,False
+Gini × Permutação,"(0.4, 0.4, 0.2, 0.2, 50, 'Synergistic')",0.1800222222222223,0.17888888888888888,False
+Gini × Permutação,"(0.4, 0.4, 0.4, 0.2, 50, 'Interaction only')",0.4855777777777779,0.4566666666666666,False
+Gini × Permutação,"(0.4, 0.4, 0.4, 0.2, 50, 'Modifier SNP')",0.2511333333333333,0.29666666666666663,False
+Gini × Permutação,"(0.4, 0.4, 0.4, 0.2, 50, 'No Interaction')",0.35667777777777776,0.4211111111111112,False
+Gini × Permutação,"(0.4, 0.4, 0.4, 0.2, 50, 'Redundant')",0.8388888888888888,0.8211111111111111,False
+Gini × Permutação,"(0.4, 0.8, 0.2, 0.2, 50, 'Interaction only')",0.3577666666666667,0.3588888888888889,False
+Gini × Permutação,"(0.4, 0.8, 0.2, 0.2, 50, 'Modifier SNP')",0.3733666666666667,0.3822222222222222,False
+Gini × Permutação,"(0.4, 0.8, 0.2, 0.2, 50, 'No Interaction')",0.3166888888888889,0.2877777777777778,False
+Gini × Permutação,"(0.4, 0.8, 0.2, 0.2, 50, 'Redundant')",0.36221111111111115,0.39111111111111113,False
+Gini × Permutação,"(0.4, 0.8, 0.2, 0.2, 50, 'Synergistic')",0.1611333333333333,0.17777777777777776,False
+Gini × Permutação,"(0.8, 0.4, 0.2, 0.2, 50, 'Interaction only')",0.3178111111111111,0.2922222222222222,False
+Gini × Permutação,"(0.8, 0.4, 0.2, 0.2, 50, 'Modifier SNP')",0.1711111111111111,0.21999999999999997,False
+Gini × Permutação,"(0.8, 0.4, 0.2, 0.2, 50, 'Redundant')",0.1400111111111111,0.06333333333333324,False
+Sem interação × Só interação,"(0.4, 0.4, 0.2, 0.2, 50, 'JMST')",0.24006000000000002,0.28,False
+Sem interação × Só interação,"(0.4, 0.4, 0.2, 0.2, 50, 'JVIMP')",0.16901999999999998,0.16999999999999998,False
+Sem interação × Só interação,"(0.4, 0.4, 0.2, 0.2, 50, 'PPI')",0.21403,0.28800000000000003,False
+Sem interação × Só interação,"(0.4, 0.4, 0.4, 0.2, 50, 'JMST')",0.315,0.267,False
+Sem interação × Só interação,"(0.4, 0.4, 0.4, 0.2, 50, 'JVIMP')",-0.12099000000000004,-0.134,False
+Sem interação × Só interação,"(0.4, 0.4, 0.4, 0.2, 50, 'PPI')",0.30901000000000006,0.271,False
+Sem interação × Só interação,"(0.8, 0.4, 0.2, 0.2, 50, 'JMST')",0.7880400000000001,0.729,False
+Sem interação × Só interação,"(0.8, 0.4, 0.2, 0.2, 50, 'JVIMP')",0.10596000000000005,0.06300000000000006,False
+Sem interação × Só interação,"(0.8, 0.4, 0.2, 0.2, 50, 'PPI')",0.83202,0.8,False

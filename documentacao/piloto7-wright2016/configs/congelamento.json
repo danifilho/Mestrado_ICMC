@@ -1,0 +1,31 @@
+{
+ "data": "2026-11-19T00:21:40+00:00",
+ "motivo": "",
+ "sha256": {
+  "PROTOCOLO.md": "5237e2837a8ab9099ffea402007e64f90a963629a87ba0c5325530b858161439",
+  "DECISOES.md": "76aa62c7599f41ce7c4dfe7a4725fb1571b84fb2c10d85ae8cc913f6741507a4",
+  "gabarito_wright.csv": "1ea425e2e4d12b86f6d71c43c551352948c4e45e175eee3f3168c4ef03ceef3b",
+  "fontes/MOESM1_ESM.gz": "693284c835b4c25e9f2fe41cb353a41f5ae0174bb3520768646089a1043d58e9",
+  "fontes/MOESM2_ESM.pdf": "d1a8194464e8778170532d80344f8145159573dc74a30720b24a383077ca3c0c",
+  "fontes/MOESM3_ESM.zip": "8ac2eb5e5e67f528ac668019996bf96dc8af32ba41a8114acc79a9fa24a60110",
+  "fontes/MOESM4_ESM.pdf": "6f50bc0270a34493182c2c70621de71fb0b84404a5058929d1f24675cd4d39ec",
+  "fontes/codigo_autores/replication/01_main_simulation/01_sim_main.R": "40d644b8b50e984ce8cc84395e74a40aecaa181ce88e701725708b92a393297c",
+  "fontes/codigo_autores/replication/01_main_simulation/02_plot_main.R": "cd74fab5fb91492f3aee7e8f1b6fec8eab33a72ac4b4f30876f5529ba02e74d7",
+  "fontes/codigo_autores/replication/01_main_simulation/03_sim_fewer_marginal.R": "f0a261099b9e44a34ca6582386c5c341726fc9b486027aa57aca1bab1247cb04",
+  "fontes/codigo_autores/replication/01_main_simulation/04_plot_fewer_marginal.R": "7ffc4e1edf874e62ab6d04d1f544dd7f67e4aa6050d02b030c8adc16638e0b0c",
+  "fontes/codigo_autores/replication/01_main_simulation/algorithms.R": "2086c3e0bcbbb0fd051e56af1072a7665f77d86b0eb7fbc2ea5b7957a31c3900",
+  "fontes/codigo_autores/replication/01_main_simulation/helper_functions.R": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "fontes/codigo_autores/replication/01_main_simulation/problems.R": "90c5a1a105ca72af7f886914372203525292fefbad34f227308719c500195f60",
+  "fontes/codigo_autores/replication/01_main_simulation/simulate_snps.R": "c1ec902c41087c549b7404efccd0992cc58dd650d04ff6f4a70256228da6872d",
+  "src/etapa0.R": "5002a3792fb6a0b9a801bc0e59e42fa86f15b011c962c47835a2bd62839b8d0d",
+  "src/etapa1.R": "f5280a7e88d2ab2f4179df72ee09eef68fb2d18899e5d73a26b5d3a3e527f9cc",
+  "scripts/00_verificar_simulacao.py": "e11c6f23223c1a0e1a14147f6fc40bc445e2af2182b57ef3b6c94bffbe09e7e6",
+  "scripts/01_gabarito_pdf.py": "2e87781441b098d30faa68fd9a7ba6903b3d8b7dcd3b75f5387e86acbe3b3871",
+  "scripts/02_tarefas_etapa0.py": "0459138b6af986dd95a708eab139b29079796a9d4f700aede34d57d235c56a9a",
+  "scripts/03_comparar_etapa0.py": "73684bced5a09a2bef2e69feb2d16e7401763fa7d6319e6344b6f2afae613fcb",
+  "scripts/04_tarefas_etapa1.py": "ad702a5c1a57b5523c5de20b40185279a864190db3ced7d35100a18c6ff08a9c",
+  "scripts/05_analisar_etapa1.py": "2cac9fc20c2fb01222ab1f5625022ac151adedfd8d84be2e6489029c15f8efd0",
+  "scripts/rodar_array.sb": "52bfbf448bc2b12733d9ed45b15a94be6d94478e320615cefbda2808f0cdd048",
+  "scripts/rodar_etapa1.sb": "4e5cadbfeb60c90878f7fe16e23cc5759f1366f3bed8a2efa46c5e7f960ed64d"
+ }
+}

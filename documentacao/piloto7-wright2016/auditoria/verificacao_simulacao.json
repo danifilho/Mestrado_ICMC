@@ -1,0 +1,685 @@
+{
+ "beta0_tabela3": -1.44,
+ "tabela3": [
+  {
+   "x1": 0,
+   "x2": 0,
+   "nossa": 0.3526,
+   "artigo": 0.35,
+   "diferenca": 0.0026
+  },
+  {
+   "x1": 1,
+   "x2": 1,
+   "nossa": 0.4427,
+   "artigo": 0.44,
+   "diferenca": 0.0027
+  },
+  {
+   "x1": 2,
+   "x2": 1,
+   "nossa": 0.5366,
+   "artigo": 0.54,
+   "diferenca": -0.0034
+  },
+  {
+   "x1": 2,
+   "x2": 2,
+   "nossa": 0.7122,
+   "artigo": 0.72,
+   "diferenca": -0.0078
+  }
+ ],
+ "proporcao_casos": [
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.12,
+   "prop_casos": 0.4391
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -1.92,
+   "prop_casos": 0.4411
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4108
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.92,
+   "prop_casos": 0.4427
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.52,
+   "prop_casos": 0.4493
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.4179
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.3816
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -2.24,
+   "prop_casos": 0.3849
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.08,
+   "prop_casos": 0.3347
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.3924
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.84,
+   "prop_casos": 0.4019
+  },
+  {
+   "modelo": "so_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.88,
+   "prop_casos": 0.3495
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.12,
+   "prop_casos": 0.4758
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -1.92,
+   "prop_casos": 0.477
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4825
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.92,
+   "prop_casos": 0.475
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.52,
+   "prop_casos": 0.4794
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.4814
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4509
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -2.24,
+   "prop_casos": 0.4526
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.08,
+   "prop_casos": 0.4627
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.4542
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.84,
+   "prop_casos": 0.4597
+  },
+  {
+   "modelo": "modificador_snp1",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.88,
+   "prop_casos": 0.4654
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.12,
+   "prop_casos": 0.4758
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -1.92,
+   "prop_casos": 0.477
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4825
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.92,
+   "prop_casos": 0.475
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.52,
+   "prop_casos": 0.4794
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.4814
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4509
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -2.24,
+   "prop_casos": 0.4526
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.08,
+   "prop_casos": 0.4627
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.4542
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.84,
+   "prop_casos": 0.4597
+  },
+  {
+   "modelo": "modificador_snp2",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.88,
+   "prop_casos": 0.4654
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.12,
+   "prop_casos": 0.4987
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -1.92,
+   "prop_casos": 0.4992
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4989
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.92,
+   "prop_casos": 0.4948
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.52,
+   "prop_casos": 0.4978
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.4951
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4967
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -2.24,
+   "prop_casos": 0.4973
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.08,
+   "prop_casos": 0.4982
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.494
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.84,
+   "prop_casos": 0.4969
+  },
+  {
+   "modelo": "sem_interacao",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.88,
+   "prop_casos": 0.4953
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.12,
+   "prop_casos": 0.4841
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -1.92,
+   "prop_casos": 0.485
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.4395
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.92,
+   "prop_casos": 0.4819
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.52,
+   "prop_casos": 0.4858
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.443
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.47
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -2.24,
+   "prop_casos": 0.4711
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.08,
+   "prop_casos": 0.3846
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.4697
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.84,
+   "prop_casos": 0.4742
+  },
+  {
+   "modelo": "redundante",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.88,
+   "prop_casos": 0.3944
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.12,
+   "prop_casos": 0.5112
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -1.92,
+   "prop_casos": 0.5115
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.4,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.5493
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.92,
+   "prop_casos": 0.5065
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.52,
+   "prop_casos": 0.5088
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.4,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.5417
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -1.44,
+   "prop_casos": 0.5132
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -2.24,
+   "prop_casos": 0.5138
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.8,
+   "beta_M": 0.4,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.08,
+   "prop_casos": 0.5695
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.2,
+   "beta0": -2.24,
+   "prop_casos": 0.5108
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.2,
+   "MAF_M": 0.4,
+   "beta0": -3.84,
+   "prop_casos": 0.5133
+  },
+  {
+   "modelo": "sinergico",
+   "beta_I": 0.8,
+   "beta_M": 0.8,
+   "MAF_I": 0.4,
+   "MAF_M": 0.2,
+   "beta0": -2.88,
+   "prop_casos": 0.5654
+  }
+ ],
+ "prop_min": 0.3347,
+ "prop_max": 0.5695
+}

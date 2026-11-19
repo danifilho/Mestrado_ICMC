@@ -1,0 +1,251 @@
+modelo,detector,k,deteccao
+Só interação,EBM (nativo),1,0.475
+Só interação,EBM (nativo),2,0.565
+Só interação,EBM (nativo),3,0.63
+Só interação,EBM (nativo),4,0.6649999999999999
+Só interação,EBM (nativo),5,0.6875
+Só interação,EBM (nativo),6,0.705
+Só interação,EBM (nativo),7,0.7124999999999999
+Só interação,EBM (nativo),8,0.7224999999999999
+Só interação,EBM (nativo),9,0.7275
+Só interação,EBM (nativo),10,0.7275
+Só interação,H de Friedman (nativo),1,0.2475
+Só interação,H de Friedman (nativo),2,0.315
+Só interação,H de Friedman (nativo),3,0.375
+Só interação,H de Friedman (nativo),4,0.425
+Só interação,H de Friedman (nativo),5,0.4575
+Só interação,H de Friedman (nativo),6,0.5025
+Só interação,H de Friedman (nativo),7,0.5125
+Só interação,H de Friedman (nativo),8,0.5425
+Só interação,H de Friedman (nativo),9,0.5675
+Só interação,H de Friedman (nativo),10,0.6
+Só interação,Régua · RF (|I|),1,0.185
+Só interação,Régua · RF (|I|),2,0.2625
+Só interação,Régua · RF (|I|),3,0.30500000000000005
+Só interação,Régua · RF (|I|),4,0.3275
+Só interação,Régua · RF (|I|),5,0.375
+Só interação,Régua · RF (|I|),6,0.3875
+Só interação,Régua · RF (|I|),7,0.41000000000000003
+Só interação,Régua · RF (|I|),8,0.44
+Só interação,Régua · RF (|I|),9,0.475
+Só interação,Régua · RF (|I|),10,0.4925
+Só interação,JVIMP (Wright),1,0.15000000000000002
+Só interação,JVIMP (Wright),2,0.2
+Só interação,JVIMP (Wright),3,0.23249999999999998
+Só interação,JVIMP (Wright),4,0.265
+Só interação,JVIMP (Wright),5,0.2975
+Só interação,JVIMP (Wright),6,0.3225
+Só interação,JVIMP (Wright),7,0.355
+Só interação,JVIMP (Wright),8,0.3825
+Só interação,JVIMP (Wright),9,0.41000000000000003
+Só interação,JVIMP (Wright),10,0.445
+Só interação,PPI (Wright),1,0.01
+Só interação,PPI (Wright),2,0.0225
+Só interação,PPI (Wright),3,0.0325
+Só interação,PPI (Wright),4,0.0575
+Só interação,PPI (Wright),5,0.10500000000000001
+Só interação,PPI (Wright),6,0.13
+Só interação,PPI (Wright),7,0.14750000000000002
+Só interação,PPI (Wright),8,0.165
+Só interação,PPI (Wright),9,0.1925
+Só interação,PPI (Wright),10,0.2175
+SNP modificador,EBM (nativo),1,0.4075
+SNP modificador,EBM (nativo),2,0.52
+SNP modificador,EBM (nativo),3,0.5925
+SNP modificador,EBM (nativo),4,0.6575
+SNP modificador,EBM (nativo),5,0.6900000000000001
+SNP modificador,EBM (nativo),6,0.7175
+SNP modificador,EBM (nativo),7,0.735
+SNP modificador,EBM (nativo),8,0.76
+SNP modificador,EBM (nativo),9,0.7625
+SNP modificador,EBM (nativo),10,0.7725
+SNP modificador,H de Friedman (nativo),1,0.2225
+SNP modificador,H de Friedman (nativo),2,0.295
+SNP modificador,H de Friedman (nativo),3,0.3675
+SNP modificador,H de Friedman (nativo),4,0.3925
+SNP modificador,H de Friedman (nativo),5,0.4325
+SNP modificador,H de Friedman (nativo),6,0.45999999999999996
+SNP modificador,H de Friedman (nativo),7,0.4975
+SNP modificador,H de Friedman (nativo),8,0.52
+SNP modificador,H de Friedman (nativo),9,0.54
+SNP modificador,H de Friedman (nativo),10,0.5825
+SNP modificador,Régua · RF (|I|),1,0.3175
+SNP modificador,Régua · RF (|I|),2,0.4125
+SNP modificador,Régua · RF (|I|),3,0.4625
+SNP modificador,Régua · RF (|I|),4,0.4975
+SNP modificador,Régua · RF (|I|),5,0.5375
+SNP modificador,Régua · RF (|I|),6,0.5525
+SNP modificador,Régua · RF (|I|),7,0.565
+SNP modificador,Régua · RF (|I|),8,0.59
+SNP modificador,Régua · RF (|I|),9,0.615
+SNP modificador,Régua · RF (|I|),10,0.63
+SNP modificador,JVIMP (Wright),1,0.2775
+SNP modificador,JVIMP (Wright),2,0.32
+SNP modificador,JVIMP (Wright),3,0.3825
+SNP modificador,JVIMP (Wright),4,0.41500000000000004
+SNP modificador,JVIMP (Wright),5,0.445
+SNP modificador,JVIMP (Wright),6,0.49
+SNP modificador,JVIMP (Wright),7,0.5175
+SNP modificador,JVIMP (Wright),8,0.545
+SNP modificador,JVIMP (Wright),9,0.575
+SNP modificador,JVIMP (Wright),10,0.5974999999999999
+SNP modificador,PPI (Wright),1,0.08
+SNP modificador,PPI (Wright),2,0.14250000000000002
+SNP modificador,PPI (Wright),3,0.25
+SNP modificador,PPI (Wright),4,0.3125
+SNP modificador,PPI (Wright),5,0.445
+SNP modificador,PPI (Wright),6,0.605
+SNP modificador,PPI (Wright),7,0.6125
+SNP modificador,PPI (Wright),8,0.6225
+SNP modificador,PPI (Wright),9,0.6325000000000001
+SNP modificador,PPI (Wright),10,0.655
+Sinérgico,EBM (nativo),1,0.395
+Sinérgico,EBM (nativo),2,0.5175000000000001
+Sinérgico,EBM (nativo),3,0.6074999999999999
+Sinérgico,EBM (nativo),4,0.6725
+Sinérgico,EBM (nativo),5,0.7150000000000001
+Sinérgico,EBM (nativo),6,0.7324999999999999
+Sinérgico,EBM (nativo),7,0.75
+Sinérgico,EBM (nativo),8,0.76
+Sinérgico,EBM (nativo),9,0.7675
+Sinérgico,EBM (nativo),10,0.77
+Sinérgico,H de Friedman (nativo),1,0.45
+Sinérgico,H de Friedman (nativo),2,0.5225
+Sinérgico,H de Friedman (nativo),3,0.5725
+Sinérgico,H de Friedman (nativo),4,0.61
+Sinérgico,H de Friedman (nativo),5,0.6375
+Sinérgico,H de Friedman (nativo),6,0.6725
+Sinérgico,H de Friedman (nativo),7,0.7
+Sinérgico,H de Friedman (nativo),8,0.715
+Sinérgico,H de Friedman (nativo),9,0.7424999999999999
+Sinérgico,H de Friedman (nativo),10,0.7575
+Sinérgico,Régua · RF (|I|),1,0.47
+Sinérgico,Régua · RF (|I|),2,0.5325
+Sinérgico,Régua · RF (|I|),3,0.575
+Sinérgico,Régua · RF (|I|),4,0.6125
+Sinérgico,Régua · RF (|I|),5,0.6475
+Sinérgico,Régua · RF (|I|),6,0.6575
+Sinérgico,Régua · RF (|I|),7,0.675
+Sinérgico,Régua · RF (|I|),8,0.6825
+Sinérgico,Régua · RF (|I|),9,0.7
+Sinérgico,Régua · RF (|I|),10,0.7175
+Sinérgico,JVIMP (Wright),1,0.37
+Sinérgico,JVIMP (Wright),2,0.45999999999999996
+Sinérgico,JVIMP (Wright),3,0.52
+Sinérgico,JVIMP (Wright),4,0.555
+Sinérgico,JVIMP (Wright),5,0.5825
+Sinérgico,JVIMP (Wright),6,0.61
+Sinérgico,JVIMP (Wright),7,0.6425000000000001
+Sinérgico,JVIMP (Wright),8,0.65
+Sinérgico,JVIMP (Wright),9,0.6775
+Sinérgico,JVIMP (Wright),10,0.6875
+Sinérgico,PPI (Wright),1,0.5425
+Sinérgico,PPI (Wright),2,0.5725
+Sinérgico,PPI (Wright),3,0.6125
+Sinérgico,PPI (Wright),4,0.6425000000000001
+Sinérgico,PPI (Wright),5,0.6499999999999999
+Sinérgico,PPI (Wright),6,0.675
+Sinérgico,PPI (Wright),7,0.69
+Sinérgico,PPI (Wright),8,0.7125
+Sinérgico,PPI (Wright),9,0.7225
+Sinérgico,PPI (Wright),10,0.7350000000000001
+Redundante,EBM (nativo),1,0.465
+Redundante,EBM (nativo),2,0.5575
+Redundante,EBM (nativo),3,0.5825
+Redundante,EBM (nativo),4,0.615
+Redundante,EBM (nativo),5,0.625
+Redundante,EBM (nativo),6,0.635
+Redundante,EBM (nativo),7,0.64
+Redundante,EBM (nativo),8,0.6425
+Redundante,EBM (nativo),9,0.6425
+Redundante,EBM (nativo),10,0.645
+Redundante,H de Friedman (nativo),1,0.27749999999999997
+Redundante,H de Friedman (nativo),2,0.37
+Redundante,H de Friedman (nativo),3,0.4125
+Redundante,H de Friedman (nativo),4,0.46749999999999997
+Redundante,H de Friedman (nativo),5,0.5175000000000001
+Redundante,H de Friedman (nativo),6,0.5549999999999999
+Redundante,H de Friedman (nativo),7,0.6075
+Redundante,H de Friedman (nativo),8,0.6525000000000001
+Redundante,H de Friedman (nativo),9,0.6875
+Redundante,H de Friedman (nativo),10,0.72
+Redundante,Régua · RF (|I|),1,0.245
+Redundante,Régua · RF (|I|),2,0.2725
+Redundante,Régua · RF (|I|),3,0.2875
+Redundante,Régua · RF (|I|),4,0.3225
+Redundante,Régua · RF (|I|),5,0.3375
+Redundante,Régua · RF (|I|),6,0.34750000000000003
+Redundante,Régua · RF (|I|),7,0.385
+Redundante,Régua · RF (|I|),8,0.42
+Redundante,Régua · RF (|I|),9,0.4425
+Redundante,Régua · RF (|I|),10,0.4775
+Redundante,JVIMP (Wright),1,0.17
+Redundante,JVIMP (Wright),2,0.2
+Redundante,JVIMP (Wright),3,0.2275
+Redundante,JVIMP (Wright),4,0.245
+Redundante,JVIMP (Wright),5,0.265
+Redundante,JVIMP (Wright),6,0.29000000000000004
+Redundante,JVIMP (Wright),7,0.30000000000000004
+Redundante,JVIMP (Wright),8,0.3225
+Redundante,JVIMP (Wright),9,0.3525
+Redundante,JVIMP (Wright),10,0.38749999999999996
+Redundante,PPI (Wright),1,0.045
+Redundante,PPI (Wright),2,0.09
+Redundante,PPI (Wright),3,0.135
+Redundante,PPI (Wright),4,0.1575
+Redundante,PPI (Wright),5,0.1625
+Redundante,PPI (Wright),6,0.1825
+Redundante,PPI (Wright),7,0.19
+Redundante,PPI (Wright),8,0.20750000000000002
+Redundante,PPI (Wright),9,0.22
+Redundante,PPI (Wright),10,0.22999999999999998
+Sem interação,EBM (nativo),1,0.055
+Sem interação,EBM (nativo),2,0.1175
+Sem interação,EBM (nativo),3,0.195
+Sem interação,EBM (nativo),4,0.24
+Sem interação,EBM (nativo),5,0.28500000000000003
+Sem interação,EBM (nativo),6,0.3175
+Sem interação,EBM (nativo),7,0.3375
+Sem interação,EBM (nativo),8,0.3575
+Sem interação,EBM (nativo),9,0.38749999999999996
+Sem interação,EBM (nativo),10,0.41
+Sem interação,H de Friedman (nativo),1,0.1225
+Sem interação,H de Friedman (nativo),2,0.18
+Sem interação,H de Friedman (nativo),3,0.2475
+Sem interação,H de Friedman (nativo),4,0.29500000000000004
+Sem interação,H de Friedman (nativo),5,0.3475
+Sem interação,H de Friedman (nativo),6,0.3975
+Sem interação,H de Friedman (nativo),7,0.435
+Sem interação,H de Friedman (nativo),8,0.48250000000000004
+Sem interação,H de Friedman (nativo),9,0.515
+Sem interação,H de Friedman (nativo),10,0.535
+Sem interação,Régua · RF (|I|),1,0.16749999999999998
+Sem interação,Régua · RF (|I|),2,0.2325
+Sem interação,Régua · RF (|I|),3,0.285
+Sem interação,Régua · RF (|I|),4,0.32999999999999996
+Sem interação,Régua · RF (|I|),5,0.3775
+Sem interação,Régua · RF (|I|),6,0.42
+Sem interação,Régua · RF (|I|),7,0.455
+Sem interação,Régua · RF (|I|),8,0.48250000000000004
+Sem interação,Régua · RF (|I|),9,0.5125
+Sem interação,Régua · RF (|I|),10,0.545
+Sem interação,JVIMP (Wright),1,0.125
+Sem interação,JVIMP (Wright),2,0.195
+Sem interação,JVIMP (Wright),3,0.24
+Sem interação,JVIMP (Wright),4,0.28
+Sem interação,JVIMP (Wright),5,0.3225
+Sem interação,JVIMP (Wright),6,0.36250000000000004
+Sem interação,JVIMP (Wright),7,0.41000000000000003
+Sem interação,JVIMP (Wright),8,0.4475
+Sem interação,JVIMP (Wright),9,0.47
+Sem interação,JVIMP (Wright),10,0.5025
+Sem interação,PPI (Wright),1,0.2775
+Sem interação,PPI (Wright),2,0.32
+Sem interação,PPI (Wright),3,0.3675
+Sem interação,PPI (Wright),4,0.4275
+Sem interação,PPI (Wright),5,0.4475
+Sem interação,PPI (Wright),6,0.47750000000000004
+Sem interação,PPI (Wright),7,0.5075000000000001
+Sem interação,PPI (Wright),8,0.5375
+Sem interação,PPI (Wright),9,0.55
+Sem interação,PPI (Wright),10,0.565

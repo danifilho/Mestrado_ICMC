@@ -1,0 +1,28 @@
+#!/bin/bash --login
+#SBATCH --job-name=p7e1
+#SBATCH --partition=scavenger
+#SBATCH --qos=scavenger
+#SBATCH --account=scavenger
+#SBATCH --requeue
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=6G
+#SBATCH --time=12:00:00
+#SBATCH --output=resultados/logs/slurm/%x_%A_%a.out
+# Etapa 1. PARTE=R (src/etapa1.R) ou PARTE=PY (src/etapa1_py.py). Fila scavenger (não consome a cota; pode ser
+# interrompida e recolocada na fila: a retomada é por repetição, os rep*.csv já gravados são pulados).
+# Uso: sbatch --array=1-N --export=ALL,ETAPA=<etapa1|piloto1>,PARTE=<R|PY> scripts/rodar_etapa1.sb
+cd $SLURM_SUBMIT_DIR
+E=/mnt/gs21/scratch/dasilvaf/conda_envs/preditores
+export OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1 P7_RAIZ=$PWD
+export NID_DIR=$PWD/fontes/nid/neural-interaction-detection
+TJ=$(sed -n "${SLURM_ARRAY_TASK_ID}p" resultados/logs/tarefas/$ETAPA/lista.txt)
+LOG=resultados/logs/slurm/$(basename $TJ .json)_${ETAPA}_${PARTE}.log
+if [ "$PARTE" = "R" ]; then
+  PATH=$E/bin:$PATH /usr/bin/time -v Rscript src/etapa1.R $TJ >> $LOG 2>&1
+else
+  /usr/bin/time -v /mnt/gs21/scratch/dasilvaf/p7_pyenv/bin/python src/etapa1_py.py $TJ >> $LOG 2>&1
+fi
+st=$?
+echo -e "$(date -Is)\t$ETAPA\t$PARTE\t$TJ\t$st\t$SLURM_JOB_ID\t$SLURM_ARRAY_TASK_ID\t$SLURM_RESTART_COUNT" >> resultados/logs/execucoes.tsv
+[ $st -ne 0 ] && echo -e "$(date -Is)\t$ETAPA\t$PARTE\t$TJ\t$st\t$SLURM_JOB_ID\t$SLURM_ARRAY_TASK_ID" >> resultados/logs/falhas.tsv
+exit $st
