@@ -70,3 +70,8 @@ O pesquisador confirmou o escopo: somente o último teste baseado nos 20 pares d
 ## 18/11/2026 — revisão dos artigos de IF, iRF, RSRF e PRF
 
 A pedido do pesquisador, criada uma [página dedicada](Algoritmos-IF-iRF-RSRF-PRF) com definições operacionais, procedimentos de busca, desenhos experimentais, recortes numéricos e limites dos resultados. Fontes primárias e versões identificadas; consulta do manuscrito IF TR237, iRF v4, RSRF teórico v2 e empírico v2, PRF v3. Tabelas numéricas conferidas nos PDFs. Exemplos didáticos identificados como elaboração própria; nenhuma nova execução. A revisão não presume equivalência entre prever, priorizar conjuntos e decompor efeitos funcionais.
+
+
+## 19/11/2026 — Documentação integral do Piloto 7
+
+[Etapas 0 e 1, dados, outputs, figuras e código](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Wright-Documentacao-integral). Inclui reprodução estatística, adaptação dos detectores, quatro figuras locais, quatro do artigo, atlas S1–S124, sensibilidade posterior de empates e plano A–D. Escala adiada para pós-qualificação. Código A–D localizado é preparatório; não há resultado final reivindicado. Históricos preservados.

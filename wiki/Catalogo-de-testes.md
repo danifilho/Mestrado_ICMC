@@ -45,3 +45,8 @@ Repetir com novas sementes; avaliar componentes quase nulos e empates; permitir 
 ## Fontes e data
 
 Consolidação em 12/11/2026. Cada linha remete aos arquivos dos [pilotos 3 e 4 no commit original](https://github.com/danifilho/Mestrado_ICMC/tree/dbd89c6f516b0aa63e0109357346f4edc0ed4b46). As interpretações foram extraídas dos relatórios preservados, com conferência de contagens e integridade descrita em [Reprodução](Reproducao-e-rastreabilidade.md).
+
+
+## 19/11/2026 — Documentação integral do Piloto 7
+
+[Etapas 0 e 1, dados, outputs, figuras e código](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Wright-Documentacao-integral). Inclui reprodução estatística, adaptação dos detectores, quatro figuras locais, quatro do artigo, atlas S1–S124, sensibilidade posterior de empates e plano A–D. Escala adiada para pós-qualificação. Código A–D localizado é preparatório; não há resultado final reivindicado. Históricos preservados.

@@ -20,3 +20,12 @@
 - [Drosophila S1 — guia detalhado das cinco figuras](Drosophila-S1-Guia-das-figuras)
 
 - [IF, iRF, RSRF e PRF — métodos, definições e resultados dos artigos](Algoritmos-IF-iRF-RSRF-PRF)
+
+
+## Piloto 7 — Wright e régua global
+
+- [Documentação integral: Etapas 0 e 1](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Wright-Documentacao-integral)
+- [Dados e dicionário de outputs](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Dados-e-outputs)
+- [Figuras principais comentadas](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Figuras-comentadas)
+- [Atlas S1–S124 de Wright](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Atlas-Wright)
+- [Código e reprodução](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Codigo-e-reproducao)
