@@ -75,3 +75,8 @@ A pedido do pesquisador, criada uma [página dedicada](Algoritmos-IF-iRF-RSRF-PR
 ## 19/11/2026 — Documentação integral do Piloto 7
 
 [Etapas 0 e 1, dados, outputs, figuras e código](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Wright-Documentacao-integral). Inclui reprodução estatística, adaptação dos detectores, quatro figuras locais, quatro do artigo, atlas S1–S124, sensibilidade posterior de empates e plano A–D. Escala adiada para pós-qualificação. Código A–D localizado é preparatório; não há resultado final reivindicado. Históricos preservados.
+
+
+## 23/11/2026 — Seleção arbórea e auditoria prospectiva
+
+[Critérios, mapa de 59 registros, auditoria de sete procedimentos, custos e congelamento documental](https://github.com/danifilho/Mestrado_ICMC/wiki/Selecao-arborea-e-protocolo). As verificações técnicas passaram nos dois tamanhos. Seleção operacional delimitada, com pendências bibliográficas explícitas. Prioridade aos padrões dos autores; orçamento ainda por definir. Nenhuma nova avaliação científica executada.

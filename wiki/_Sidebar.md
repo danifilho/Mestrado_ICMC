@@ -29,3 +29,5 @@
 - [Figuras principais comentadas](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Figuras-comentadas)
 - [Atlas S1–S124 de Wright](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Atlas-Wright)
 - [Código e reprodução](https://github.com/danifilho/Mestrado_ICMC/wiki/Piloto-7-Codigo-e-reproducao)
+
+- [Seleção arbórea, auditoria e protocolo prospectivo](https://github.com/danifilho/Mestrado_ICMC/wiki/Selecao-arborea-e-protocolo)
