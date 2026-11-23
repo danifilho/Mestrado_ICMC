@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "date": "2026-11-23",
+  "status": "DOCUMENTACAO_E_SELECAO_OPERACIONAL_CONGELADAS",
+  "scientific_evaluation_authorized": false,
+  "scientific_evaluation_executed": false,
+  "selected_models": [
+    "RF",
+    "IF",
+    "iRF",
+    "RPF",
+    "UFO",
+    "RLT",
+    "EBM"
+  ],
+  "scope": "coorte operacional delimitada; mapeamento dirigido não exaustivo",
+  "technical_checks": {
+    "method_size_cases": 14,
+    "checks_per_case": 8,
+    "gauge_checks": 10,
+    "control_checks": 5
+  },
+  "release_conditions": [
+    "Definir teto a partir da estimativa e do perfil na infraestrutura escolhida, mantendo a prioridade pelos padrões dos autores.",
+    "Integrar e testar o adaptador do gerador, a aplicação completa da régua e o código de análise antes dos dados científicos.",
+    "Confirmar que novos ajustes mantêm versões e configurações aqui fixadas; mudanças exigem nova versão anterior à avaliação."
+  ],
+  "literature_limitations": [
+    "GUIDE, RIF, SNPInterForest e demais candidatos não auditados não foram declarados inferiores nem inexistentes.",
+    "Esta seleção não pretende representar estatisticamente todos os métodos arbóreos."
+  ],
+  "historical_results_known": true,
+  "note": "Congelamento prospectivo para a versão documental; não é pré-registro retrospectivo do Piloto 7."
+}

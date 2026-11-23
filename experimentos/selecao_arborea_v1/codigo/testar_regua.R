@@ -1,0 +1,19 @@
+root<-normalizePath(commandArgs(TRUE)[1]);source(file.path(root,'codigo/regua_comum.R'))
+X<-data.frame(a=c(0,0,1,1),b=c(0,1,0,1),c=c(1,0,1,0));y<-c(0,1,1,0)
+perms<-list(4:1,c(2L,1L,4L,3L));snapshot<-serialize(X,NULL)
+constant<-function(z)rep(.5,nrow(z))
+f<-function(z)plogis(.2*z$a+.3*z$b)
+g<-regua_comum(f,X,y,perms)
+null<-regua_comum(constant,X,y,perms)
+checks<-c(constante_zero=all(null$delta_ab==0 & null$contrast==0),
+ mesmo_modelo=identical(g,regua_comum(f,X,y,perms)),
+ dados_preservados=identical(snapshot,serialize(X,NULL)),
+ tres_pares=nrow(g)==3,
+ identidade_contraste=all(abs(g$contrast-(g$delta_ab-g$delta_a-g$delta_b))<1e-14),
+ empate_total_nao_informativo=length(top_com_empates(rep(1,3),1))==0,
+ empate_fronteira_incluido=identical(top_com_empates(c(3,2,2,1),2),1:3),
+ jaccard_identico=jaccard(1:3,1:3)==1,
+ jaccard_disjunto=jaccard(1:2,3:4)==0,
+ predicao_constante_nao_interpretada=is.na(jaccard(integer(),1:3)))
+stopifnot(all(checks))
+jsonlite::write_json(as.list(checks),file.path(root,'resultados/testes_regua.json'),auto_unbox=TRUE,pretty=TRUE)

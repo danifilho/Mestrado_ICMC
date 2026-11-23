@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": {
+    "probabilities": true,
+    "same_seed": true,
+    "serialization": true,
+    "row_order": true,
+    "input_unchanged": true,
+    "permute_A": true,
+    "permute_B": true,
+    "permute_AB": true
+  },
+  "fit_seconds": 0.573,
+  "version": "0.5.0.9000",
+  "config": {
+    "max_interaction": 2,
+    "loss": "logit",
+    "nthreads": 1
+  },
+  "formal_defaults": ["$x", "", "", "$...", "", ""],
+  "method": "RPF",
+  "n": 120,
+  "p": 8,
+  "total_seconds": 0.784
+}

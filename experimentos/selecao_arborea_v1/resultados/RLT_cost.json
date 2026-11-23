@@ -1,0 +1,16 @@
+{
+  "method": "RLT",
+  "n": 1000,
+  "p": 100,
+  "status": "PROFILED",
+  "fit_seconds": 49.049,
+  "predict_1000_seconds": 0.0119,
+  "config": {
+    "model": "classification",
+    "reinforcement": true,
+    "ntrees": 100,
+    "use.cores": 1,
+    "importance": false
+  },
+  "version": "3.2.6"
+}

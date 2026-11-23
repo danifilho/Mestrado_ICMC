@@ -1,0 +1,17 @@
+{
+  "method": "UFO",
+  "n": 1000,
+  "p": 100,
+  "status": "PROFILED",
+  "fit_seconds": 313.194,
+  "predict_1000_seconds": 5.5173,
+  "config": {
+    "num.trees": 20000,
+    "num.cand.trees": 500,
+    "importance": "none",
+    "probability": true,
+    "num.threads": 1,
+    "verbose": false
+  },
+  "version": "0.2.0"
+}

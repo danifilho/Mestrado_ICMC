@@ -1,0 +1,18 @@
+{
+  "method": "iRF",
+  "n": 1000,
+  "p": 100,
+  "status": "PROFILED",
+  "fit_seconds": 11.698,
+  "predict_1000_seconds": 0.0337,
+  "config": {
+    "ntree": 500,
+    "n.iter": 5,
+    "iter.return": 5,
+    "int.return": {},
+    "signed": false,
+    "n.core": 1,
+    "verbose": false
+  },
+  "version": "3.0.0"
+}

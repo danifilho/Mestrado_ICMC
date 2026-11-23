@@ -1,0 +1,9 @@
+{
+  "method": "EBM",
+  "n": 1000,
+  "p": 100,
+  "status": "PROFILED",
+  "fit_seconds": 22.069280707997677,
+  "predict_1000_seconds": 0.0019211541999538894,
+  "version": "0.7.8"
+}

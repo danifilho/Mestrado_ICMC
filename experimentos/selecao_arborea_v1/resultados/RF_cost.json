@@ -1,0 +1,14 @@
+{
+  "method": "RF",
+  "n": 1000,
+  "p": 100,
+  "status": "PROFILED",
+  "fit_seconds": 0.565,
+  "predict_1000_seconds": 0.0678,
+  "config": {
+    "num.trees": 500,
+    "probability": true,
+    "num.threads": 1
+  },
+  "version": "0.18.0"
+}

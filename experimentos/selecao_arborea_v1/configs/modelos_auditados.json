@@ -1,0 +1,98 @@
+{
+  "RF": {
+    "version": "0.18.0",
+    "config": {
+      "num.trees": 500,
+      "probability": true,
+      "num.threads": 1
+    }
+  },
+  "IF": {
+    "version": "0.6.0",
+    "config": {
+      "num.trees": 2000,
+      "importance": "none",
+      "probability": true,
+      "num.threads": 1,
+      "verbose": false
+    }
+  },
+  "iRF": {
+    "version": "3.0.0",
+    "config": {
+      "ntree": 500,
+      "n.iter": 5,
+      "iter.return": 5,
+      "int.return": {},
+      "signed": false,
+      "n.core": 1,
+      "verbose": false
+    }
+  },
+  "RPF": {
+    "version": "0.5.0.9000",
+    "config": {
+      "max_interaction": 2,
+      "loss": "logit",
+      "nthreads": 1
+    }
+  },
+  "UFO": {
+    "version": "0.2.0",
+    "config": {
+      "num.trees": 20000,
+      "num.cand.trees": 500,
+      "importance": "none",
+      "probability": true,
+      "num.threads": 1,
+      "verbose": false
+    }
+  },
+  "RLT": {
+    "version": "3.2.6",
+    "config": {
+      "model": "classification",
+      "reinforcement": true,
+      "ntrees": 100,
+      "use.cores": 1,
+      "importance": false
+    }
+  },
+  "EBM": {
+    "version": "0.7.8",
+    "config": {
+      "callback": null,
+      "cat_smooth": 10.0,
+      "cyclic_progress": false,
+      "early_stopping_rounds": 100,
+      "early_stopping_tolerance": 1e-05,
+      "exclude": null,
+      "feature_names": null,
+      "feature_types": null,
+      "gain_scale": 5.0,
+      "greedy_ratio": 10.0,
+      "inner_bags": 0,
+      "interaction_smoothing_rounds": 75,
+      "interactions": "3x",
+      "learning_rate": 0.015,
+      "max_bins": 1024,
+      "max_delta_step": 0.0,
+      "max_interaction_bins": 64,
+      "max_leaves": 2,
+      "max_rounds": 50000,
+      "min_cat_samples": 10,
+      "min_hessian": 0.0001,
+      "min_samples_leaf": 4,
+      "missing": "separate",
+      "monotone_constraints": null,
+      "n_jobs": 1,
+      "objective": "log_loss",
+      "outer_bags": 14,
+      "random_state": 808031,
+      "reg_alpha": 0.0,
+      "reg_lambda": 0.0,
+      "smoothing_rounds": 75,
+      "validation_size": 0.15
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "checks": {
+    "probabilities": true,
+    "same_seed": true,
+    "serialization": true,
+    "row_order": true,
+    "input_unchanged": true,
+    "permute_A": true,
+    "permute_B": true,
+    "permute_AB": true
+  },
+  "fit_seconds": 11.263,
+  "version": "3.0.0",
+  "config": {
+    "ntree": 500,
+    "n.iter": 5,
+    "iter.return": 5,
+    "int.return": {},
+    "signed": false,
+    "n.core": 1,
+    "verbose": false
+  },
+  "formal_defaults": ["$x", "", "", "$y", "", "", "$xtest", "NULL", "", "$ytest", "NULL", "", "$n.iter", "[1] 5", "", "$ntree", "[1] 500", "", "$mtry", "floor(sqrt(ncol(x)))", "", "$mtry.select.prob", "rep(1, ncol(x))", "", "$iter.return", "n.iter", "", "$int.return", "NULL", "", "$select.iter", "[1] FALSE", "", "$rit.param", "list(depth = 5, ntree = 500, nchild = 2, class.id = 1, min.nd = 1, ", "    class.cut = NULL)", "", "$varnames.grp", "colnames(x)", "", "$n.bootstrap", "[1] 1", "", "$bs.sample", "NULL", "", "$weights", "rep(1, nrow(x))", "", "$signed", "[1] TRUE", "", "$oob.importance", "[1] TRUE", "", "$type", "[1] \"randomForest\"", "", "$verbose", "[1] TRUE", "", "$n.core", "[1] 1", "", "$interactions.return", "NULL", "", "$wt.pred.accuracy", "NULL", "", "$...", "", ""],
+  "method": "iRF",
+  "n": 1000,
+  "p": 100,
+  "total_seconds": 22.095
+}

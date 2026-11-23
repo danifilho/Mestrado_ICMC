@@ -1,0 +1,12 @@
+{
+  "constante_zero": true,
+  "mesmo_modelo": true,
+  "dados_preservados": true,
+  "tres_pares": true,
+  "identidade_contraste": true,
+  "empate_total_nao_informativo": true,
+  "empate_fronteira_incluido": true,
+  "jaccard_identico": true,
+  "jaccard_disjunto": true,
+  "predicao_constante_nao_interpretada": true
+}

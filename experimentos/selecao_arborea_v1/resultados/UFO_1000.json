@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "checks": {
+    "probabilities": true,
+    "same_seed": true,
+    "serialization": true,
+    "row_order": true,
+    "input_unchanged": true,
+    "permute_A": true,
+    "permute_B": true,
+    "permute_AB": true
+  },
+  "fit_seconds": 305.546,
+  "version": "0.2.0",
+  "config": {
+    "num.trees": 20000,
+    "num.cand.trees": 500,
+    "importance": "none",
+    "probability": true,
+    "num.threads": 1,
+    "verbose": false
+  },
+  "formal_defaults": ["$formula", "NULL", "", "$dependent.variable.name", "NULL", "", "$data", "NULL", "", "$num.trees", "[1] 20000", "", "$num.cand.trees", "[1] 500", "", "$probability", "[1] TRUE", "", "$importance", "[1] \"none\"", "", "$prop.best.splits", "NULL", "", "$min.node.size.root", "NULL", "", "$min.node.size", "NULL", "", "$max.depth.root", "NULL", "", "$max.depth", "NULL", "", "$prop.var.root", "NULL", "", "$mtry.sprout", "NULL", "", "$replace", "[1] FALSE", "", "$sample.fraction", "ifelse(replace, 1, 0.7)", "", "$case.weights", "NULL", "", "$class.weights", "NULL", "", "$inbag", "NULL", "", "$oob.error", "[1] TRUE", "", "$num.threads", "NULL", "", "$write.forest", "[1] TRUE", "", "$verbose", "[1] TRUE", ""],
+  "method": "UFO",
+  "n": 1000,
+  "p": 100,
+  "total_seconds": 633.085
+}

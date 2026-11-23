@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": {
+    "probabilities": true,
+    "same_seed": true,
+    "serialization": true,
+    "row_order": true,
+    "input_unchanged": true,
+    "permute_A": true,
+    "permute_B": true,
+    "permute_AB": true
+  },
+  "fit_seconds": 0.696,
+  "version": "0.18.0",
+  "config": {
+    "num.trees": 500,
+    "probability": true,
+    "num.threads": 1
+  },
+  "formal_defaults": ["$formula", "NULL", "", "$data", "NULL", "", "$num.trees", "[1] 500", "", "$mtry", "NULL", "", "$importance", "[1] \"none\"", "", "$write.forest", "[1] TRUE", "", "$probability", "[1] FALSE", "", "$min.node.size", "NULL", "", "$min.bucket", "NULL", "", "$max.depth", "NULL", "", "$replace", "[1] TRUE", "", "$sample.fraction", "ifelse(replace, 1, 0.632)", "", "$case.weights", "NULL", "", "$class.weights", "NULL", "", "$splitrule", "NULL", "", "$num.random.splits", "[1] 1", "", "$alpha", "[1] 0.5", "", "$minprop", "[1] 0.1", "", "$poisson.tau", "[1] 1", "", "$split.select.weights", "NULL", "", "$always.split.variables", "NULL", "", "$respect.unordered.factors", "NULL", "", "$scale.permutation.importance", "[1] FALSE", "", "$local.importance", "[1] FALSE", "", "$regularization.factor", "[1] 1", "", "$regularization.usedepth", "[1] FALSE", "", "$keep.inbag", "[1] FALSE", "", "$inbag", "NULL", "", "$holdout", "[1] FALSE", "", "$quantreg", "[1] FALSE", "", "$time.interest", "NULL", "", "$oob.error", "[1] TRUE", "", "$num.threads", "NULL", "", "$save.memory", "[1] FALSE", "", "$verbose", "[1] TRUE", "", "$node.stats", "[1] FALSE", "", "$seed", "NULL", "", "$na.action", "[1] \"na.learn\"", "", "$dependent.variable.name", "NULL", "", "$status.variable.name", "NULL", "", "$classification", "NULL", "", "$x", "NULL", "", "$y", "NULL", "", "$...", "", ""],
+  "method": "RF",
+  "n": 120,
+  "p": 8,
+  "total_seconds": 0.785
+}

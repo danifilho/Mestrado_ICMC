@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "checks": {
+    "probabilities": true,
+    "same_seed": true,
+    "serialization": true,
+    "row_order": true,
+    "input_unchanged": true,
+    "permute_A": true,
+    "permute_B": true,
+    "permute_AB": true
+  },
+  "fit_seconds": 49.618,
+  "version": "3.2.6",
+  "config": {
+    "model": "classification",
+    "reinforcement": true,
+    "ntrees": 100,
+    "use.cores": 1,
+    "importance": false
+  },
+  "formal_defaults": ["$x", "", "", "$y", "", "", "$censor", "NULL", "", "$model", "[1] \"regression\"", "", "$print.summary", "[1] 0", "", "$use.cores", "[1] 1", "", "$ntrees", "if (reinforcement) 100 else 500", "", "$mtry", "max(1, as.integer(ncol(x)/3))", "", "$nmin", "max(1, as.integer(log(nrow(x))))", "", "$alpha", "[1] 0.4", "", "$split.gen", "[1] \"random\"", "", "$nsplit", "[1] 1", "", "$resample.prob", "[1] 0.9", "", "$replacement", "[1] TRUE", "", "$npermute", "[1] 1", "", "$select.method", "[1] \"var\"", "", "$subject.weight", "NULL", "", "$variable.weight", "NULL", "", "$track.obs", "[1] FALSE", "", "$importance", "[1] TRUE", "", "$reinforcement", "[1] FALSE", "", "$muting", "-1", "", "$muting.percent", "if (reinforcement) MuteRate(nrow(x), ncol(x), speed = \"aggressive\", ", "    info = FALSE) else 0", "", "$protect", "as.integer(log(ncol(x)))", "", "$combsplit", "[1] 1", "", "$combsplit.th", "[1] 0.25", "", "$random.select", "[1] 0", "", "$embed.n.th", "4 * nmin", "", "$embed.ntrees", "max(1, -atan(0.01 * (ncol(x) - 500))/pi * 100 + 50)", "", "$embed.resample.prob", "[1] 0.8", "", "$embed.mtry", "1/2", "", "$embed.nmin", "as.integer(nrow(x)^(1/3))", "", "$embed.split.gen", "[1] \"random\"", "", "$embed.nsplit", "[1] 1", ""],
+  "method": "RLT",
+  "n": 1000,
+  "p": 100,
+  "total_seconds": 98.403
+}

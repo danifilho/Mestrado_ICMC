@@ -1,0 +1,182 @@
+[
+ {
+  "desenho": 1,
+  "model": "no_interaction",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 3,
+  "model": "no_interaction",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.4,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 4,
+  "model": "no_interaction",
+  "beta": 0.4,
+  "beta_effect": 0.8,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 7,
+  "model": "no_interaction",
+  "beta": 0.8,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 13,
+  "model": "synergistic",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 15,
+  "model": "synergistic",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.4,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 16,
+  "model": "synergistic",
+  "beta": 0.4,
+  "beta_effect": 0.8,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 19,
+  "model": "synergistic",
+  "beta": 0.8,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 25,
+  "model": "interaction_only",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 27,
+  "model": "interaction_only",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.4,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 28,
+  "model": "interaction_only",
+  "beta": 0.4,
+  "beta_effect": 0.8,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 31,
+  "model": "interaction_only",
+  "beta": 0.8,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 37,
+  "model": "modifier_snp1",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 39,
+  "model": "modifier_snp1",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.4,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 40,
+  "model": "modifier_snp1",
+  "beta": 0.4,
+  "beta_effect": 0.8,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 43,
+  "model": "modifier_snp1",
+  "beta": 0.8,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 61,
+  "model": "redundant",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 63,
+  "model": "redundant",
+  "beta": 0.4,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.4,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 64,
+  "model": "redundant",
+  "beta": 0.4,
+  "beta_effect": 0.8,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ },
+ {
+  "desenho": 67,
+  "model": "redundant",
+  "beta": 0.8,
+  "beta_effect": 0.4,
+  "maf_interaction": 0.2,
+  "maf_effect": 0.2,
+  "mtry": 50
+ }
+]
