@@ -13,7 +13,7 @@ assert all(json.loads((root/'resultados/testes_regua.json').read_text()).values(
 assert json.loads((root/'resultados/CONTROLES.json').read_text())['status']=='PASS'
 assert all((root/'resultados'/f'{m}_cost.json').exists() for m in methods)
 (root/'configs/modelos_auditados.json').write_text(json.dumps(registry,indent=2,ensure_ascii=False)+'\n')
-freeze={'version':'1.0','date':'2026-11-23','status':'DOCUMENTACAO_E_SELECAO_OPERACIONAL_CONGELADAS',
+freeze={'version':'1.0.1','date':'2026-11-23','status':'DOCUMENTACAO_E_SELECAO_OPERACIONAL_CONGELADAS',
  'scientific_evaluation_authorized':False,'scientific_evaluation_executed':False,
  'selected_models':methods,'scope':'coorte operacional delimitada; mapeamento dirigido não exaustivo',
  'technical_checks':{'method_size_cases':14,'checks_per_case':8,'gauge_checks':10,'control_checks':5},
